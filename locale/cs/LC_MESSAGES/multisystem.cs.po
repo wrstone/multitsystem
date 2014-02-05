@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Restart"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Restartovat počítač"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Stiskněte [Tab] pro možnosti bootování"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Obraz Boot CD dostupný,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Cesta"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Před startem systému, pokud je potřeba,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "vložte boot CD a usb klíčenku"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Chyba: následující jednotka je nedostupná:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Chyba: USB disk není stejný!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Chyba: grub.cfg poškozen"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Chyba: menu.lst poškozen"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Chyba: Název vybraného .ISO souboru obsahuje nepodporované znaky:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Chyba: Již existuje soubor se stejným názvem."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Chyba: Nepodařilo se zjistit značku:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Pro připojení je třeba administrátorských práv"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Chyba: Nepodařilo se připojit .ISO soubor"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Kopíruje se..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "prosím počkejte, aktualizuji GRUB"
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB potřebuje administrátorská práva"
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Chyba: LiveCD je již instalováno."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Stahuji..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>VAROVÁNÍ:</b> pro instalaci Mandrivy musí skript změnit\\nnázev USB disku. Nový název bude MANDRIVAONE.\\nNásledná změna názvu disku by znemožnila bootování Mandrivy\\n\\n<b>Odpojte/znovu připojte</b> prosím USB disk."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Chyba: Nezle stáhnout archiv."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Chyba: ISO prozatím není podporováno."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "Pro soubory .img jsou vyžadována administrátorská práva"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "kopíruji .ISO..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "Odstraňuji LiveCD."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Chyba: Nelze rozpoznat LiveCD."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "Vytvářím LiveCD."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "MultiSystem LiveCD vytvořen.\\nCesta:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Chyba: režim trvalých změn je již přítomný,\\n(povolen je pouze jeden)."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Chyba: vyberte prosím distribuci, do které\\nchcete přidat režim trvalých změn!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Chyba: nelze rozpoznat boot=casper, režim\\ntrvalých změn je rezervován distribucím založených na Ubuntu."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Velikost režimu trvalých změn v MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Vytvářím režim trvalých změn"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Aktualizace"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Odinstalace"
+
+#, sh-format
+msgid "Informations"
+msgstr "Informace"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Je USB klíčenka připojena?\\n\\nPřipojte prosím FAT32 formátovanou\\nUSB jednotku,\\npřipojte jí pod /media\\n\\na restartujte program."
+
+#, sh-format
+msgid "Valider"
+msgstr "Potvrdit"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Vyberte prosím USB jednotku\\nze seznamu níže.\\nPOZOR!,\\ndo MBR bude nainstalován Grub2.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Zařízení|Výrobce|Model|Velikost|Použito|Volné|Sběrnice|Ovladač"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Zrušit"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Chyba: Máte práva zapisování do složky?:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Zavřít"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Chyba: chybí: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Chyba: špatná sběrnice"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "nastavení GRUB"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Přidat režim trvalých změn"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "Stáhnout LiveCD"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Testovat v Qemu"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Bootovat z Grub/Grub2"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Bootovat z Windows XP"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Bootovat z Windows Vista"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Bootovat z MacIntel"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "Vytvořit MultiSystem LiveCD"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "Testovat LiveCD v Qemu"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Ukončit"
+
+#, sh-format
+msgid "Menus"
+msgstr "Menu"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB jednotka :"
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Přípojný bod:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "Velikost:"
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Použito:"
+
+#, sh-format
+msgid "Libre:"
+msgstr "Volné:"
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Počet LiveCD:"
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Sem přetáhněte .ISO nebo .img"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Upravit konfigurační soubor Grub2 .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "Upravit konfigurační soubor grub4dos .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Vybrat obrázek na pozadí Grub2"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hex|Nadpis"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Barva textu"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Barva pozadí"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Barva textu zvolené položky"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Barva pozadí zvolené položky"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Chyba: Vámi zvolená položka zřejmě není PNG."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Chyba: Nelze konvertovat na 640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Chyba: MultiSystem je již instalován."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "Chyba: MultiSystem musí být instalován z: /tmp/multisystem/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Chyba: Instalace musí být spuštěna přes sudo."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Vytvořit spouštěč v Menu (Aplikace/Příslušenství/MultiSystem LiveUSB)"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Nastavit spouštěč v Menu (Aplikace/Příslušenství/MultiSystem LiveUSB)"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Nyní pro spuštění používejte\\nMenu: Aplikace -> Příslušenství -> MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu vyžaduje administrátorská práva"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Spustit Qemu CLE_USB:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Instalovat qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Kompilovat a instalovat kqemu (akcelerovaný)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "Dostupná RAM: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Chyba: nedostatek RAM:$RAM_LIBRE vyžadováno alespoň:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Spustit Qemu pro kontrolu boot sektoru"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Chyba: Odinstalace je dostupná pouze pokud je MultiSystem instalovaný."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Chyba: Odinstalace musí být spuštěna přes sudo."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Vyberte prosím ze seznamu"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Funkce pro spuštění"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "Potvrďte odinstalaci MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Nebo se vraťte zpět"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "MultiSystem úspěšně odinstalován."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Chyba: Aktualizace je dostupná pouze pokud je MultiSystem instalovaný."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Chyba: Aktualizace musí být spuštěna přes sudo."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Neaktualizovat skript"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Aktualizovat skript"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Chyba: Nelze stáhnout soubor version-multisystem.txt"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Hledat aktualizace"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Nejsou dostupné žádné\\naktualizace, používáte poslední verzi skriptu."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Chyba: Nelze zjistit verzi MultiSystem."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Odstranit Plop z Grub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Přidat Plop do Grub/Grub2"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Tato utilita umožňuje přidání, či odebrání\\nzavaděče Plop z/do boot manažeru\\n(pokud používáte Grub, či Grub2.\\n\\nSpouštějte svůj multisystem USB disk snadno a rychle."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "Bootovat MultiSystem LiveUSB z Intel Mac.\\nTato možnost není testována a nebyla nám zaslána žádná zpětná vazba.\\nZašlete nám prosím Vaší zpětnou vazbu, pokud možnost otestujete ...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "Stáhnout rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Přidat položku pro start MultiSystému do zavaděče\\nWindows vista/7.\\n\\n- Po nabootování Windows stáhněte EasyBCD, připojte\\nUSB disk a spusťte EasyBCD.\\n- Klikněte na \"Add/Remove Entries\" (přidat nebo odebrat\\npoložky).\\n- Vyberte záložku LINUX a nastavte následovně:\\nType: GRUB\\nName: LiveUSB\\nDrive: (vyberte oddíl 0 vaší USB klíčenky)\\nnezaškrtávejte! \"GRUB isn\\047t installed to the boot sector\"\\nKlikněte na: \"+ Add Entry\"\\nKlikněte na: \"Save\"\\n\\n\\nObrazový průvodce:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\n\\n- Při dalším startu systému vyberte LiveUSB a zobrazí se výzva.\\nk výběru jednotky.\\n- Stiskněte enter.\\n\\nDalší metodou je přidat do zavaděče windows utilitu plop bootloader\\n(viz.: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "Stáhnout EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Přidat zavaděč PLOP\\ndo Windows Vista zavaděče\\n(viz.: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Přidat zavaděč PLOP do Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Upravuji ramdisk, počkejte prosím..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Vypalte obraz CD\\nCesta: $HOME/cd-boot-liveusb.iso\\n(kontextová nabídka, vypálit CD...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(kontextová nabídka, vypálit CD...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Chyba:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Jsou vyžadována administrátorská práva"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Chyba: syslinux.cfg je poškozený"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Chyba: Pro tuto distribuci není k dispozici režim trvalých změn"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Filtrovat"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Povolit trvalé překrývání"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Separování domácí složky"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Šifrovat data"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Separovat domácí složky v režimu trvalých změn"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Chyba: nedostatek místa:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Šifrovat data v domácí složce"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Změna jazyka"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Změnit jazyk"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "Překlad souboru .po"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Probíhá zpracování..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Testovat ve VirtualBox"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Boot"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Chyba: nedostatek volné paměti RAM:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Stiskněte enter pro pokračování"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "POZOR!\\nBudete instalovat\\n nesvobodnou verzi VirtualBox (ne-open-source)"
+
+#, sh-format
+msgid "Installer"
+msgstr "Instalovat"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Připojte USB disk znovu (ručně)"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "Otestovat LiveCD ve VirtualBox"
+
+#, sh-format
+msgid "Tester"
+msgstr "Otestovat"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "Přidat liveCD"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "Otevřít VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Kontrolovat aktualizace při každém spuštění"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "Editovat nastavení syslinux (.../syslinux.cfg)"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Barva pozadí"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Barva rámu"
+
+#, sh-format
+msgid "Créer"
+msgstr "Vytvořit"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Otestovat liveusb v Qemu"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Otestovat LiveCD ve VirtualBox"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "POZOR!\\nBude se formátovat\\nVýměnná jednotka:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nVeškerý obsah bude\\nnenávratně smazán.."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "Formátovat USB disk"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Původní pozadí"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Zrcadlit svisle"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Odstranit pozadí"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Zrcadlit vodorovně"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Původní"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Chyba: Použijte prosím správce balíků."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Vytvořit spouštěč v menu:/Aplikace/Příslušenství/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "Nastavit spouštěč v menu:/Aplikace/Příslušenství/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Pozor, odstraňujete:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Dotazovat se před smazáním"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Odstranit operační systém"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Chyba - vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Chyba - disk"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Chyba - /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Chyba"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Chyba - virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Aktualizovat Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "Vytvořit CD pro spuštění USB"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Je dostupná aktualizace"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "Instalovat VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Stiskněte libovolnou klávesu ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Nebyla vybrána žádná položka!"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Změnit velikost"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Odstranit obsah"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Pozor!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "odstraňujete obsah z:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Chyba: nelze připojit jednotku:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Změnit velikost režimu trvalých změn"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Debug"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Probíhá test..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Chyba: nedostatek místa k provedení testu"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Pro pokračování stiskněte enter."
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted print"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "Ukázat mbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm info"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Verze Grub2"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "Opravit fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Test zapisování"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Test čtení"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Problém s právy zapisování,"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Chyba: Nelze detekovat soubor liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Chyba: Nejste root!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Chyba: nelze odstranit:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Chyba: Příkaz blkid nepracuje správně. Restartujte prosím sezení (odhlásit a znovu přihlásit)."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Chyba: MultiSystem neakceptuje mezery v názvu."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Přidat"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Červené téma"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Zelené téma"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Modré téma"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "  Současné téma:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Chyba: Nebyla vybrána žádná položka"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "POZOR!\\nsoubor autorun.inf byl upraven. Že by virus?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "POZOR!\\nsoubor multisystem.bat byl upraven. Že by virus?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Ukázat či skrýt soubory a složky na USB disku"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Zobrazit vše"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Skrýt vše"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "Obsah USB disku"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Ukázat či skrýt soubory a složky\\n(Funguje pouze v nautilu)."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Instaluji nesvobodný doplněk"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Nesvobodné"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Nesvobodné doplňky"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "ZavaděčPLoP je freeware (zdarma)."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "Stáhnout zavaděč PLoP"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Použito pro ISO BartPE (Win)"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Stáhnout Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Po příjmutí licenčních podmínek \\nnainstalujte zavaděč PLOP\\n(ten freeware - zdarma, ne však open-source).\\n\\nInstalace je k dispozici v menu: Nesvobodné => Instalace nesvobodné části => Stáhnout Plop zavaděč"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Chyba: Nainstalujte PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Chyba: Nainstalujte potřebné součásti z menu nesvobodné"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Použito pro start ISO souboru Windows XP"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "Stáhnout firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Vyberte USB disk, který bude použit\\n\\<span color='red'>POZOR!,\\nDo mbr bude nainstalován Grub2.\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Tato část skriptu je pro Ubuntu karmic a lucid"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Pozor! Instalujete Burg.\\nTento software je experimentální."
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Aktualizovat Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Vlastní téma"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Instalovat/Aktualizovat Burg (trpělivost)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Původní téma:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Výběr defaultního tématu"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Kopíruji..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Vlastní ikony"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Chyba stahování"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Chyba: Soubor se stejným názvem již existuje."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "váš USB disk neměl název. Multisystem to napravil,\\npročež prosím odpojte a znovu připojte USB disk(pro kontrolu změny)."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Odpojte/znovu připojte USB jednotku! (přípojný bod neodpovídá názvu jednotky)"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Podpořit projekt"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Nechci nic platit"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "MultiSystem je zdarma, ale jeho\\nvývoj už ne!. Pokud jej používáte často a přejete si\\naby jeho vývoj pokračoval, tak můžete podpořit \\njeho vývoj malým darem skrze paypal.\\n\\nDěkuji za podporu!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Dvakrát klikněte pro úpravu názvu v boot menu."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Záloha/obnova"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Záloha"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Obnova"
+
+#, sh-format
+msgid "de"
+msgstr "z"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "POZOR!\\nobnova permanentně odstraní veškerý obsah:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB disk:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID USB disku.:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "Velikost USB disku"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Zavřít toto okno"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Chyba: Spusťte MultiSystem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Chyba: záložní soubor již existuje."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Záloha vytvořena do souboru:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Vybrat záložní soubor."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Chyba: Nelze zjistit záložní soubor"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Chyba: příliš malý USB disk"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Obnova dokončena.\\nNež spustíte multisystém, tak odpojte / znovu\\npřipojte USB disk"
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Formátování dokončeno\\nNež spustíte multisystém, tak odpojte / znovu\\npřipojte USB disk"
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Chyba: Jednotka je používána jiným programem a není možné na ní zapisovat."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "O programu MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "O programu"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Překladatel"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "Hledáme překladatele. Pokud chcete přispět,\\nBudeme rádi, když nás kontaktujete:"
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Částečná aktualizace"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Přidat boot položku (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Povolit ikony v menu gnome ?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "Zařízení|Značka|Model|Velikost|Použito|Volné|Sběrnice|Ovladač|Přípojný bod"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr "Chyba: ISO je právě použito, nelze jej proto odstranit."
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr "Současná pozice"
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr "Pokud nefunguje 'Táhni a pusť' tak použijte toto tlačítko."
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr "Odškrtněte pro rychlé přesouvání položek v menu. POZOR: tímto se neobnovuje bootloader! Po posledním přesunu tuto volbu opět zaškrtněte pro aktualizaci bootloaderu."
+
+#, sh-format
+msgid "Titre"
+msgstr "Název"
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Prosím, potvrďte instalaci Grub2 na jednotku:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr "Chyba: Odstraňte prosím mezeru v cestě."
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr "Vrátit se domů"

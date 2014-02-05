@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Újraindítás"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "A számítógép újraindítása"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Nyomj [Tab]-ot a boot opciókhoz"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Bootolható CD kép elérhető,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Útvonal"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Ha szükséges, újraindítás előtt"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "helyezd be a boot CD-t és az USB kulcsot"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Hiba: a következő kötet nem elérhető:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Hiba: Ez nem ugyanaz az USB meghajtó!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Hiba: a grub.cfg fájl nem érényes"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Hiba: a menu.lst fájl nem érvényes"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Hiba: A kiválasztott .ISO neve nem támogatott karakter(eke)t tartalmaz:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Hiba: Egy azonos nevű fálj már található."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Hiba: Nem lehet felismerni a jelölőt:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Adminisztrátor jelszó szükséges a fájl csatolásához"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Hiba: Hiba az .ISO fálj csatolásakor"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "A másolás folyamatban..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "GRUB frissítése, kérlek várj..."
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "A GRUB használatához adminisztrátori jogok szükségesek."
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Hiba: a LiveCD már használatban van."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Letöltés folyamatban..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>FIGYELMEZTETÉS:</b> a Mandrivához a script át fogja nevezni\\naz USB kulcsod. Az új címke a következő: MANDRIVAONE.\\nNe változtasd meg ezt a címkét, mert a Mandriva nem fog bebootolni,\\n\\nKérlek <b>húzd ki, majd csatlakoztasd újra</b> az USB kulcsod. A rendszer az új címkét fogja mutatni."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Hiba: nem lehet letölteni a fájlt."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Hiba: ez az ISO nem támogatott."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "Az .img fájlokhoz adminisztrációs jogok szükségesek."
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "ISO másolása..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "LiveCD törlése."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Hiba: Nem lehet észlelni a LiveCD-t."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "A LiveCD készítése."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "A Te MultiSystem LiveCD-d elkészült!\\nÚtvonal:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Hiba: a folyamat már fut,\\negyszerre csak egy telepítés lehetséges."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Hiba: Kérlek válassz egy disztribúciót,\\namelyiket hozzá akarod adni az aktuális folyamathoz!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Hiba: Nem elérhető a boot=casper\\nA perzisztens mód az Ubuntu alapú disztribúcióknak van fenntartva."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "A perzisztens módban fenntartott hely MB-ban:"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Perzisztens mód létrehozása"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Frissítés"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Eltávolítás"
+
+#, sh-format
+msgid "Informations"
+msgstr "Információk"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Csatoltad az USB kulcsodat?\\n\\nKérlek helyezz be egy FAT32-re formatált\\nUSB kulcsot\\nés csatold ide: /media\\n\\nMajd indítsd újra a MultiSystem programot."
+
+#, sh-format
+msgid "Valider"
+msgstr "Alkalmaz"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Kérlek válaszd ki az USB kulcsod\\na következő listából.\\nFIGYELEM!,\\nA Grub2 a kulcs MBR-ébe fog települni.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Eszköz|Márka|Modell|Méret|Foglalt|Szabad|Bus|Driver"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Mégse"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Hiba: Nincs írási jogod a következő mappához:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Bezárás"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "HIba: hiányzik a következő:"
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Hiba: Hibás Bus"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "GRUB beállítások"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Perzisztens mód hozzáadása"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "LiveCDk letöltése"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Tesztelés QEMU-ban"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Bootolás Grub/Grub2-vel"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Bootolás Windows XP-ből"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Bootolás Windows Vista-ból"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Bootolás egy MacIntel-ből"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "MultiSystem LiveCD készítése"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "LiveCD tesztelése QEMU-ban"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Kilépés"
+
+#, sh-format
+msgid "Menus"
+msgstr "Menü"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB kötet: "
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Csatolás helye: "
+
+#, sh-format
+msgid "Taille:"
+msgstr "Méret: "
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Foglalt: "
+
+#, sh-format
+msgid "Libre:"
+msgstr "Szabad: "
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Összes LiveCD: "
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Válassz egy .iso vagy egy .img fájlt:"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Grub2 beállító fájl szerkesztése .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "Grub4dos beállító fájl szerkesztése .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Válassz Grub2 háttérképet"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hexa|Cím"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Szöveg színe"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Szöveg hátterének a színe"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Kijelölt szöveg színe"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Kijelölt szöveg hátterének a színe"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Hiba: Nem lehet felismerni. Egy PNG van kijelölve."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Hiba: Nem lehet a következő méretre konvertálni: 640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Hiba: a MultiSystem már telepítve van."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "Hiba: a MultiSystem telepítése nem innen fut: /tmp/multisystem/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Hiba: A telepítést a sudo paranccsal kell elvégezni."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Programinditó készítése a menüben:/Alkalmazások/Kellékek/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Indítóikon létrehozása a menüben:\\n /Alkalmazások/Kellékek/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "A script indítása a menüből:\\n /Alkalmazások/Kellékek/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "A Qemu-nak adminisztrációs jogokra van szüksége"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Qemu CLE_USB indítása:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Qemu telepítése"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Kqemu telepítése (folyamatban)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "Elérhető RAM: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Hiba: nincs elegendő memória:$RAM_LIBRE szükséges:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Qemu indítása a boot ellenőrzéséhez"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Hiba: Az eltávoltó csak a telepített MultiSystem-mel működik."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Hiba: Az eltávolításhoz a sudo parancs szükséges."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Kérlek válassz egyet a listából"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Parancs végrehajtása"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "MultiSystem eltávolítása"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "vagy ugrás a kezdőképre"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "A MultiSystem el lett távolítva."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Hiba: A frissítések csak telepített MultiSystem-nél érhetők el."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Hiba: A frissítéshez a sudo parancs szükséges."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Ne frissítse a scriptet"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Script frissítése"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Hiba: Nem lehet letölteni a következőt: version-multisystem.txt"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Frissítések keresése"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Nincs elérhető frissítés.\\nA script legfrissebb verzióját használod."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Hiba: Nem lehet beolvasni a MultiSystem verziót."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Plop törlése a Grub/Grub2-ből"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Plop hozzáadása Grub/Grub2-höz"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "A felület segít, hogy hozzáadd\\nvagy eltávolítsd a Plop bootloader-t\\na boot menedzseredből,\\namennyiben Grub-ot vagy Grub2-öt használsz.\\n\\nHasználd a MultiSystem LiveUSB-d könnyedén..."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "A MultiSystem LiveUSB bootolása egy IntelMac-ről\\nmég nincs tesztelve,\\nés még reakciók sem érkeztek.\\nKérlek írj, ha működik, vagy ha nem...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "rEFIt letöltése"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Adj hozzá a Windows Vista boot menüjéhez\\negy bejegyzést a LiveUSB indításához.\\n\\nA menete a következő: miután a Vista bebootolt\\ntöltsd le az EasyBCD-t,\\ncsatlakoztasd az USB kulcsod,\\nindítsd el az EasyBCD-t,\\nkattints az \"Add/Remove Entries\"-re,\\nválaszd a Linux fület,\\nállítsd be így:\\nType: GRUB\\nName: LiveUSB\\nDrive: (válaszd a 0 partíciót az USB kulcsodon)\\nne pipáld be! \"GRUB isn\\047t installed to the boot sector\"\\nkattits ide: \"+ Add Entry\"\\nmajd ide: \"Save\"\\nKész is vagy! .\\nScreen capture:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nKövetkező bootoláskor válaszd a LiveUSB-t,\\nkér a kötet csatolására,\\nmajd nyomj Entert.\\n\\nMásik megoldás,\\nA plop bootloader hozzáadása a Windows Vista boot menedzserhez\\nitt: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "EasyBCD letöltése"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "A plop bootloader hozzáadása\\n a Windows Vista boot menedzserhez\\nlásd: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "A plop Bootloader hozzáadása a Windows XP-hez"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Ramdisk módosítása folyamatban, kérlek várj..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Kérlek írd ki a CD képet\\nÚtvonal: $HOME/cd-boot-liveusb.iso\\n(jobb-klikk, lemez írása...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(jobb klikk, lemez írása...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Hiba:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Adminisztrátor jelszó szükséges"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Hiba: a syslinux.cfg fájl nem érvényes"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Hiba: a perzisztens mód nem elérhető ehhez a disztribúcióhoz"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Szürő:"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "A perzisztens átfedés engedélyezése"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Home elválasztás engedélyezése"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Adat titkosítás engedélyezése"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "A perzisztens home elkülönítésének engedélyezése"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Hiba: nincs elég hely:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "A home titkosítás engedélyezése"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Nyelv beállítása"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Nyelv váltás"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "Egy .po fájl fordítása"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Türelem, a folyamat elindult ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Tesztelés VirtualBox-ban"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Boot"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Hiba: Nincs elég szabad memória:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Nyomj Entert a folytatáshoz"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "FIGYELEM!\\nA nem szabad szoftver\\nVirtualBox-ot fogod telepíteni"
+
+#, sh-format
+msgid "Installer"
+msgstr "Telepítés"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Kérlek csatlakoztasd az USB kulcsod újra"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "LiveCD kipróbálása VirtualBox-ban"
+
+#, sh-format
+msgid "Tester"
+msgstr "Teszt"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "LiveCD hozzáadása"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "VirtualBox megnyitása"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Frissítések keresése minden indulásnál"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "A syslinux beállítófájl szerkesztése .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Háttérszín"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Előtér színe"
+
+#, sh-format
+msgid "Créer"
+msgstr "Létrehoz"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Liveusb tesztelése QEMU-ban"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Liveusb tesztelése VirtualBox-ban"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "FIGYELEM!\\nFormatálni fogod\\naz alábbi hordozható kötetet:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nMinden tartalom\\nvéglegesen törlődni fog."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "USB kulcs formázása"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Alapértelmezett háttérkép"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Függőleges tükrözés"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Háttérkép eltávolítása"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Vízszintes tükrözés"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Alapértelmezett"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Hiba: Kérlek, használd a csomagkezelőt."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Programindító készítése menübe:/Alkalmazások/Kellékek/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "MultiSystem indító menübe:\\n/Alkalmazások/Kellékek/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "A következőt fogod törölni:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Kérdés operációs rendszer eltávolítása előtt"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Operációs rendszer eltávolítása"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Hiba: vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Lemezhiba"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Hiba: /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Hiba a kezelésben."
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Hiba: virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Grub2 frissítése"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "CD létrehozása az USB indításához"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Egy MultiSystem frissítés elérhető"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "VirtualBox telepítése"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Nyomj egy gombot a folytatáshoz..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Nincs kiválasztva"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Átméretezés"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Tartalom törlése"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Figyelem!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "Eltávolítod a következő tartalmat:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Hiba: Nem lehet csatolni a kötetet:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Perzisztens mód átméretezése"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Hibakeresés"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Várakozás az aktuális tesztre..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Hiba: nincs elég memória a teszt végrehajtásához,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Várakozás, nyomj entert a folytatáshoz."
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted print"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "mbr megjelenítése"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm infó"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Grub2 verzió"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "Fat32 javítás"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Benchmark - Írás"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Benchmark - Olvasás"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Probléma a fájl írási jogával"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Hiba: Nem elérhető a liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Hiba: nincs root jog!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Hiba: Nem lehet törölni:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Hiba: A blkid parancs nem működik, kérlek indítsd újra a folyamatot."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Hiba: a MultiSystem nem kezeli a szóközt a címkében."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Hozzáadás"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Piros Téma"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Zöld Téma"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Kék Téma"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "  Jelenlegi téma:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Hiba: nincs kijelölés."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "FIGYELEM!\\nAz autorun.inf fájlt módosították. Lehet, hogy Vírusos?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "FIGYELEM!\\nA multisystem.bat fájlt módosították. Lehet, hogy Vírusos?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Fájlok és mappák megjelenítése/elrejtése"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Összes megjelenítése"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Összes elrejtése"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "Az USB kulcsod tartalma:"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Fájlok és mappák megjelenítése/elrejtése\\nCsak Nautilus-ban működik."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Non-free programok telepítése"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Non-Free"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "MultiSystem Non-Free részleg"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "A PLoP Boot Manager ingyenes."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "PLoP Boot Manager letöltése"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Felhasználás BartPE iso-hoz"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Microsoft Windows Server 2003 SP1 letöltése"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Kérlek telepítsd a \\\"PLOP Boot Manager-t\\\"\\nFogadd el a liszenszt, ugyanis\\n a Plop egy ingyenes, de nem szabad szoftver.\\n\\nA menüben elérheted: Non-free ==> Non-free telepítések ==> Plop Boot Manager letöltése"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Hiba: Kérlek telepítsd a PloP-t"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Hiba: Kérlek telepítsd a szükséges a fájlokat a Non-Free menüből"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Windows XP iso indításhoz"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "Firadisk.ima letöltése"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Kérlek válaszd ki az USB kulcsod\\naz alábbi listából!\\n\\<span color='red'>FIGYELEM:\\nA Grub2 az MBR-be lesz telepítve!\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "A script ezen része az Ubuntu Karmic-hoz és Lucid-hoz szükséges"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Figyelem! A Burg-ot fogod telepíteni,\\nez egy kísérleti szoftver."
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Burg frissítése"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Egyéni témák"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Burg telepítése/frissítése (Türelem!)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Alapértelmezett téma:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Válaszd ki az alapértelmezett témát!"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "A másolás folyamatban ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Egyéni ikonok"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Letöltési hiba"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Hiba: Egy azonos nevű fájl már használatban van."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "Nincs címkéje az USB kulcsodnak, a MultiSystem megoldja ezt a problámát,\\nkérlek húzd ki, majd csatlakoztasd az USB kulcsodat az ellenőrzéshez."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Húzd ki, majd csatlakoztad újra az USB kulcsod, mert a csatolási pont és a címke nem megegyező."
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Adományozás"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Ne adományozzon"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "MultiSystem egy szabad szoftver\\nde az elkészítése nem ingyenes!\\nHa gyakran használod\\nés támogatni szeretnél,\\nmegteheted a PayPal-on keresztül. \\n\\nElőre is KÖSZÖNÖM!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Dupla kattintással meváltoztathatod a bootloader-ben megjelnő nevet."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Biztonsági mentés/Visszaállítás"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Biztonsági mentés"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Visszaállítás"
+
+#, sh-format
+msgid "de"
+msgstr "innen:"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "FIGYELEM!\\nA visszaállítással véglegesen\\ntörölni fogsz minden adatot:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB kulcs:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "USB kulcs UUID:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "USB kulcs mérete"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Ablak bezárása"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Hiba: Kérlek indítsd el a MultiSystem-et"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Hiba: a biztonsági mentés már használatban van."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Biztonsági mentés készítése ebbe a fájlba:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Visszaállító fájl kiválasztása."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Hiba: nem található biztonsági mentés"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Hiba: Kis tárhelyű az USB kulcs"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "A visszaállítás elkészült\\nkérlek húzd ki, majd csatlakoztasd az USB kulcsod\\na MultiSystem futtatása előtt."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "A formázás elkészült,\\nkérlek húzd ki, majd csatlakoztasd az USB kulcsod\\na MultiSystem futtatása előtt."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Hiba: egy szoftver blokkolja a használatot, kérlek zárd be."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "A MultiSystem-ről"
+
+#, sh-format
+msgid "À propos"
+msgstr "Rólunk"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Fordító"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "A MultiSystem fordítókat keres!\\nHa segíteni szeretnél,\\nkérlek lépj kapcsolatba velünk!\\nElérhetőség: "
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Részleges Fissítés"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Egy boot opció hozzáadása (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Engedélyezed az ikonokat a gnome menüben?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "Eszköz|Gyártó|Modell|Méret|Foglalt|Szabad|Bus|Driver|Csatolási pont"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr "Hiba: ez az iso a PC boot-olásához szükséges, nem lehet eltávolítani."
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr "Jelenlegi helyzet:"
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr "Használd ezt a gombot, ha a Fogd és Vidd módszer nem működik."
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr "Vedd ki a pipát a bootloader menü gyors szerkesztéséhez. FIGYELEM: Ebben az esetben a bootloader nem frissül! Ha végeztél, pipáld ki újból a bootloader frissítéséhez!"
+
+#, sh-format
+msgid "Titre"
+msgstr "Cím"
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Kérlek erősítsd meg, hogy a Grub2-t a következőre szeretnéd telepíteni:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr "Hiba: Kérlek távolítsd el a szóközt az elérési útvonalból."
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr "Vissza a kezdéshez"

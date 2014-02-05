@@ -1,0 +1,31 @@
+#https://help.ubuntu.com/community/BootOptions#Common%20Boot%20Options
+menuentry "Boot option xforcevesa" {
+set mboot_options="$mboot_options xforcevesa"
+echo mboot_options=${mboot_options} press enter
+read
+}
+menuentry "Boot option noacpi" {
+set mboot_options="$mboot_options noacpi"
+echo mboot_options=${mboot_options} press enter
+read
+}
+menuentry "Boot option acpi=force " {
+set mboot_options="$mboot_options acpi=force"
+echo mboot_options=${mboot_options} press enter
+read
+}
+menuentry "Boot option noapic" {
+set mboot_options="$mboot_options noapic"
+echo mboot_options=${mboot_options} press enter
+read
+}
+menuentry "Boot option nolapic" {
+set mboot_options="$mboot_options nolapic"
+echo mboot_options=${mboot_options} press enter
+read
+}
+menuentry "Reset options" {
+set mboot_options=""
+echo mboot_options=${mboot_options} press enter
+read
+}

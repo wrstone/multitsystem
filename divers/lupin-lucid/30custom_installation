@@ -1,0 +1,100 @@
+#!/bin/sh
+
+PREREQ=""
+DESCRIPTION="Importing custom installation settings..."
+
+prereqs()
+{
+       echo "$PREREQ"
+}
+
+case $1 in
+# get pre-requisites
+    prereqs)
+           prereqs
+           exit 0
+           ;;
+esac
+
+. /scripts/casper-functions
+. /scripts/lupin-helpers
+
+fix_preseed(){
+    #TBD what follows tries to find Linux devices if preseed is generated from another OS
+    #a proper fix should be to find reliable device mappings in the preseed-generator
+    preseed_file="$1"
+    preseed_dev="$2"
+    
+    #Find Linux device of User Folder for importing settings by m-a
+    user_folder=$(grep "#UserFolder" "$preseed_file" | sed 's/[[:space:]]*$//')
+    user_folder=${user_folder#'#UserFolder='}
+    if find_path  "$user_folder"; then
+        dev="$FOUNDDEV"
+    else
+        dev="$preseed_dev"
+    fi    
+    dev=${dev#/dev/}
+    sed -i "s:MADEVICE:$dev:g" "$preseed_file"
+    
+    #Find Linux device of loopinstall folder
+    loopinstall_folder=$(grep "#LoopInstallFolder" "$preseed_file" | sed 's/[[:space:]]*$//')
+    loopinstall_folder=${loopinstall_folder#'#LoopInstallFolder='}
+    if find_path  "${loopinstall_folder}"; then
+        dev="${FOUNDDEV}"
+    else
+        dev="$preseed_dev"
+    fi
+    check_loopinstall_folder "$dev" "$loopinstall_folder"
+    disk="$(echo "$dev" | sed 's/[0-9]*$//')"
+    partn=${dev#${disk}} 
+    sed -i "s:LIDISK:$disk:g" "$preseed_file"
+    sed -i "s:LIPARTITION:$partn:g" "$preseed_file"
+}
+
+check_loopinstall_folder(){
+    loopinstall_dev=${1}
+    loopinstall_folder=${2}
+    
+    #TBD Check whether LOOPINSTALL_FOLDER is vergin or not
+    #Can we install on top of an existing installation?
+    #Shall we overwrite? ignore and simply boot the live CD or panic?
+    #Do we do the check here or later on?
+}
+
+custom_installation_path=
+for x in $(cat /proc/cmdline); do
+    case ${x} in
+        debian-installer/custom-installation=*)
+            custom_installation_path=${x#debian-installer/custom-installation=}
+            ;;
+    esac
+done
+if [ -n "$custom_installation_path" ]; then
+    if find_path "${custom_installation_path}"; then
+        custom_installation_path="$FOUNDPATH"
+        custom_installation_dev="$FOUNDDEV"
+        mkdir -p /custom-installation
+        cp -af "$custom_installation_path"/* /custom-installation/
+        cp -af /custom-installation/initrd-override/* / || true
+        rm -rf /custom-installation/initrd-override || true
+        if [ -x /custom-installation/hooks/casper-premount.sh ]; then
+            /custom-installation/hooks/casper-premount.sh
+        fi
+        if [ -e /custom-installation/preseed.cfg ]; then
+            cp /custom-installation/preseed.cfg /
+            #fix parameters that cannot be set from a non-linux OS
+            fix_preseed /preseed.cfg "$custom_installation_dev"
+        fi
+    else
+        panic "
+Could not find the installation files $custom_installation_path
+This could also happen if the file system is not clean because of an operating
+system crash, an interrupted boot process, an improper shutdown, or unplugging
+of a removable device without first unmounting or ejecting it.  To fix this,
+simply reboot into Windows, let it fully start, log in, run 'chkdsk /r', then
+gracefully shut down and reboot back into Windows. After this you should be
+able to reboot again and resume the installation.
+"
+    fi
+    find_path_cleanup
+fi

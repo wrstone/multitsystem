@@ -1,0 +1,135 @@
+# This is a sample menu.lst file. You should make some changes to it.
+# The old install method of booting via the stage-files has been removed.
+# Please install GRLDR boot strap code to MBR with the bootlace.com
+# utility under DOS/Win9x or Linux.
+
+timeout 30
+default /default
+#convert -resize 640x480 -colors 14 /media/multisystem/boot/splash/splash.png /media/multisystem/boot/splash/splash.xpm.gz
+splashimage=/boot/splash/splash.xpm.gz
+#color blue/green yellow/red white/magenta white/magenta
+foreground=0033FF
+background=FF3300
+
+#http://diddy.boot-land.net/grub4dos/Grub4dos.htm
+#http://www.boot-land.net/forums/index.php?showforum=66
+#http://diddy.boot-land.net/grub4dos/files/syntax.htm
+#Ne supprimez pas ce marqueur! / Do not remove this marker!
+#MULTISYSTEM_START
+#MULTISYSTEM_STOP
+#Ne supprimez pas ce marqueur! / Do not remove this marker!
+#http://diddy.boot-land.net/grub4dos/files/syntax.htm
+
+title Chainloader into GRUB 2
+find --set-root /boot/grub/boot.img
+chainloader /boot/grub/boot.img
+boot
+
+#title Chainloader into Syslinux
+#map (hd0) (hd0)
+#map (hd0) (hd0)
+#chainloader (hd0,0)+1
+#rootnoverify (hd0,0)
+
+##Autre solution pour chainer Syslinux
+##faire une copie du mbr de la clé USB
+##dd if=/dev/sd?1 of=/media/multisystem/syslinux.mbr bs=512 count=1
+#title Chainloader into Syslinux
+#find --set-root --ignore-floppies --ignore-cd /syslinux.mbr
+#map (hd0) (hd0)
+#map (hd0) (hd0)
+#map --rehook
+#find --set-root --ignore-floppies --ignore-cd /syslinux.mbr
+#chainloader /syslinux.mbr
+
+##Autre solution pour chainer Syslinux
+#title Chainloader into Syslinux
+#find --set-root /boot/syslinux/ldlinux.sys
+#chainloader /boot/syslinux/ldlinux.sys
+
+##Autre solution pour chainer Syslinux
+#title Chainloader into Syslinux
+#find --set-root --ignore-floppies --ignore-cd /boot/syslinux/redir.img
+#kernel /boot/syslinux/memdisk
+#initrd /boot/syslinux/redir.img
+
+#http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/
+title FreeDos
+kernel /boot/syslinux/memdisk
+initrd /boot/img/fdboot.img
+
+title find and load NTLDR of Windows NT/2K/XP
+fallback 1
+find --set-root --ignore-floppies --ignore-cd /ntldr
+map () (hd0)
+map (hd0) ()
+map --rehook
+find --set-root --ignore-floppies --ignore-cd /ntldr
+chainloader /ntldr
+savedefault --wait=2
+
+title find and load BOOTMGR of Windows VISTA/SEVEN
+fallback 2
+find --set-root --ignore-floppies --ignore-cd /bootmgr
+map () (hd0)
+map (hd0) ()
+map --rehook
+find --set-root --ignore-floppies --ignore-cd /bootmgr
+chainloader /bootmgr
+savedefault --wait=2
+
+title find and load CMLDR, the Recovery Console of Windows NT/2K/XP
+fallback 3
+find --set-root --ignore-floppies --ignore-cd /cmldr
+map () (hd0)
+map (hd0) ()
+map --rehook
+find --set-root --ignore-floppies --ignore-cd /cmldr
+chainloader /cmldr
+#####################################################################
+# write string "cmdcons" to memory 0000:7C03 in 2 steps:
+#####################################################################
+# step 1. Write 4 chars "cmdc" at 0000:7C03
+write 0x7C03 0x63646D63
+# step 2. Write 3 chars "ons" and an ending null at 0000:7C07
+write 0x7C07 0x00736E6F
+savedefault --wait=2
+
+title find and load IO.SYS of Windows 9x/Me
+fallback 4
+find --set-root /io.sys
+chainloader /io.sys
+savedefault --wait=2
+
+title find and boot 0PE.ISO
+fallback 5
+find --set-root /0PE/0PE.ISO
+map /0PE/0PE.ISO (0xff) || map --mem /0PE/0PE.ISO (0xff)
+map --hook
+chainloader (0xff)
+savedefault --wait=2
+
+title find and boot MicroPE.ISO
+fallback 6
+find --set-root /boot/MicroPE.ISO
+map /boot/MicroPE.ISO (0xff) || map --mem /boot/MicroPE.ISO (0xff)
+map --hook
+chainloader (0xff)
+savedefault --wait=2
+
+title find and boot ubcd.iso
+fallback 8
+find --set-root /ubcd.iso
+map /ubcd.iso (0xff) || map --mem /ubcd.iso (0xff)
+map --hook
+chainloader (0xff)
+savedefault --wait=2
+
+title commandline
+commandline
+
+title reboot
+reboot
+
+title halt
+halt

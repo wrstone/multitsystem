@@ -1,0 +1,5 @@
+color1="blue" #couleur texte #white
+color2="black" #couleur fond #blue
+color3="green" #couleur texte délectionné #blue
+color4="white" #couleur fond délectionné #white
+color5="magenta" #couleur fond écran, si pas de spalsh #magenta

@@ -1,0 +1,287 @@
+#Audio Utility Antivirus Gamer
+
+#Grub4Dos
+multisystem-hiren|Hiren's BootCD|Grub4Dos|Utility|http://www.hirensbootcd.org/download/
+multisystem-Kaspersky|kaspersky|Grub4Dos|Antivirus|http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/
+multisystem-ubcd|Ultimate Boot CD ubcd|Grub4Dos|Utility|http://www.ultimatebootcd.com/download.html
+multisystem-pebuilder|BartPE|Grub4Dos|N/A|http://severinterrier.free.fr/Boot/PE-Builder/
+multisystem-ubcd4win|UBCD4Win|Grub4Dos|Utility|http://www.ubcd4win.com/
+multisystem-freedos|FreeDos 1.0|Grub4Dos|N/A|http://www.freedos.org/
+multisystem-windows|Windows XP|Grub4Dos|N/A|http://www.microsoft.com/windows/windows-xp/
+multisystem-menuetos|Kolibri OS|Grub4Dos|N/A|http://www.kolibrios.org/
+multisystem-menuetos|Menuetos|Grub4Dos|N/A|http://menuetos.net/download.htm
+multisystem-konboot|kon-boot|Grub4Dos|Utility|http://www.piotrbania.com/all/kon-boot/
+multisystem-ntpassword|NT Password & Registry Editor|Grub4Dos|Utility|http://pogostick.net/~pnh/ntpasswd/
+multisystem-acronis|Acronis true image|Grub4Dos|Utility|http://www.acronis.fr/homecomputing/products/trueimage/
+multisystem-img|e-maxx|Grub4Dos|N/A|http://www.pcinspector.de/EMaxx/info.htm?language=2
+multisystem-img|clone-maxx|Grub4Dos|Utility|http://www.pcinspector.de/CloneMaxx/info.htm?language=2
+multisystem-windows|ERD.Commander|Grub4Dos|N/A|http://fspsa.free.fr/ubcd4win.htm#erd-commander
+multisystem-xen|Xen Live CD|Grub4Dos|N/A|http://wiki.xensource.com/xenwiki/LiveCD
+multisystem-hdclone|HDClone (.iso)|Grub4Dos|Utility|http://www.miray.de/download/sat.hdclone.html
+multisystem-pebuilder|ShadowProtect|Grub4Dos|N/A|http://www.storagecraft.com/shadow_protect_desktop.php
+multisystem-gdata|G Data BootCD|Grub4Dos|Antivirus|https://www.gdatasoftware.com/support/main-subjects/upgrade-service/download.html
+multisystem-antix|antiX|Grub4Dos|N/A|http://antix.mepis.com/index.php/Main_Page#Downloads
+multisystem-windows|KillDisk|Grub4Dos|N/A|http://www.killdisk.com/downloadfree.htm
+multisystem-reactos|ReactOS|Grub4Dos|N/A|http://www.reactos.org/fr/
+
+#Syslinux
+multisystem-windows|Windows vista|Syslinux|N/A|http://www.microsoft.com/windows/windows-vista/
+multisystem-windows|Windows 7|Syslinux|N/A|http://www.microsoft.com/windows/windows-7/
+multisystem-rescue|PLD RescueCD|Syslinux|Utility|http://rescuecd.pld-linux.org/
+multisystem-slax|Slax|Syslinux|N/A|http://www.slax.org/get_slax.php
+multisystem-porteus|Porteus|Syslinux|N/A|http://www.porteus.org/distro-download.html
+multisystem-beakos|beakOS|Syslinux|N/A|http://www.beakos.com.mx/
+multisystem-wifiway|wifiway|Syslinux|N/A|http://www.seguridadwireless.net/
+multisystem-slitaz|Slitaz|Syslinux|N/A|http://www.slitaz.org/en/get/
+multisystem-wifislax|Wifislax|Syslinux|N/A|http://www.seguridadwireless.es/
+
+#Grub2
+multisystem-icon|MultiSystem|Grub2|N/A|http://liveusb.info/multisystem/iso_ms_ubuntu/
+multisystem-liquidlemur|Archlemur|Grub2|N/A|http://liquidlemur.com/cms/downloads
+multisystem-clearos|ClearOS|Grub2|N/A|http://distrowatch.com/table.php?distribution=clearos
+multisystem-swift|Swift Linux|Grub2|N/A|http://distrowatch.com/table.php?distribution=swift
+multisystem-mageia|Mageia|Grub2|N/A|http://www.mageia.org/en/2/
+multisystem-jabir|JabirOS|Grub2|N/A|http://jabirproject.org/
+multisystem-igos|IGOS Nusantara|Grub2|N/A|http://igos-nusantara.or.id/
+multisystem-darkracer|DarkRacer|Grub2|N/A|http://www.darkracer.org/download.html
+multisystem-phinx|Phinx Desktop|Grub2|N/A|http://phinxdesktop.slyip.net/phinxdesktop/?page_id=11
+multisystem-luninux|LuninuX OS|Grub2|N/A|http://luninuxos.com/?page_id=18
+multisystem-blenderboot|Blender-boot|Grub2|N/A|https://sourceforge.net/projects/blenderboot/
+multisystem-rosa|ROSA|Grub2|N/A|http://wiki.rosalab.ru/
+multisystem-puppylinux|PuppyStudio|Grub2|N/A|http://puppystudio.tiddlyspot.com/
+multisystem-joldzic|JoldzicOS|Grub2|N/A|http://www.joldzic.net/
+multisystem-linuxfx|Linuxfx|Grub2|N/A|https://sourceforge.net/projects/linuxfxdevil/
+multisystem-shilaos|ShilaOS|Grub2|N/A|https://sourceforge.net/projects/shilaos/
+multisystem-matriux|Matriux|Grub2|N/A|http://www.matriux.com/index.php?page=download
+multisystem-tux|srvRX live|Grub2|N/A|https://sourceforge.net/projects/srvrx/files/
+multisystem-kepler|Kepler OS|Grub2|N/A|http://kepleros.altervista.org/download/
+multisystem-nosonja|Nosonja|Grub2|N/A|https://plus.google.com/102479162698978916755/posts
+multisystem-linutop|Linutop|Grub2|N/A|http://www.linutop.com/download.en.html
+multisystem-jondo|JonDo Live-CD|Grub2|N/A|http://www.anonym-surfen.de/jondo-live-cd.html
+multisystem-linuxcoin|LinuxCoin|Grub2|N/A|http://www.linuxcoin.co.uk/
+multisystem-sparkylinux|SparkyLinux|Grub2|N/A|http://linuxiarze.pl/sparkylinux/
+multisystem-snowlinux|Snowlinux|Grub2|N/A|http://www.snowlinux.de/download
+multisystem-leeenux|Leeenux|Grub2|N/A|http://www.leeenux-linux.com/index.php/get-leeenux
+multisystem-extix|ExTiX|Grub2|N/A|http://sourceforge.net/projects/extix/files/
+multisystem-boot-repair-disk|Boot-Repair-Disk|Grub2|N/A|http://sourceforge.net/p/boot-repair-cd/home/Home/
+multisystem-ubuntu_secured_remix|Ubuntu Secured Remix (YannUbuntu)|Grub2|N/A|http://sourceforge.net/p/ubuntu-secured/home/Home/
+multisystem-tinycore|Tiny Core Linux|Grub2|N/A|http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/
+multisystem-siduction|siduction|Grub2|N/A|http://siduction.org/index.php?module=inhalt&func=view&pid=2
+multisystem-defender|BitDefenderRescueCD|Grub2|Antivirus|http://download.bitdefender.com/rescue_cd/
+multisystem-pear|Pear OS|Grub2|N/A|http://www.pear-os-linux.fr/index.php?option=com_content
+multisystem-voyager|Voyager|Grub2|N/A|http://voyager.legtux.org/
+multisystem-kahelos|KahelOS|Grub2|N/A|http://www.kahelos.org/downloads.php
+multisystem-semplice|Semplice|Grub2|N/A|http://semplice-linux.sourceforge.net/download/
+multisystem-smeserver|SME Server|Grub2|N/A|http://wiki.contribs.org/SME_Server:Download
+multisystem-commodore|Commodore OS|Grub2|N/A|http://www.commodoreusa.net/CUSA_OS_Vision_Download.aspx
+multisystem-elastix|Elastix|Grub2|N/A|http://www.elastix.org/index.php/en/downloads.html
+multisystem-pureos|PureWebOS|Grub2|N/A|http://www.freetorrent.fr/details.php?id=0613a4153cbbfe013bc1593085c764958b4f4894
+multisystem-aldos|ALDOS|Grub2|N/A|http://www.alcancelibre.org/article.php/disponible-aldos-1-4
+multisystem-likinux|Likinux|Grub2|N/A|http://www.likinux.tk/
+multisystem-estobuntu|Estobuntu|Grub2|N/A|http://estobuntu.org/allalaadimine
+multisystem-backbox|BackBox Linux|Grub2|N/A|http://www.backbox.org/content/download
+multisystem-dreamstudio|Dream Studio|Grub2|Audio|http://sourceforge.net/projects/dreamstudio/files/
+multisystem-vyatta|vyatta login/pass vyatta/vyatta|Grub2|N/A|http://www.vyatta.org/downloads
+multisystem-manjaro|Manjaro|Grub2|N/A|http://manjarolinux.org/hp/download.html
+multisystem-icon|La Boîte à Outils|Grub2|Utility|http://www.lulu-search.com/boite-a-outils/telechargement.html
+multisystem-lps|Lightweight Portable Security (LPS)|Grub2|N/A|http://www.spi.dod.mil/lipose.htm
+multisystem-blackbuntu|Blackbuntu|Grub2|N/A|http://www.blackbuntu.com/download
+multisystem-linvo|Linvo based on Slackware|Grub2|N/A|http://www.linvo.org/?page=getit
+multisystem-gpcservices|PC Global Services|Grub2|Utility|http://www.gpcservices.com/live-cd/
+multisystem-rescue|BG-Rescue Linux|Grub2|Utility|http://www.giannone.eu/rescue/
+multisystem-partedmagic|Parted Magic|Grub2|Utility|http://partedmagic.com/download.html
+multisystem-xpud|Xpud|Grub2|N/A|http://www.xpud.org/
+multisystem-debian|Debian Network boot|Grub2|N/A|http://www.fr.debian.org/distrib/netinst#netboot
+multisystem-grml|Grml|Grub2|N/A|http://grml.org/download/
+multisystem-deli|DeLi Linux|Grub2|N/A|http://www.delilinux.org/wiki/doku.php?id=download
+multisystem-linuxmint|Linux_Mint|Grub2|N/A|http://www.linuxmint.com/download.php
+multisystem-molinux|MoLinux|Grub2|N/A|http://www.molinux.info/index.php?option=com_remository
+multisystem-ultimate-edition|Ultimate Edition|Grub2|Gamer|http://ultimateedition.info/
+multisystem-superos|Super OS|Grub2|N/A|http://hacktolive.org/wiki/Super_OS#DVD-ISO_download
+multisystem-zenwalk|Zenwalk Linux|Grub2|N/A|http://www.zenwalk.org/modules/tinycontent/index.php?id=1
+multisystem-knoppix|KNOPPIX|Grub2|N/A|http://knopper.net/knoppix-mirrors/
+multisystem-fedora|Fedora|Grub2|N/A|http://www.fedora-fr.org/
+multisystem-debian|Debian-live|Grub2|N/A|http://debian-live.alioth.debian.org/
+multisystem-systemrescue|SystemRescueCd|Grub2|Utility|http://www.sysresccd.org/Download
+multisystem-gparted|GParted LiveCD|Grub2|Utility|http://gparted.sourceforge.net/download.php
+multisystem-clonezilla|Clonezilla Live|Grub2|Utility|http://www.clonezilla.org/downloads.php
+multisystem-riplinux|RIPLinuX|Grub2|Utility|http://www.tux.org/pub/people/kent-robotti/looplinux/rip/
+multisystem-eeebuntu|Auroraos/Eeebuntu|Grub2|N/A|http://www.auroraos.org/
+multisystem-easypeasy|Easy Peasy|Grub2|N/A|http://www.geteasypeasy.com/
+multisystem-vector|VectorLinux|Grub2|N/A|http://vector2.ecosq.com/downloads
+multisystem-slampp|SLAMPP Live|Grub2|N/A|http://slampp.abangadek.com/info/index.php?page=download
+multisystem-arch|Archiso-live|Grub2|N/A|http://godane.wordpress.com/
+multisystem-geexbox|GeeXboX|Grub2|Audio|http://www.geexbox.org/
+multisystem-puppylinux|Puppy Linux|Grub2|N/A|http://www.puppylinux.org/downloads
+multisystem-macpup|Macpup (base Puppy)|Grub2|N/A|http://macpup.org/
+multisystem-toutou|Toutoulinux (base Puppy)|Grub2|N/A|http://toutoulinux.free.fr/download.php
+multisystem-frugalware|Frugalware Linux (install)|Grub2|N/A|http://frugalware.org/download
+multisystem-ophcrack|Ophcrack LiveCD|Grub2|Utility|http://sourceforge.net/projects/ophcrack/files/
+multisystem-cdlinux|CDlinux|Grub2|N/A|http://cdlinux.info/wiki/doku.php/download/latest
+multisystem-kongoni|Kongoni|Grub2|N/A|http://sourceforge.net/projects/kongoni/files/
+multisystem-wolvix|Wolvix|Grub2|N/A|http://wolvix.org/get.php
+multisystem-mandriva|Mandriva ONE 2009/2010|Grub2|N/A|http://www.mandriva.com/en/download
+multisystem-backtrack|BackTrack|Grub2|N/A|http://www.remote-exploit.org/backtrack_download.html
+multisystem-parsix|Parsix|Grub2|N/A|http://sourceforge.net/projects/xfardic/files/Parsix-Mirror/
+multisystem-artistx|ArtistX 0.7|Grub2|Audio|http://artistx.org/site2/downloads/
+multisystem-trinity|Trinity Rescue Kit|Grub2|Utility|http://trinityhome.org/trk/download.php
+multisystem-ploplinux|PLoP Linux|Grub2|Utility|http://www.plop.at/en/ploplinuxdl.html
+multisystem-opensuse|openSUSE|Grub2|N/A|http://en.opensuse.org/Download
+multisystem-xbmc|XBMCLive|Grub2|N/A|http://xbmc.org/download/
+multisystem-elive|Elive|Grub2|N/A|http://www.elivecd.org/Download/Development
+multisystem-sidux|Sidux|Grub2|N/A|http://sidux.com/index.php?module=Content&func=view&pid=2
+multisystem-gentoo|Gentoo|Grub2|N/A|http://gentoo.mirrors.tds.net/pub/gentoo//releases/x86/
+multisystem-sabayon|Sabayon|Grub2|N/A|http://www.sabayonlinux.org/mod/mirrors/
+multisystem-pentoo|Pentoo|Grub2|N/A|http://www.pentoo.ch/download/
+multisystem-ubuntu|Pcubuntoo|Grub2|N/A|http://www.pcubuntoo.fr/
+multisystem-madbox|MADBOX|Grub2|N/A|http://madbox.tuxfamily.org/download.php
+multisystem-crunchbang|CrunchBang|Grub2|N/A|http://www.crunchbanglinux.org/wiki/downloads
+multisystem-papug|PapugLinux|Grub2|N/A|http://www.papuglinux.net/Download/
+multisystem-kdelive|Kdenlive|Grub2|N/A|http://www.kdenlive.org/user-manual/downloading-and-installing-kdenlive/live-demonstration-dvd-or-usb-storage
+multisystem-monomaxos|Monomaxos|Grub2|N/A|http://monomaxos.com/download.htm
+multisystem-tinyme|TinyMe|Grub2|N/A|http://www.tinymelinux.com/doku.php/download
+multisystem-stux|STUX|Grub2|Gamer|http://www.gpstudio.com/stux/download.html
+multisystem-webconverger|Webconverger|Grub2|N/A|http://download.webconverger.com/
+multisystem-klikit|Klikit-Linux|Grub2|N/A|http://www.klikit-linux.com/download.html
+multisystem-zevenos|ZevenOS|Grub2|N/A|http://www.zevenos.com/download
+multisystem-musix|Musix|Grub2|Audio|http://www.musix.org.ar/download.html
+multisystem-damnsmall|Damn Small Linux|Grub2|N/A|http://www.damnsmalllinux.org/download.html
+multisystem-android|Android-x86 Live|Grub2|N/A|http://www.androidx86.org/downloads.html
+multisystem-pureos|PureOS login/pass root/root|Grub2|N/A|http://pureos.org/
+multisystem-unity|Unity Linux|Grub2|N/A|http://unity-linux.org/downloads/
+multisystem-ubcd|My Windows 7 Builder|Grub2|N/A|http://www.my7vision.fr/wordpress/
+multisystem-Jolicloud|Jolicloud|Grub2|N/A|http://www.jolicloud.com/download
+multisystem-backtrack|FRHACK OS (BackTrack based)|Grub2|N/A|http://www.darknet.org.uk/2009/09/frhack-os-v1-alpha1-pentestingsecurity-livecd/
+multisystem-tuquito|Tuquito|Grub2|N/A|http://www.tuquito.org.ar/descargas.html
+multisystem-sabily|Sabily|Grub2|N/A|http://www.sabily.org/website/index.php/fr/sabily/downloads
+multisystem-ylmf|Ylmf-OS|Grub2|N/A|http://www.ylmf.org/download.html
+multisystem-lliurex|LliureX|Grub2|N/A|http://lliurex.net/home/descargas/
+multisystem-kanotix|Kanotix|Grub2|N/A|http://kanotix.com/Downloads.html
+multisystem-deepin|Deepin|Grub2|N/A|http://linux.deepin.org/download
+multisystem-zorin|Zorin OS|Grub2|N/A|http://zorin-os.webs.com/download.htm
+multisystem-apodio|Apodio|Grub2|Audio|http://www.apodio.org/?tag=download
+multisystem-vlos|VLOS (Vidalinux Desktop OS)|Grub2|N/A|http://os.vidalinux.org/index.php/Download
+multisystem-guadalinex|Guadalinex|Grub2|N/A|http://www.guadalinex.org/donde-conseguirlo
+multisystem-quantian|Quantian|Grub2|N/A|http://quantian.alioth.debian.org/
+multisystem-puredyne|Puredyne|Grub2|Audio|http://puredyne.org/download.html
+multisystem-catix|Càtix|Grub2|N/A|http://www.catix.cat/
+multisystem-ubuntu|Ubuntu Electronics Remix|Grub2|N/A|http://ubuntuelectronicsremix.net/
+multisystem-pcos|PC/OS|Grub2|N/A|http://distro.ibiblio.org/pub/linux/distributions/pcos/
+multisystem-lubuntu|Lubuntu|Grub2|N/A|http://lubuntu.net/
+multisystem-redhat|Red Hat Enterprise|Grub2|N/A|http://www.redhat.com/
+multisystem-odebian|Odebian|Grub2|N/A|http://www.odebian.org/#telechargement
+multisystem-grub|RMS Rose|Grub2|N/A|http://rmsgnulinux.org/
+multisystem-livehacking|Live Hacking|Grub2|Utility|http://www.livehacking.com/cd-dvd/download.htm
+multisystem-zxmame|zxmamecd|Grub2|N/A|http://www.zxmamecd.eu/
+multisystem-teenpup|TEENpup Linux|Grub2|N/A|http://pupweb.org/wikka/TeenPup
+multisystem-goblinx|Imagineos/GoblinX|Grub2|N/A|http://www.imagineos.com.br/
+multisystem-stresslinux|Stresslinux|Grub2|N/A|http://www.stresslinux.org/sl/downloads
+multisystem-pclinuxos|PCLinuxOS|Grub2|N/A|http://www.pclinuxos.com/
+multisystem-thinstation|Thinstation|Grub2|N/A|http://www.thinstation.org/LiveCD/
+multisystem-finnix|Finnix|Grub2|N/A|http://www.finnix.org/Download
+multisystem-trisquel|Trisquel >= v3.5|Grub2|N/A|http://trisquel.info/en/download
+multisystem-drbl|DRBL LIVE|Grub2|N/A|http://drbl.sourceforge.net/
+multisystem-hacao|Hacao|Grub2|N/A|http://hacao.com/
+multisystem-centos|CentOS|Grub2|N/A|http://www.centos.org/modules/tinycontent/index.php?id=15
+multisystem-drweb|Dr.Web LiveCD|Grub2|Antivirus|http://www.freedrweb.com/livecd/
+multisystem-partition-wizard|Partition Wizard|Grub2|Utility|http://www.partitionwizard.com/download.html
+multisystem-avg|AVG Rescue CD|Grub2|Antivirus|http://www.avg.com/ww-en/avg-rescue-cd-download
+multisystem-dban|Darik's Boot And Nuke|Grub2|N/A|http://www.dban.org/
+multisystem-calculate|Calculate (base Gentoo)|Grub2|N/A|http://www.calculate-linux.org/main/en/download
+multisystem-netrunner|Netrunner|Grub2|N/A|http://www.netrunner-os.com/
+multisystem-asturix|Asturix|Grub2|N/A|http://asturix.com/index.php
+multisystem-salix|Salix Live (login:one pass:ne rien mettre)|Grub2|N/A|http://sourceforge.net/projects/salix/files/
+multisystem-mcnlive|MCNLive|Grub2|N/A|http://www.mcnlive.info/index.php?page=download
+multisystem-abuledulive|AbulÉdulive|Grub2|N/A|http://www.abuledu.org/abuledu/monoposte
+multisystem-backtrack|GnackTrack|Grub2|N/A|http://www.gnacktrack.co.uk/download.php
+multisystem-quirky|Quirky|Grub2|N/A|http://bkhome.org/quirky/
+multisystem-slackware|Slackware|Grub2|N/A|http://www.slackware.com/getslack/
+multisystem-peppermint|Peppermint OS|Grub2|N/A|http://peppermintos.com/download
+multisystem-blag|BLAG|Grub2|N/A|http://www.blagblagblag.org/download/
+multisystem-meego|MeeGo|Grub2|N/A|http://www.blagblagblag.org/download/
+multisystem-qimo|Qimo 4 Kids|Grub2|N/A|http://www.qimo4kids.com/page/Download.aspx
+multisystem-vinux|Vinux|Grub2|N/A|http://vinux.org.uk/downloads.html
+multisystem-pardus|Pardus|Grub2|N/A|http://www.pardus.org.tr/eng/download/
+multisystem-greenie|Greenie|Grub2|N/A|http://www.greenie.sk/stiahnutie.html
+multisystem-sms|SMS Superb Mini Server|Grub2|N/A|http://sms.it-ccs.com/downloads.html
+multisystem-wattos|wattOS|Grub2|N/A|http://www.planetwatt.com/?module=Downloads
+multisystem-diskcopy|EASEUS Disk Copy|Grub2|Utility|http://www.easeus.com/disk-copy/download.htm
+multisystem-dreamLinux|Dreamlinux|Grub2|N/A|http://www.dreamlinux.net/download.html
+multisystem-redo|Redo Backup and Recovery|Grub2|Utility|http://redobackup.org/
+multisystem-ojuba|Ojuba|Grub2|N/A|http://www.ojuba.org/downloads/
+multisystem-gnewsense|gNewSense|Grub2|N/A|http://www.gnewsense.org/Mirrors
+multisystem-blankon|BlankOn|Grub2|N/A|http://blankonlinux.or.id/download.html
+multisystem-debian|Panda SafeCD|Grub2|Antivirus|http://research.pandasecurity.com/
+multisystem-debian|Inquisitor|Grub2|N/A|http://www.inquisitor.ru/download.html
+multisystem-austrumi|AUSTRUMI|Grub2|N/A|http://cyti.latgola.lv/ruuni/
+multisystem-netrunner|Netrunner|Grub2|N/A|http://www.netrunner-os.com/?page_id=3
+multisystem-nimblex|NimbleX|Grub2|N/A|http://www.nimblex.net/index.php?option=com_content&task=view&id=1&Itemid=1
+multisystem-avira|Avira AntiVir Rescue System|Grub2|Antivirus|http://dlpro.antivir.com/package/rescue_system/common/en/rescue_system-common-en.iso
+multisystem-vba|VBA vba32rescue|Grub2|Antivirus|ftp://anti-virus.by/pub/vbarescue.iso
+multisystem-supergamer|SuperGamer|Grub2|Gamer|http://SuperGamer.org/get.htm
+multisystem-aoss|AOSS|Grub2|Antivirus|http://www.pctools.com/aoss/details/
+multisystem-chameleonos|Chameleon OS|Grub2|N/A|http://chameleonos.wordpress.com/download-chamelonos/
+multisystem-uberstudent|UberStudent|Grub2|N/A|http://downloads.uberstudent.org/
+multisystem-skolelinux|Skolelinux|Grub2|N/A|http://www.slx.no/en/downloads
+multisystem-pelican|PelicanHPC|Grub2|N/A|http://pareto.uab.es/mcreel/PelicanHPC/
+multisystem-karoshi|Karoshi|Grub2|N/A|http://karoshi.linuxgfx.co.uk/
+multisystem-linuxgamers|linuX-gamers Live|Grub2|Gamer|http://live.linux-gamers.net/?s=download
+multisystem-linuxconsole|LinuxConsole|Grub2|Gamer|http://linuxconsole.org/
+multisystem-fedora|Fusion Linux|Grub2|N/A|http://fusionlinux.org/downloads/
+multisystem-arch|Archlinux|Grub2|N/A|http://www.archlinux.org/download/
+multisystem-kiwi|Kiwi Linux|Grub2|N/A|http://kiwilinux.org/en/download.html
+multisystem-debian|Doudoulinux|Grub2|N/A|http://www.doudoulinux.org/web/francais/
+multisystem-debian|elementary|Grub2|N/A|http://www.elementary-project.com/
+multisystem-uhu|UHU-Linux|Grub2|N/A|http://uhulinux.hu/office/letoltes
+multisystem-netsecl|NetSecL|Grub2|N/A|http://netsecl.com/download.html
+multisystem-upr|UPR - Ubuntu Privacy Remix|Grub2|N/A|https://www.privacy-cd.org/en/using-upr/download
+multisystem-aptosid|Aptosid|Grub2|N/A|http://aptosid.com/index.php?module=Content&func=view&pid=2
+multisystem-framadvd|FramaDVD École|Grub2|N/A|http://framadvd.org
+multisystem-scientificLinux|Scientific-Linux|Grub2|N/A|https://www.scientificlinux.org/download/
+multisystem-avlinux|AV Linux|Grub2|Audio|http://www.bandshed.net/DownloadInstall.html
+multisystem-cae|CAElinux|Grub2|N/A|http://www.caelinux.com/CMS/
+multisystem-poseidon|Poseidon|Grub2|N/A|http://sites.google.com/site/poseidonlinux/
+multisystem-qomo|Qomo Linux|Grub2|N/A|ftp://www.linux-ren.org/pub/qomo/
+multisystem-openartist|openArtist|Grub2|Audio|http://openartisthq.org/
+multisystem-kuki|Kuki Linux|Grub2|N/A|http://www.kuki.me/downloads/
+multisystem-asri|ASRI|Grub2|N/A|http://asri-education.org/
+multisystem-chakra|chakra|Grub2|N/A|http://chakra-project.org/get/
+multisystem-tangostudio|Tangostudio|Grub2|Audio|http://tangostudio.tuxfamily.org/en/tangostudio
+multisystem-kxstudio|KXStudio|Grub2|Audio|http://kxstudio.sourceforge.net/
+multisystem-kduxp|KDuXP|Grub2|N/A|http://www.linuxkduxp.com/downloads/
+multisystem-slax|Slax-LFI|Grub2|N/A|http://www.slaxlfi.fr/
+multisystem-forensic|FCCU-Forensic Boot CD|Grub2|N/A|http://www.lnx4n6.be/index.php?sec=Downloads&page=bootcd#
+multisystem-debian|rescatux|Grub2|Utility|http://www.supergrubdisk.org/rescatux/
+multisystem-tux|LightDesktop|Grub2|N/A|http://lightdesktop.com/
+multisystem-fuduntu|Fuduntu|Grub2|N/A|http://fuduntu.org/
+multisystem-upstream|Upstream|Grub2|N/A|http://upstreamos.tk/
+multisystem-moonos|moonOS|Grub2|N/A|http://moonos.org/download
+multisystem-arch|CTKarchLive|Grub2|N/A|http://calimeroteknik.free.fr/ctkarchlive/
+multisystem-alpine|AlpineLinux|Grub2|N/A|http://www.alpinelinux.org/wiki/Downloads
+multisystem-dynebolic|Dynebolic|Grub2|Audio|http://www.dynebolic.org/index.php?show=available
+multisystem-saline|Saline OS|Grub2|N/A|http://www.salineos.com/downloads.php
+multisystem-bodhilinux|Bodhi Linux|Grub2|N/A|http://www.bodhilinux.com/download.html
+multisystem-kdemar|kademar|Grub2|N/A|http://www.kademar.org/kademar-linux/
+multisystem-hybryde|Hybryde|Grub2|N/A|http://88.191.128.71/site-joolma/
+multisystem-liquidlemur|Liquid Lemur|Grub2|N/A|http://liquidlemur.org/
+multisystem-deft|DEFT Linux|Grub2|N/A|http://www.deftlinux.net/download/
+multisystem-privatix|Privatix Live-System|Grub2|N/A|http://www.mandalka.name/privatix/download.html.en
+multisystem-incognito|Incognito|Grub2|N/A|https://tails.boum.org/download/
+multisystem-debian|deSbian|Grub2|N/A|https://sites.google.com/a/h4ckdr4g.net/desbian/
+multisystem-caixamagica|Caixa Mágica|Grub2|N/A|http://www.caixamagica.pt/pag/b_down00.php
+multisystem-emmabuntus|Ocariabuntus|Grub2|N/A|http://sourceforge.net/projects/emmubuntu/
+multisystem-arios|AriOS|Grub2|N/A|http://arioslinux.org/download/
+multisystem-Sn0wL1nuX|Sn0wL1nuX|Grub2|N/A|http://sourceforge.net/projects/sn0wl1nux/
+multisystem-ubuntu|Get Ubuntu|Grub2|N/A|http://www.ubuntu.com/getubuntu/downloadmirrors
+multisystem-ubuntu|CDimage|Grub2|N/A|http://cdimage.ubuntu.com/
+multisystem-ubuntu|ppa|Grub2|N/A|http://ppa.launchpad.net/
+multisystem-distrowatch|DistroWatch|Grub2|N/A|http:/distrowatch/distrowatch.com/
+multisystem-ubuntu|Ubuntu|Grub2|N/A|http://releases.ubuntu.com/
+multisystem-kubuntu|Kubuntu|Grub2|N/A|http://cdimage.ubuntu.com/kubuntu/releases/
+multisystem-xubuntu|Xubuntu|Grub2|N/A|http://cdimage.ubuntu.com/xubuntu/releases/
+multisystem-ubuntu-studio|Ubuntu Studio|Grub2|Audio|http://cdimage.ubuntu.com/ubuntustudio/releases/
+multisystem-mythbuntu|Mythbuntu|Grub2|N/A|http://cdimage.ubuntu.com/mythbuntu/releases/
+multisystem-ubunturescue|Ubuntu Rescue Remix|Grub2|Utility|http://ubuntu-rescue-remix.org/Download
+multisystem-edubuntu|Edubuntu|Grub2|N/A|http://www.edubuntu.org/Download
+multisystem-lubuntu|Lubuntu|Grub2|N/A|http://people.ubuntu.com/~gilir/
+multisystem-kubuntu|Kubuntu-Mobile|Grub2|N/A|http://cdimage.ubuntu.com/kubuntu-mobile/

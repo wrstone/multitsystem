@@ -1,0 +1,1128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Yeniden Başlat"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Bilgisayarınızı yeniden başlatın"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Seçenekler için  [Tab] tuşuna basın"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Boot CD imajı mevcut,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Yol"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Bilgisayarınızı boot etmeden önce (gerekliyse),"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "Boot CD veya USB Flash diskinizi takın"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Hata:İzlenen volume mevcut değil:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Hata:Usb flash diskteki başlangıç anahtarı aynı değil!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Hata: grub.cfg dosyası geçerli değil!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Hata: menu.lst dosyası geçerli değil!"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Hata:Seçilen .İSO dosyası desteklenmiyen karekter içeriyor, adı:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Hata: Aynı isimde bir dosya zaten mevcut."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Hata:İşaretçiyi tesbit etmek münkün değil:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Dosyayı bağlamak için yönetici şifresi gerekli"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Hata: .ISO dosyasının bağlanması sırasında hata oluştu"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Kopyalama aşamasında"
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "GRUB güncelleniyor, yütfen bekleyin"
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB yönetici hakları gerektirir"
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Hata: LiveCD zaten mevcut."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Download aşamasında..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>Mandriva için Uyarı:<b> Script USB flash diskinizin etiketini MANDRIVAONE olarak atar.\\nBu etiketi değiştirirseniz Mandriva boot edilemeyecek.\\nLütfen, USB flash diskinizi çıkarıp yeniden takın.\\nSistem yeni etiketi gösterecektir. "
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Hata: Arşivin indirilmesi mümkün değil."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Hata: ISO şimdilik desteklenmiyor"
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr " .img dosyaları için, yönetici şifresi gerekli"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr ".ISO dosyası kopyalanma sürecinde"
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "LiveCD siliniyor."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Hata: LiveCD algılanmadı."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "LiveCD oluşturuluyor."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "MultiSystem LiveCD\\nYolu:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Hata: Kalıcı Mod zaten mevcut,\\nSadece bir adet kalıcı mod kurulabilir"
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Hata: Lütfen kalıcı mod olarak\\neklemek istediğiniz dağıtımı seçin!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Hata: Boot=Casper gibi Ubuntu tabanlı \\ndağıtımlar için ayrılmış kalıcı mod algılanamadı."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Mb olarak Kalıcı mod"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Kalıcı Mod oluşturuluyor"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Güncelle"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Kaldır"
+
+#, sh-format
+msgid "Informations"
+msgstr "Bilgi"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "USB Flash diskiniz takılı mı?\\n\\nLütfen FAT32 olarak biçimlendirip\\ntakın ve /media altına mount edin.\\nSonra, MultiSystem\\i yeniden başlatın."
+
+#, sh-format
+msgid "Valider"
+msgstr "Doğrula"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Lütfen aşağıdaki listeden kullanacağınız USB aygıtını seçiniz.\\nDİKKAT!,\\nGrub2 seçilen MBR\\047ye kurulacak.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Aygıt|Yapı|Model|Boyut|Kulanılan|Boş|Veri Yolu|Sürücü"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Vazgeç"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Hata:Bu dizine yazma hakkınız var mı?:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Kapat"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Hata: Eksik: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Hata:Yanlış Bus"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "GRUB ayarları"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Kalıcı Mod ekle"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "LiveCD indir"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Qemu ile test et"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Grub/Grub2 ile Boot et"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Windows XP ile Boot et"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Windows Vista ile Boot et"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "MacIntel  ile Boot et"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "MultiSystem LiveCD oluştur"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "LiveCDyi Qemu ile test et"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Çıkış"
+
+#, sh-format
+msgid "Menus"
+msgstr "Menuler"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB Aygıtı :"
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Bağlanma noktası:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "Boyut:"
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Kullanılan:"
+
+#, sh-format
+msgid "Libre:"
+msgstr "Boş:"
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Toplam LiveCD:"
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Sürükle/Bırak ( ISO/img)"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Grub2 konfigurasyon dosyasını düzenle .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "grub4dos konfigurasyon dosyası .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Grub2 boot imajını seç"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hex|Başlık"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Metin regi"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Arkafon rengi"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Seçili metin rengi"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Seçili arkafon rengi"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Hata: Seçiminiz PNG tipi olarak algılanamadı."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Hata: 640x480 olarak boyutlandırılamadı."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Hata: MultiSystem zaten kurulu."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "Hata: MultiSystem /tmp/multisystem/multisystem dizininden yüklenmiştir."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Hata: Kurulum sudu komutu ile başlatılmalıdır."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Uygulamalar/Donatılar/MultiSystem LiveUSB menüsüne başlatıcı oluştur"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Aşağıdaki menüden MultiSystem başlatıcısını ayarla\\nMenü: /Applications/Accessories/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Bundan böyle, lütfen, script başlatmak için aşağıdaki yolu kullanın\\nMenü: /Uygulamalar/Donatılar/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu yönetici hakları gerektirir."
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Qemu CLE_USB başlat:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Qemu kur"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Derle ve kqemu (hızlandırıcı) kur"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "Mevcut RAM: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Hata: Yeterli boş RAM yok:\\n $RAM_LIBRE istenen: 256 MB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Boot doğrulaması için Qemuyu başlat"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Hata: MultiSystem kuruluysa kaldırın."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Hata: Uninstall işlemi için SUDO komutu kullanılmalıdır"
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Lütfen aşağıdaki listeden bir seçenek seçin"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Fonksiyonu gerçekleştirmek için"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "MultiSystem uninstall işlemini doğrulayın,"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Veya başa dön"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "MultiSystem başarıyla kaldırıldı."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Hata:Güncelleme sadece MultiSystem kuruluysa uygulanabilir."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Hata:Güncelleme işlemi SUDO komutu ile kullanılmadıdır."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Script güncelleme yapma"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Scripti Güncelle"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Hata: Version-multisystem.txt dosyası download edilemedi"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Güncellemeleri kontrol et"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Güncelleme bulunamadı,\\nSon versiyonu kullanıyorsunuz."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Hata: MultiSystem versionu algılanamadı."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Plop bileşenini Grub/Grub2den kaldır"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Grub/Grub2ye  Plop Ekle"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Bu arayüz Grub/Grub2 kullanıyorsanız\\nBoot yöneticinize Plop bootloader\\nbileşinini ekleyip kaldırmanızı sağlar.\\nLiveUSB yapmak için MultiSystemi başlatın..."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "MultiSystem LiveUSB  Intel Mac de denenmedi\\nve herhangi bir geri bildirim alınmadı\\nhttp://refit.sourceforge.net/#news adresine\\nçalışıp çalışmadığını bildirin."
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "rEFIt İndir"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Add to Windows Vista boot manager\\na menu entry to start your LiveUSB.\\n\\nTo do after a Vista boot\\nDownload EasyBCD\\nplusg in your USB key\\nlaunch EasyBCD\\nclick on \"Add/Remove Entries\"\\nselect the Linux tab\\nset options as:\\nType: GRUB\\nName: LiveUSB\\nDrive: (select partition 0 of your USB key)\\ndo not tick! \"GRUB isn\\047t installed to the boot sector\"\\nclick on: \"+ Add Entry\"\\nclick on: \"Save\"\\nYou\\047re done! .\\nScreen capture:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAt next boot, select LiveUSB,\\nyou will be asked to insert the volume,\\nclick enter.\\n\\nAnother method,\\nAdd plop bootloader to Windows Vista boot manager\\nsee: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr " EasyBCD indir"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr " Windows Vista boot yöneticisine\\nplop bootloader eklemek için aşağıdaki adrese bakın\\nhttp://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Windows XP ye Bootloader Ekle"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Ramdisk ayarlanıyor, bekleyin..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Aşağıdaki yoldan CD imajı yazdırın\\nYol: $HOME/cd-boot-liveusb.iso\\n(sağ tık, disk yaz...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(sağ tık, disk yaz...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Hata:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Yönetici şifresi gerekli"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Hata: syslinux.cfg dosyası geçerli değil"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Hata:Bu dağıtım için kalıcı mod eklenemez"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Filtre"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Kalıcı yerleşim etkinleştirin"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Ayrı ev dizini  etkinleştirme"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Veri şifreleme etkinleştir"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Kalıcı ev dizini ayırmayı etkinleştir"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Hata:Yeterli boş alan yok:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Ev dizini şifrelemeyi etkinleştir"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Uluslararası yapma"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Dil değiştir"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr " .po dosyasını çevirme"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "İşlem sürüyor ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "VirtualBox ile test et"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Boot"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Hata: Yeterli boş RAM alanı yok:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Devam etmek için enter tuşuna  bas"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "Dikkat!\\nVirtualBox yazılımının özgür olmayan (non-Free)\\nsürümünü kuracaksınız"
+
+#, sh-format
+msgid "Installer"
+msgstr "Kur"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Lütfen USB aygıtı elle çıkarın"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "VirtualBox ile LiveCD dene"
+
+#, sh-format
+msgid "Tester"
+msgstr "Test"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "LiveCD ekle"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "VirtualBoxu Aç"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Her başlangıçta güncellemeleri kontrol et"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "syslinux dosyasını düzenle .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Ekranın arkafon rengi"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Çerçeve rengi"
+
+#, sh-format
+msgid "Créer"
+msgstr "Oluştur"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Qemu da liveusb test et"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Liveusb yi VirtualBox ile test et"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "Dikkat!\\nBiçimlendirileck\\nÇıkarılabilir aygıt:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nTüm içerik\\ntamamen silinecektir."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "USB Flash Diski biçimlendir"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Varsayılan karşılama ekranı"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Dikey çevir"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Karşılama ekranını kaldır"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Yatay çevir"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Varsayılan değer"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Hata: paket yöneticisi kullanın."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Aşağıdaki Menüye başlatıcı oluştur:/Uygulamalar/Donatılar/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "MultiSystem başlatıcıyı menüden ayarla\\nMenü: /Uygulamalar/Donatılar/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Dikkat silinecek:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Silmeden önce önle"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Bir işletim sistemi kaldır"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Vboxusers hatası"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Disk hatası"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Hata /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Teslim hatası"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Virtualbox-ose hatası"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Grub2yi Güncelle"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "USBden başlatmak için CD oluştur"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "MultiSystem için güncelleme bulundu"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "VirtualBox yükle"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Devam etmek için bir tuşa basın..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Seçim yok"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Boyutlandır"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "İçeriği sil"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Dikkat!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "İçerik kaldırılacak:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Hata: Alan mount edilemiyor:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Kalıcı bölümü boyutlandır."
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Debug"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Geçerli test bekleyin ..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Hata: Bu testi yapmak için yeterli boş alan yok,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Devam etmek için entere basın"
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted print"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "Mbr göster"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm bilgisi"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Grub2 versiyonu"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "fat32 onar"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Benchmark yaz"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Benchmark oku"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Dosya izni en az 600 olmalı,"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Hata: liveusb.info algılanamadı"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Hata: Root değil!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Hata: Silinemedi :"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Hata: blkid komutu düzgün çalışmıyor, oturumunuzu yeniden başlatın."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Hata: MultiSystem etiket olarak boşluk kabul etmez."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Ekle"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Kırmızı Tema"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Yeşil Tema"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Mavi Tema"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr " Aktif Tema:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Hata:Seçim yapılmadı."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "Dikakt!\\nautorun.inf dosyasında değişiklik gözlendi, Virüs olmasın..."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "Dikkat!\\nmultisystem.bat dosyasında değişiklik gözlendi, Virüs olabilir..."
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "USB Flash Diskinizdeki Dosya/Dizin-leri Göster/Gizle  "
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Tümünü göster"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Tümünü gizle"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "USB Flash diskinizin içeriği"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Göster / Gizle  Dosya/Dizin\\nSadece Nautilus ile geçerlidir."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Non-free bileşenleri kur"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Özgür Olmayan"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Part No Free MultiSystem"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "PLoP Boot Manager yazılımı ücretsizdir."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "Download PLoP Boot Manager"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "BartPEx iso için kullanılır"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Download Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr ""
+"Lütfen  \\\"PLoP Boot Manager\\\" bileşinini \n"
+"lisans anlaşmasını kabul ettikden sonra kurun,\\nPloP özgür yazılım değildir.\\n\\nŞu menüden kurabilirsiniz: Non-Free==> Özgür Olmayan bileşnler  ==> Download PloP Boot Manager"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Hata: Lütfen PloPu kurun"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Hata: Lütfen gerekli dosyaları Non-Free menüsünden kurun"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Windows XP'nin İSO kalıbını başlatmak için kullanılır"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "firadisk.ima dosyasını indir"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Lütfen aşağıdaki listeden \\n kullanmak istediğiniz USB aygıtını seçiniz.\\n\\<span color='red'>Dikkat!,\\nDiskin MBR alanına Grub2 kurulacak.\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Scriptin bu bölümü Ubuntu karmic ve lucid içindir."
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Uyarı! Eğer Burg kuracaksanız \\nBu yazılım henüz deneme niteliğindedir."
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Burg Güncelle"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Kişisel tema"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Burgu Kur/Güncelle (sorunlu)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Varsayılan Tema:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Kullanmak istediğini varsayılan temayı seçin"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Kopyalama devam ediyor..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Kişisel Simgeler"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Download Hatası"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Hata: Aynı isimde bir dosya zaten mevcut."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "USB Flash diskinizin bir etiketi yoktu, Multisystem bunu düzeltti.\\nBu değişiklik için USB diski çıkarıp tekrar takın."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Mount noktası olarak USB sürücü etiketi eşleşmiyor!Çıkarıp-tekrar takın"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Bağış yap"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Bağış yapma"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "Şimdiye kadar multisistem ücretsizdir \\nancak gelişimi özgür değildir! \\nEğer düzenli olarak kullanıyorsanız \\nve, bu ilerlemeye devam ediyor isteyen \\nteşekkür ederim paypal üzerinden destek için. \\n\\nŞimdiden TEŞEKKÜRLER ! \\nFrançois Fabre @frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Bootloader menüsündeki ismi düzenlemek için çift tıklayın."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Yedekleme İşlemleri"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Yedekle"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Geri Yükle"
+
+#, sh-format
+msgid "de"
+msgstr "-"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "Dikkat!\\nGeri yükleme işlemi \\ntüm içeriği tamamen siler:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB Flash disk:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "USB Flash diskin UUID kodu:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "USB Flash diskin Boyutu"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Bu pencereyi kapat"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Hata: Lütfen Multisystem\\047i başlatın"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Hata: Yedekleme dosyası zaten mevcut"
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Yedekleme  dosyası:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Geri yükleme dosyasının seçilmesi"
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Hata:Yedekleme dosyası tespit edilemedi"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Hata: USB flash diskin boyutu çok küçük"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Geri yükleme tamamlandı,\\nLütfen Multisystem\\047i çalıştırmadan önce\\n USB Flash diskinizi çıkarıp tekrar takın."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Formatlama tamamlandı,\\nLütfen Multisystem\\047i çalıştırmadan önce\\n USB Flash diskinizi çıkarıp tekrar takın."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Hata: Yazılım blokları kayıtları kullanmakta, lütfen kapatın."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "MultiSystem Hakkında"
+
+#, sh-format
+msgid "À propos"
+msgstr "Hakkında"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Çevirmen"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "Multisistem, çevirmenler arıyor, \\nEğer katılmak için istiyorsanız,\\nBizimle  kuracağınız bağlantı için teşekkür ederiz. \\nİletişim:"
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Kısmi güncelleme"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Bir Boot seçeneği ekle (Komut Satırı)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Menülerde ikonlar aktif olsun mu ?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr ""
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr ""
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr ""
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr ""
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr ""
+
+#, sh-format
+msgid "Titre"
+msgstr ""
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Lütfen hacmi yükleme Grub2 onaylamak:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr ""
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr ""

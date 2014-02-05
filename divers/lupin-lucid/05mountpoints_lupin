@@ -1,0 +1,24 @@
+#! /bin/sh
+
+PREREQ=""
+DESCRIPTION="Moving mount points..."
+
+prereqs ()
+{
+	echo "$PREREQ"
+}
+
+case $1 in
+# get pre-requisites
+prereqs)
+	prereqs
+	exit 0
+	;;
+esac
+
+. /scripts/casper-functions
+
+if grep -q '^[^ ]* /isodevice ' /proc/mounts; then
+	mkdir -p /root/isodevice
+	mount -n -o move /isodevice /root/isodevice
+fi

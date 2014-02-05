@@ -1,0 +1,28 @@
+#! /bin/sh
+
+PREREQ=""
+DESCRIPTION="Running casper hooks..."
+
+prereqs ()
+{
+	echo "$PREREQ"
+}
+
+case $1 in
+# get pre-requisites
+prereqs)
+	prereqs
+	exit 0
+	;;
+esac
+
+. /scripts/casper-functions
+
+if [ -d /custom-installation ]; then
+    cp -af /custom-installation/ /root/custom-installation || true
+    cp -af /custom-installation/iso-override/* /root/ || true
+    rm -rf /custom-installation/iso-override || true
+    if [ -x /custom-installation/hooks/casper-bottom.sh ]; then
+        /custom-installation/hooks/casper-bottom.sh
+    fi
+fi

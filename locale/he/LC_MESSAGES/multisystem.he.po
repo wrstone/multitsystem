@@ -1,0 +1,1138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "הפעלה מחדש"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "יש להפעיל את המחשב מחדש"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "יש ללחוץ על [Tab] על מנת לראות את אפשרויות האתחול"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "קובץ תמונת דיסק אתחול זמין,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "נתיב"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "לפני אתחול המחשב, אם נדרש,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "הכניסו דיסק אתחול והתקן נשלף"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "שגיאה: ההתקן להלן אינו זמין:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "שגיאה: ההתקן הנשלף אינו זהה!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "שגיאה: הקובץ grub.cfg אינו בתוקף"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr " שגיאה: הקובץ menu.lst אינו בתוקף"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "שגיאה: קובץ ה.ISO  שנבחר כולל בשמו תווים שאינם נתמכים:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "שגיאה: כבר קיים קובץ בשם זה."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "שגיאה: בלתי אפשרי לזהות סמן:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "ססמת המנהל נדרשת על מנת לעגן את הקובץ"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "שגיאה: שגיאה בעיגון קובץ ה.ISO "
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "מעתיק..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "מעדכן את GRUB, אנא המתן"
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB זקוק להרשאות מנהל "
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "שגיאה: הדיסק החי כבר קיים ברשימה."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "מוריד..."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "שגיאה: בלתי אפשרי להוריד את הארכיון."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "שגיאה: קובץ הISO אינו נתמך לעת עתה."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "לקבצי  .img, נדרשות הרשאות מנהל"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "מעתיק .ISO..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "הדיסק החי נמחק."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "שגיאה: נכשל בזיהוי הדיסק החי."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "יוצר את הדיסק החי."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "הדיסק החי מרובה האיתחולים זמין:\\nנתיב:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "שגיאה: קובץ הpersistent כבר קיים,\\nניתן ליצור קובץ אחד  בלבד מסוג זה."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "שגיאה: אנא בחרו הפצה\\nשאליה ברצונכם להוסיף קובץ persistent!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "שגיאה: כשלון בזיהוי boot=casper\\nקובץ persistent שמור עבור הפצות מבוססות אובונטו."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "גודל קובץ persistent, ב MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "יוצר את קובץ הpersistent"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "עדכון"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "הסרה"
+
+#, sh-format
+msgid "Informations"
+msgstr "מידע"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "האם ההתקן הנשלף מחובר?\\n\\nאנא חברו התקן נשלף שפורמט למערכת הקבצים FAT32 \\nועגנו אותו ב /media\\n\\nלאחר מכן אתחלו את MultiSystem."
+
+#, sh-format
+msgid "Valider"
+msgstr "אישור"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>אנא בחרו התקן נשלף\\nמהרשימה הבאה.\\nאזהרה!,\\nGrub2 יותקן בMBR\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "התקן|יצרן|דגם|גודל|בשימוש|פנוי|אפיק|מנהל התקן"
+
+#, sh-format
+msgid "Annuler"
+msgstr "ביטול"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "שגיאה: האם יש לך הרשאות כתיבה לתיקייה?:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "סגירה"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "שגיאה: חסר: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "שגיאה:אפיק שגוי"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "GRUB הגדרות"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "הוסף מצב persistent"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "הורד דיסקים חיים"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "בדוק בQemu"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "איתחול  מGrub/Grub2"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "איתחול מWindows XP"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "איתחול מWindows Vista"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "איתחול מMacIntel"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "יצירת דיסק חי מרובה איתחולים"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "בחינת הדיסק החי בQemu"
+
+#, sh-format
+msgid "Quitter"
+msgstr "יציאה"
+
+#, sh-format
+msgid "Menus"
+msgstr "תפריט"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "התקן נשלף :"
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "נקודת עיגון:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "גודל:"
+
+#, sh-format
+msgid "Occupé:"
+msgstr "בשימוש:"
+
+#, sh-format
+msgid "Libre:"
+msgstr "פנוי:"
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "מספר דיסקים חיים:"
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "גרור והשלך קובץ ISO/img"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "עריכת .../grub.cfg, קובץ ההגדרות של Grub2  "
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "עריכת .../menu.lst, קובץ ההגדרות של grub4dos"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "בחרו את תמונת האיתחול של Grub2"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "הקס|כותרת"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "צבע הטקסט"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "צבע הרקע"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "צבע הטקסט הנבחר"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "צבע הרקע הנבחר"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "שגיאה: נכשל בזיהוי הסוג:PNG בבחירה."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "שגיאה: כשלון בהמרה  ל640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "שגיאה: MultiSystem כבר מותקן."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "שגיאה: MultiSystem צריך להיות מותקן מ: /tmp/multisystem/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "שגיאה: נדרשות הרשאות על מנת להתקין."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "צור משגר בתפריט:/יישומים/עזרים/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "צור משגר ב\\nתפריט: /יישומים/עזרים/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "מכאן והלאה אתחל את התכנה דרך:\\nתפריט: /יישומים/עזרים/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu זקוק להרשאות מנהל"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "הפעל Qemu CLE_USB:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "התקנת qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "הדר והגדר את kqemu (acceleration)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "זיכרון RAM פנוי: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "שגיאה: אין מספיק זיכרון RAM פנוי:$RAM_LIBRE נדרש:256 MiB"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "שגיאה: הסרת MultiSystem אפשרית רק כאשר התכנה מותקנת."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "שגיאה: נדרשות הרשאות על מנת להסיר."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "אנא בחרו אפשרות מהרשימה להלן"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "מבצע"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "אשרו, הסרת MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "או חיזרו הביתה"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "MultiSystem הותקן בהצלחה."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "שגיאה: עדכון MultiSystem אפשרי רק כאשר התכנה מותקנת."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "שגיאה: נדרשות הרשאות על מנת לעדכן."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "לא לעדכן "
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "עדכן"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "שגיאה: אין אפשרות להוריד את הקובץ version-multisystem.txt "
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "מחפש עדכונים"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "אין עדכון זמין,\\nזוהי הגרסה המעודכנת."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "שגיאה: נכשל בזיהוי גרסת MultiSystem."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "מחיקת Plop מGrub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "הוספת Plop לGrub/Grub2"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "ממשק זה מאפשר הוספה\\nאו הסרה של Plop bootloader\\nלמנהל האיתחול\\nבהנחה שGrub/Grub2 הם מנהלי האיתחול.\\n\\nמאפשר איתחול מהיר יותר של ההתקן הנשלף."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "איתחול MultiSystem LiveUSB ממקינטוש מבוסס אינטל,\\nאופציה זו לא נבדקה,\\nושום משוב אודותיה לא התקבל.\\nאנא שלחו משוב לכתובת...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "הורדת rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "הוסיפו ערך בתפריט מנהל האיתחול של Windows Vista\\nעל מנת לאתחל מההתקן הנשלף.\\n\\nכדי לעשות זאת לאחר איתחול Vista\\nהורידו את EasyBCD\\nחברו את ההתקן הנשלף\\nהריצו את EasyBCD\\nלחצו על \"Add/Remove Entries\"\\nבחרו בלשונית לינוקס\\nהגדירו את האפשרויות הבאות:\\nType: GRUB\\nName: LiveUSB\\nDrive: (select partition 0 of your USB key)\\nלא לסמן את!\"GRUB isn\\047t installed to the boot sector\"\\nלחצו על: \"+ Add Entry\"\\nלחצו על: \"Save\"\\nסיימנו! .\\nצילום מסך:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nבאיתחול הבא בחרו בהתקן הנשלף,\\nתתבקשו להכניס התקן,\\nלחצו אנטר.\\n\\nאפשרות נוספת,\\nהוסיפו את מנהל האיתחול plop למנהל האיתחול של Windows Vista \\nראו: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "הורדת EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "הוסיפו את מנהל האיתחול plop למנהל האיתחול של Windows Vista \\nראו: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "הוסיפו את מנהל האיתחול plop ל Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr " שינוי הRamdisk מתבצע, נא להמתין..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "אנא צרבו את תמונת הדיסק \\nנתיב: $HOME/cd-boot-liveusb.iso\\n(קליק ימני, צריבת דיסק...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(קליק ימני, צריבת דיסק...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "שגיאה:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "נדרשת סיסמת מנהל"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "שגיאה: הקובץ syslinux.cfg אינו בתוקף"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "שגיאה:מצב persistent אינו נתמך בהפצה זו"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "מסנן"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "אפשר מצב persistent"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "אפשר תיקיית בית נפרדת"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "אפשר הצפנת מידע"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "אפשר מצב persistent בתיקיית בית נפרדת"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "שגיאה: אין מספיק זיכרון פנוי:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "אפשר הצפנת מידע בתיקיית הבית"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "שפות נוספות"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "שנה שפה"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "תרגום קובץ .po"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "מבצע ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "בדוק בVirtualBox"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "איתחול"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "שגיאה: אין מספיק זיכרון RAM פנוי :"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "לחצו אנטר כדי להמשיך"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "אזהרה!\\nהנכם עומדים להתקין\\nגרסה לא חופשית של VirtualBox"
+
+#, sh-format
+msgid "Installer"
+msgstr "התקנה"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "אנא עגנו את ההתקן הנשלף מחדש בצורה ידנית"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "נסה את הדיסק החי בVirtualBox"
+
+#, sh-format
+msgid "Tester"
+msgstr "בדוק"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "הוסף דיסק חי"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "פתח את VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "בדיקת עדכונים בעת האיתחול"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "עריכת קובץ ההגדרות של syslinux .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "צבע הרקע"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "ערכות צבעים"
+
+#, sh-format
+msgid "Créer"
+msgstr "צור"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "בדיקת הדיסק החי בQemu"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "בדיקת הדיסק החי בVirtualBox"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "אזהרה!\\nההתקן הנשלף יפורמט:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nכל התוכן\\nימחק בצורה מוחלטת."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "פירמוט ההתקן הנשלף"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "ברירת המחדל של Spalsh"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "סובב אנכית"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "הסרת splash"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "סובב אופקית"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "ברירת המחדל"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "שגיאה:אנא השתמשו במנהל החבילות."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "יצירת משגר בתפריט:/יישומים/עזרים/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "יצירת משגר ל MultiSystem ב\\nתפריט: /יישומים/עזרים/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "שימו לב, אתם מוחקים:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "אזהרה לפני מחיקה"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "הסרת מערכת הפעלה"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "שגיאת vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "שגיאת דיסק"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "שגיאת /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "שגיאת handing"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "שגיאת virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "עדכון Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "צרו דיסק כדי להריץ את ההתקן הנשלף "
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "עדכון זמין"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "התקנת VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "לחצו על מקש כדי להמשיך ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "לא נבחר"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "שנה גודל"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "הסרת התוכן"
+
+#, sh-format
+msgid "Attention!"
+msgstr "אזהרה!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "הנכם מסירים את התוכן של:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "שגיאה: נכשל בעיגון ההתקן:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "שינוי גודל קובץ persistent"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "ניפוי שגיאות"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "אנא המתינו לבדיקה הנוכחית..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "שגיאה: אין מספיק מקום פנוי על מנת לבצע בדיקה זו,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "ממתין , לחצו אנטר כדי להמשיך."
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted print"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "הראה את הmbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "מידע udevadm "
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "גרסת Grub2"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "תיקון fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "מבחן ביצועי כתיבה"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "מבחן ביצועי קריאה"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "ההרשאות לקובץ פחותות מ600"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "שגיאה: נכשל בזיהוי handing liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "שגיאה: לא מנהל!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "שגיאה: נכשל במחיקה:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "שגיאה: הפקודה blkid אינה עובדת כראוי, אנא הפעילו מחדש."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "שגיאה: MultiSystem לא תומך ברווחים בתויות."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "הוספה"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "ערכת נושא אדומה"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "ערכת נושא ירוקה"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "ערכת נושא כחולה"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "ערכת נושא נוכחית:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "שגיאה: לא נבחר דבר."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "אזהרה!\\nהקובץ autorun.inf שונה, וירוס?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "אזהרה!\\nהקובץ multisystem.bat שונה, וירוס?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "הצג/הסתר קבצים/תיקיות בהתקן הנשלף"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "הצג הכל"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "הסתר הכל"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "תוכנו של ההתקן הנשלף"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "הצג / הסתר קבצים/תיקיות\\nעובד עם נאוטילוס בלבד."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "התקנת רכיבים לא חופשיים"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "לא חופשי"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "רכיב לא חופשי MultiSystem"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "מנהל האיתחול PLoP הוא תכנה חינמית."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "הורדת מנהל האיתחול PLoP "
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "בשימוש על ידי BartPE iso"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "הורדת Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "אנא התקינו את מנהל האיתחול PLOP \\\"\\\"\\nלאחר אישור תנאי הרישיון.\\nPlop הוא תכנה חינמית אך לא חופשית.\\n\\nההתקנה זמינה דרך התפריט: לא חופשי ==> התקנת רכיבים לא חופשיים ==> הורדת מנהל האיתחול Plop "
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "שגיאה: אנא התקינו את PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "שגיאה: אנא התקינו את הקבצים הדרושים, מתפריט \"לא חופשי\""
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "משמש לאיתחול קובץ הiso של Windows XP"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "הורדת firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>אנא בחרו את ההתקן הנשלף\\nמהרשימה שלהלן.\\n\\<span color='red'>אזהרה!,\\nGrub2 יותקן בmbr.\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "רכיב זה של התכנה נועד בשביל אובונטו קרמיק ואובונטו לוסיד"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "אזהרה! הנכם עומדים להתקין את Burg,\\nזוהי תכנה נסיונית."
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "עדכון Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "ערכת נושא מותאמת אישית"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "התקנת/עדכון Burg (patience)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "ערכת הנושא המשמשת כברירת מחדל:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "הגדרת ערכת הנושא המשמשת כברירת מחדל"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "מעתיק ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "צלמיות מותאמות אישית"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "שגיאת הורדה"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "שגיאה: כבר קיים קובץ בשם זה."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "ההתקן הנשלף לא הכיל תוית, multisystem תיקן זאת,\\nאנא נתקו וחברו מחדש את ההתקן על מנת להחיל את השינוי."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "נתקו וחברו מחדש את ההתקן, מכיוון שנקודת העיגון אינה תואמת את התוית של התקן."
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "לתרום"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "לא לתרום"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "עד עתהMultiSystem הוא חפשי\\nאבל הפיתוח שלו אינו חינמי!\\nאם אתם משתמשים בו לעיתים מזומנות\\nומעוניינים בהמשך הפיתוח,\\nאנא תירמו דרך paypal.\\n\\nבתודה מראש!\\nFrançois Fabre @frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "לחיצה כפולה על מנת לערוך את שמות הערכים בתפריט מנהל האיתחול."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "גיבוי/שחזור"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "גיבוי"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "שחזור"
+
+#, sh-format
+msgid "de"
+msgstr "של"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "אזהרה!\\nשחזור מוחק את כל התוכן בצורה בלתי הפיכה:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "התקן נשלף:"
+
+#, sh-format
+msgid "UUID Clé USB:"
+msgstr "UUID USB key:"
+
+#, sh-format
+msgid "Taille de la Clé USB"
+msgstr "גודל ההתקן"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "סגירת חלון"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "שגיאה: אנא אתחלו את MultiSystem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "שגיאה: קובץ הגיבוי כבר קיים."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "קובץ הגיבוי נמצא ב:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "בחירת קובץ לשחזור."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "שגיאה: נכשל בזיהוי קובץ הגיבוי"
+
+#, sh-format
+msgid "Erreur: Clé USB trop petite"
+msgstr "שגיאה: ההתקן קטן מידי"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "השחזור הושלם,\\nאנא נתקו וחברו שנית את ההתקן\\nלפני איתחול multisystem."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "הפירמוט הושלם,\\nאנא נתקו וחברו שנית את ההתקן\\nלפני איתחול multisystem."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "שגיאה: תכנה כלשהי חוסמת את השימוש ברשומות, אנא סגרו אותה."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>אזהרה:</b> בהפצת מנדריבה, התכנה צריכה לטעון את\\nהתוית של ההתקן שלך\\047. התוית היא MANDRIVAONE.\\nאין לשנות תוית זו, אחרת מנדריבה לא תוכל לאתחל,\\n\\nאנא <b>נתקו וחברו מחדש</b> את ההתקן. לאחר מכן המערכת תראה את התוית החדשה."
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "אתחלו את Qemu לאימות האיתחול"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID של ההתקן:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "גודל ההתקן"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "שגיאה: גודלו של ההתקן קטן מידי"
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "אודות MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "אודות MultiSystem"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "מתרגם"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "MultiSystem מחפשים מתרגמים,\\nאם אתם מעוניינים לסייע,\\nנודה על יצירת קשר עמנו.\\nפרטי יצירת קשר:"
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "חלקי עדכון"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "הוספת אפשרות אתחול (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "אפשר סמל בתפריטים של GNOME?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr ""
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr ""
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr ""
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr ""
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr ""
+
+#, sh-format
+msgid "Titre"
+msgstr ""
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "נא לאשר Grub2 התקנה בנפח:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr ""
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr ""

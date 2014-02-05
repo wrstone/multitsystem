@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Neustarten"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Starte Deinen Computer neu"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "[Tab] für Boot Optionen"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Boot CD Image ist verfügbar,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Pfad"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Falls nötig, vor dem Neustart des Computers,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "Boot CD einlegen und USB-Stick einstecken"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Fehler: Das folgende Volume ist nicht verfügbar:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Fehler: Dies ist nicht derselbe USB-Stick!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Fehler: grub.cfg ist ungültig"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Fehler: menu-lst ist ungültig"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Fehler: Die ausgefählte ISO-Datei hat ein ungültiges Zeichen im Dateinamen."
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Fehler: Eine Datei mit diesem Namen existiert bereits."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Fehler: Der Marker kann nicht identifiziert werden."
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Das Administratorpasswort wird zum mounten der Datei benötigt."
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Fehler: Kann die ISO-Datei nicht mounten."
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Kopiere..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "GRUB wird aktualisiert. Bitte warten...."
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB benötigt Administrationsrechte"
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Fehler: LiveCD ist bereits vorhanden."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Download läuft...."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>WARNUNG:</b> unter Mandriva muß das Skript das Label des USB-Sticks lesen. Das neue Label des Sticks ist MANDRIVAONE.\\nFalls Du das Label änderst, wird Mandriva nicht mehr booten.\\n\\nBitte <b>entferne den Stick und stecke ihn ernut an</b>. Das System wird danach das neue Label zeigen."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Fehler: Archiv kann nicht heruntergeladen werden."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Fehler: ISO wird noch nicht unterstützt."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "Zum bearbeiten von .img Datein werden Adminrechte benötigt."
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "ISO Datei wird kopiert...."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "Lösche die Live CD."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Fehler: Live CD wurde nicht gefunden."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "Live CD wird erstellt."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "Deine MultiSystem Live CD ist fertig!:\\nPath:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Fehler: Persistent Mode wurde bereits gewählt,\\nEs ist nur eine persistent Installation möglich."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Fehler: Bitte Distribution auswählen\\nzu der der Persistent Modus hinzugefügt werden soll!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Fehler: Kann boot=casper nicht finden\\nPersistent Mode ist nur mit Ubuntu-basierten Distributionen möglich."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Größe des Persistent Mode, in MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "CErstelle PErsistent Mode "
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Aktualisieren"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Deinstallieren"
+
+#, sh-format
+msgid "Informations"
+msgstr "Informationen"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Ist Dein USB-Stick eingesteckt?\\n\\nBitte stecke einen FAT32 formatierten\\nUSB Stick\\n ein und mounte ihn unter /media\\n\\nStarte danach MultiSystem neu."
+
+#, sh-format
+msgid "Valider"
+msgstr "Überprüfe"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Bitte wähle den USB-Stick der benutzt werden soll\\naus der folgenden Liste aus.\\nWARNUNG!,\\nGrub2 wird im Master Boot Record des Sticks installiert werden.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Gerät|Marke|Modell|Größe|Benutzt|Frei|Bus|Treiber"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Abbrechen"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Fehler: Hast Du Schreibrechte in diesem Ordner?:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Schliessen"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Fehler: Fehlend: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Fehler: Falscher Bus"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "GRUB Einstellungen"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Persistent Mode hinzufügen"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "Live CDs herunterladen:"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Testen in Qemu"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Von Grub/Grub2 booten"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Von FehlerWindows XP booten"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Von Windows Vista booten"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Von MacIntel booten"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "MultiSystem LiveCD erstellen"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "LiveCD in Qemu testen"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Beenden"
+
+#, sh-format
+msgid "Menus"
+msgstr "Menüs"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB Laufwerk :"
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Mount Point:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "Größe:"
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Benutzt:"
+
+#, sh-format
+msgid "Libre:"
+msgstr "Frei:"
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Anzahl LiveCDs:"
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Drag and Drop ISO/img"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Grub2 Konfiguratuionsdatei bearbeiten .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "grub4dos Konfigurationsdatei bearbeiten .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Grub2 boot image auswählen"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hex|Titel"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Textfarbe"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Hintergrundfarbe"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Textfarbe auswählen"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Hintergrundfarbe auswählen"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Fehler: Deine Auswahl ist kein .PNG"
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Fehler: Kann die Größe nicht auf 640x480 ändern."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Fehler: MultiSystem ist bereits installiert."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "Fehler: MultiSystem muss von /tmp/multisystem/multisystem us installiert werden."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Fehler: Installation muss mit sudo gestartet werden."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Lege Starter im Menü an:/Anwendungen/Zubehör/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "MultiSystem Starter im\\nMenü: /Anwendungen/Zubehör/MultiSystem LiveUSB anlegen"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Zum starten nutze bitte \\nMenü: /Anwendungen/Zubehör/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu benötigt Adminrechte"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Qemu CLE_USB starten:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Qemu installieren"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "kqemu kompilieren und installieren (Beschleunigung)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "Verfügbares RAM: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Fehler: Nicht genug freies RAM:$RAM_LIBRE Benötigt:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Qemu zum Boot-Test starten"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Fehler: Deinstallation ist nur möglich, wenn MultiSystem installiert ist."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Fehler: Deinstallation muss mit sudo gestartet werden."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Bitte eine Option aus der folgenden Liste auswählen:"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Diese Funktion ausführen:"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "Bestätige: MultiSystem deinstallieren?"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Oder zum Hauptmenü zurückkehren"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "MultiSystem Deinstallationw ar erfolgreich"
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Fehler: Aktualisierung ist nur Verfügbar, wenn MultiSystem installiert ist."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Fehler: Update muss mit sudo gestartet werden."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Skript nicht aktualisieren."
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Skript aktualisieren"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Fehler: kann version-multisystem.txt nicht herunterladen"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Nach Aktualisierungen suchen"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Keine Aktualisierung vorhanden,\\nDu benutzt bereits die aktuelle Version des Skriptes."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Fehler: Kann MultiSystem Version nicht erkennen."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Plop löschen aus Grub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Plop zu Grub/Grub2 hiunzufügen"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Dieses Menü ermöglicht das\\n hinzufügen oder entfernen des Plop Bootloaders\\nin den Bootmanager,\\nwenn Du Grub oder Grub2 benutzt.\\n\\n Es ermöglicht Deinen MultiSystem USB-Stick sehr einfach zu starten...."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "MultiSystem auf einem Intel Mac starten.\\nDieses Feature ist noch nicht getestet.\\\\nBitte schicke Feedback, ob es funktioniert oder nicht...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "rEFIt herunterladen"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Einen Eintrag zum Windows Vista Boot Manager hinzufügen\\n um LiveUSB zu starten.\\n\\nLade nach dem Start von Vista\\n EasyBCD herunter,\\nstecke Deinen USB-stick ein,\\nstarte EasyBCD,\\klicke auf \"Add/Remove Entries\"\\nwähle das Linux Tab\\nund stelle folgende Optionen ein:\\nType: GRUB\\nName: LiveUSB\\nDrive: (Partition 0 vom USB-Stick auswählen)\\n Nicht auswählen: \"GRUB isn\\047t installed to the boot sector\"\\n Auswählen: \"+ Add Entry\"\\n Auswählen: \"Save\"\\nFertig! .\\nScreenshot:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nWähle beim nächsten Boot LiveUSB aus.\\nDu wirst aufgefordert werden das Volume einzulegen.\\n Klicke auf Enter.\\n\\n Alternativ kannst Du den\\n Plop Bootloader als Windows Vista Boot Manager benutzen\\nsee: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "EasyBCD herunterladen"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Plop Bootloader\\nasl Windows Vista Boot Manager benutzen:\\nhttp://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Plop Boot Manager unter Windows XP benutzen"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Ramdisk wird modifiziert. Bitte warten..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Bitte brenne das CD-Image\\nPfad: $HOME/cd-boot-liveusb.iso\\n(rechtsklick, ISO auf CD brennen...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(rechtsklick, ISO auf CD brennen...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Fehler:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Administrationspasswort benötigt"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Fehler: Datei syslinux.cfg ist ungültig"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Fehler: Persistent Mode ist nicht verfügbar für diese Distribution"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Filter"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Persistent Overlay aktivieren"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Seperate Home Partition aktivieren"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Verschlüsselung aktivieren"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Seperate persistent Home aktivieren"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Fehler: Nicht genug freier Speicherplatz:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Verschlüsselung von data Home aktivieren"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Internationalisierung"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Sprache ändern"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "Eine .po Datei übersetzen"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Operation läuft ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Test in VirtualBox"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Boot"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Fehler: Nicht genug RAM verfügbar:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "ENTER drücken zum fortfahren"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "ACHTUNG!\\nDu installierst die\\nnon-free Version von VirtualBox"
+
+#, sh-format
+msgid "Installer"
+msgstr "Installer"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Bitte den USB-Stick manuell remounten"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "LiveCD in VirtualBox ausprobieren"
+
+#, sh-format
+msgid "Tester"
+msgstr "Test"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "LiveCD hinzufügen"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "Öffne VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Bei jedem Start auf Updates überprüfen"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "Bearbeite die syslinux Configdatei .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Bildschirmhintergrundfarbe"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Frameworkfarben"
+
+#, sh-format
+msgid "Créer"
+msgstr "Erstelle"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "LiveUSB in Qemu testn"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "TLiveUSB in VirtualBox testen"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "WARNUNG!\\nWechseldatenträger wird formatiert:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nAlle Daten auf dem Gerät\\nwerden zerstört."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "USB-Stick formatieren"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Splash default"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Verikal drehen"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Splashscreen entfernen"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Horizontal drehen"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Default"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Fehler: Bitte benutze den Paketmanager:"
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Launcher im Menü anlegen:/Anwendungen/Zubehör/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "MultiSystem launcher konfigurieren in\\nMenu: /Anwendungen/Zubehör/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Achtung, Du löscht:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Prevent before deleting"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Betriebssystem entfernen"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Fehler vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Fehler disk"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Fehler /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Fehler handing"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Fehler virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Update Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "CD zum starten von USB erstellen"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Ein Update ist vorhanden für MultiSystem"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "VirtualBox installieren"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Beliebige Taste zum fortfahren drücken ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Es wurde nichts ausgewählt"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Größe ändern"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Inhalt löschen"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Warnung!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "Du wirst folgenden Inhalt löschen:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Fehler: Kann Laufwerk nicht mounten:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Größe von Persistent ändern"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Debug"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Bitte auf das Ende des Tests warten..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Fehler, es ist nicht genug freier Platz vorhanden, um den Test auszuführen,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Pause. Bitte ENTER zum fortfahren drücken"
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted print"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "MBR zeigen"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm info"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Grub2 Version"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "FAT32 reparieren"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Schrib Benchmark"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Lese benchmark"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Dateireichte für die Datei sind unzureichend"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Fehler: Kann liveusb.info nicht finden"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Fehler: Du bist nicht root!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Fehler: Löschen nicht möglich:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Fehler: Der Befehl blkid funktioniert nicht richtig. Bitte die Sitzung neu starten."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Fehler: MultiSystem erlaubt keinen Leerzeichen in Labels."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Hinzufügen"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Rotes Theme"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Grünes Theme"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Blaues Theme"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "  Aktuelles Theme:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Fehler: Nichts ausgewählt."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "WARNUNG!\\nDatei autorun.inf wurde verändert. Virus?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "WARNUNG!\\n Datei multisystem.bat wurde verändert. Virus?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Anzeigen/Verstecken von Dateien/Ordnern auf Deinem USB-Stick"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Alle anzeigen"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Alle verstecken"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "Inhalt Deines USB-Sticks"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Dateien/Ordner anzeigen/verstecken\\nFunktioniert nur mit Nautilus"
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Non-free Teil wird installiert."
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Non-Free"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Non-free Teil von MultiSystem"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "PLoP Boot Manager ist Freeware."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "PLoP Boot Manager herunterladen"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Wird benutzt von BartPE iso"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Microsoft Windows Server 2003 SP1 herunterladen"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Bitte installiere den \\\"PLOP Boot Manager\\\"\\nNach dem Akzeptieren der Lizenz,\\nPlop ist Freeware aber nicht OpenSource.\\n\\nAnwählbar über das Menü Non-free ==> Installing non-free part ==> Download Plop Boot Manager"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Fehler: Bitte PloP Bootmanager installieren"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Fehler: Biite installiere die notwendigen Dateien. Menü Non-Free"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Wird benutzt um die ISOo von Windows XP zu starten"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "firadisk.ima herunterladen"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Bitte das USB-Laufwerk aus der\\nListe auswählen.\\n\\<span color='red'>WARNUNG!,\\nGrub2 wird im MBR installiert werden.\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Dieser Teil des Skriptes ist für Ubuntu Karmic und Lucid."
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Warnung! Du wirst Burg installieren.\\nBurg ist experimentelle Software."
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Burg aktualisieren"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Persönliches Theme"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Burg installieren/aktualisieren (Bitte Geduld)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Standardtheme:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Standardthema auswählen:"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Kopiere ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Persönliche Icons"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Fehler beim Download"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Fehler: Eine Datei mit demselben Namen existiert bereits"
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "Dein USB-Stick hatte noch kein Label, MultiSystem hat das gerade geändert.\\nBitte ziehe den Stick ab und stecke ihn wieder ein, um die Änderungen anzuwenden."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "USB-Stick bitte abziehen und wieder einstecken, da der Mountpoint nicht dem Label des Sticks entspricht."
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Für MultiSystem spenden"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Nicht für MultiSystem spenden"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "Zur Zeit ist MultiSystem kostenlos,\\naber die Entwicklung kostet viel Zeit.\\nFalls es nützlich für Dich ist\\nund Du die weitere Arbeit an MultiSystem unterstützen möchtest,\\nwürden wir uns über eine Spende via Paypal freuen.\\n\\nVielen Dank!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Doppelklick zum editieren der Namen im Bootloadermenü"
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Backup / Wiederherstellen"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Backup"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Wiederherstellen"
+
+#, sh-format
+msgid "de"
+msgstr "von"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "WARNUNG!\\nWiederherstellen löscht\\nalle alten Inhalte:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB Stick:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID USB Stick:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "Größe des USB Sticks"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Dieses Fenster schließen"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Fehler: Bitte MultiSystem starten"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Fehler: Backup Datei existiert bereits"
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Backup wurde in folgender Datei erstellt:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Datei zur Wiederherstellungauswählen."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Fehler: Backup Datei konnte nicht gefunden werden"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Fehler: USB Stick ist zu klein"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Wiederherstellung erfolgreich.\\nBitte USB-Stick abziehen und wieder einstecken vor\\ndem Start von MultiSystem."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Formatieren erfolgreich.\\nBitte USB Stick abziehen und wieder anstecken\\nvor dem Start von MultiSystem"
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Error: software blocks the use of records, please close it."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "Über MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "Über"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Übersetzung"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "MultiSystem sucht Übersetzer.\\nFalls Du helfen möchtest,\\nkontaktiere uns. Vielen Dank!\\nKontakt:"
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Partial Update"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Fügen Sie eine Boot-Option (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr ""
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr ""
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr ""
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr ""
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr ""
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr ""
+
+#, sh-format
+msgid "Titre"
+msgstr ""
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Bitte bestätigen Sie die Installation Grub2 in der Lautstärke:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr ""
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr ""

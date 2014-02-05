@@ -1,0 +1,294 @@
+MultiSystem
+Site internet:http://liveusb.info/
+Suivi du développement:http://forum.ubuntu-fr.org/viewtopic.php?id=343634
+
+Lanceur:
+/usr/local/share/multisystem/gui_multisystem.sh
+
+Couleurs dispo dans Grub2:
+black
+blue
+green
+cyan
+red
+magenta
+brown
+light-gray
+dark-gray
+light-blue
+light-green
+light-cyan
+light-red
+light-magenta
+yellow
+white
+
+
+#Deconpresser/recompresser un ramdisk
+dossier=""
+initrd=""
+rechercher="iso"
+cd "$dossier"
+gzip -dc "$initrd" | cpio -i
+grep -i iso -R "$dossier"
+find . | cpio -o -H newc | gzip -9 > "$initrd"
+
+xz --decompress --stdout "/home/frafa/Distro/initrd.lz" | cpio -i
+find . | cpio -o -H newc | xz -9 --check=crc32 > "$(cat /tmp/multisystem/multisystem-mountpoint-usb)"/boot/bootdistro/rootfs-x86_64/initrd
+
+lzma -dc -S .lz "$initrd" | cpio -imvd --no-absolute-filenames
+ou
+unlzma -c -S .lz "$initrd" | cpio -id
+find . | cpio --quiet --dereference -o -H newc | lzma -9 > ../initrd.lz
+
+PLOP!
+http://www.plop.at/en/bootmanager.html#runwin
+pour configurer plpbt ==> http://download.plop.at/files/bootmngr/plpcfgbt-0.5.zip
+plpcfgbt stm=hidden cnt=on cntval=1 dbt=usb plpbt.bin
+$HOME/plpcfgbt-0.5/plpcfgbt dbt=usb /media/MANDRIVAONE/boot/img/plpbt.bin
+USB boot without BIOS support (UHCI, OHCI and EHCI)
+download ==> http://www.plop.at/en/bootmanagerdl.html
+
+boot_info_script is a bash script which searches all hard drives attached to the computer 
+for information related to booting. 
+Its primary use is for troubleshooting booting problems. 
+For instructions see http://bootinfoscript.sourceforge.net
+http://sourceforge.net/projects/bootinfoscript/
+
+http://wiki.mandriva.com/fr/Cl%C3%A9_USB
+Badblocks : vérifier l'intégrité physique d'une clef (si elle contient des "mauvais blocs")
+Vérifications d'une partition en mode bavard + lecture seule + indication d'avancement :
+badblocks -v -s /dev/sda2
+Vérification d'une partition en mode bavard + lecture/écriture non destructive + indication d'avancement :
+badblocks -v -n -s /dev/sda2
+
+nautilus "$HOME"/.local/share/icons/hicolor/48x48/apps
+
+
+ntfsfix
+http://doc.ubuntu-fr.org/ntfsfix
+
+#equivalence open-source ==> fdisk /mbr
+http://ms-sys.sourceforge.net/
+http://linux.die.net/man/1/ms-sys
+ms-sys -7 -f /dev/sdX2
+menuentry "Windows 7" {
+insmod ntfs
+set root=(hd0,2)
+chainloader +1
+}
+http://freefr.dl.sourceforge.net/project/ms-sys/ms-sys%20stable/2.2.1/ms-sys-2.2.1.tar.gz
+
+#compiler/installer ms-sys
+cd /tmp
+wget http://freefr.dl.sourceforge.net/project/ms-sys/ms-sys%20stable/2.2.1/ms-sys-2.2.1.tar.gz
+tar xfvz ./ms-sys-2.2.1.tar.gz
+cd ms-sys*
+make
+sudo make install
+
+
+#Distro Contient ms-sys
+BG-Rescue Linux: http://www.giannone.eu/rescue/
+PLD RescueCD: http://rescuecd.pld-linux.org/
+Trinity Rescue Kit: http://trinityhome.org/trk/
+
+
+#préferer cette méthode (user doit appartenir a groupe disk!)
+blkid -g
+blkid -s UUID -o value /dev/sd*
+blkid -g
+blkid -s LABEL -o value /dev/sd*
+blkid -g
+blkid -s TYPE -o value /dev/sd*
+
+blkid -c /dev/null -s UUID -o value /dev/sd*
+blkid -c /dev/null -s LABEL -o value /dev/sd*
+blkid -c /dev/null -s TYPE -o value /dev/sd*
+
+#Tout Afficher 
+blkid -c /dev/null -o full /dev/sd*
+
+#diverses commandes pour vous depanner
+
+#point de montage de MultiSystem
+cat /tmp/multisystem/multisystem-mountpoint-usb
+
+#clé usb utilisée
+cat /tmp/multisystem/multisystem-selection-usb
+
+#version de Grub2
+grub-install -v
+
+#voir version
+apt-cache policy grub-pc
+
+#Obtenir les info sur bios:
+sudo dd if=/dev/mem bs=32k skip=31 count=1 | strings -n 8 | grep -i bios
+sudo dd if=/dev/mem bs=32k skip=30 count=2 | strings | grep -i bios
+sudo dmidecode -s bios-version
+
+Sauvegarde:
+dd if=/dev/sd? of=sauvegarde.img
+Restauration:
+dd if=sauvegarde.img of=/dev/sd? bs=1024
+
+#afficher mbr
+dd if="$(cat /tmp/multisystem/multisystem-selection-usb | sed 's/[0-9]//')" bs=512 count=1 | xxd
+#dd if=/dev/sd?1 of=boot.bin count=1
+
+#reset mbr
+sudo dd if="/usr/lib/syslinux/mbr.bin" of="$(cat /tmp/multisystem/multisystem-selection-usb | sed 's/[0-9]//')"
+
+#remettre Grub2 dans mbr
+sudo grub-install --root-directory="$(cat /tmp/multisystem/multisystem-mountpoint-usb)" --no-floppy --recheck "$(cat /tmp/multisystem/multisystem-selection-usb | sed 's/[0-9]//')"
+
+#lister les disques
+fdisk -l
+
+#differences entre une install en dur et une install wubi... (Grub2 ne fonctionne pas correctement en wubi)
+#http://doc.ubuntu-fr.org/wubi
+#http://doc.ubuntu-fr.org/installation
+
+#Voir version de multisystem
+dpkg -l | grep '^ii  multisystem'
+apt-cache policy multisystem
+
+#
+lsb_release -a && gtkdialog -v && apt-cache policy multisystem
+
+
+#Mode sans opérations : vérifie les erreurs de façon non interac‐tive, 
+#mais n'écrit rien sur le système de fichiers.
+dosfsck -n $(cat /tmp/multisystem/multisystem-selection-usb)
+
+#Réparer fat32
+#lister les fichiers
+dosfsck -l $(cat /tmp/multisystem/multisystem-selection-usb)
+
+#Réparer  interactivement  le  système  de fichiers. 
+dosfsck -r -w -v  $(cat /tmp/multisystem/multisystem-selection-usb)
+
+#Réparer  interactivement  le  système  de fichiers + Marque les blocs illisibles comme étant défectueux
+sudo dosfsck -t -a -r -v $(cat /tmp/multisystem/multisystem-selection-usb)
+
+#Réparer automatiquement
+dosfsck -a -w -v $(cat /tmp/multisystem/multisystem-selection-usb)
+
+
+#test écriture sur disque
+dd if=/dev/zero bs=1024 count=1000000 of=/media/MULTISYSTEM/1Gb.file
+
+#test lecture
+hdparm -Tt $(cat /tmp/multisystem/multisystem-selection-usb)
+dd if=/media/MULTISYSTEM/1Gb.file bs=64k | dd of=/dev/null
+
+#info sur fichier iso:
+isoinfo -l -i /media/multisystem/gparted-live-0.5.1-1.iso
+isoinfo -d -i /media/multisystem/gparted-live-0.5.1-1.iso
+
+#si MultiSystem refuse de se lancer utiliser la commande ci-dessous:
+kill -9 $(lsof | grep /usr/local/share/multisystem | awk '{print $2}' | xargs)
+
+#si MultiSystem de nétecte pas/plus votre clé usb utilisez:
+sudo blkid -g
+
+#changer label en vfat
+echo mtools_skip_check=1 >> ~/.mtoolsrc
+sudo mlabel -i /dev/sdx1 ::multisystem
+
+#gtkdialog pour lucid
+https://launchpad.net/ubuntu/lucid/i386/gtkdialog/2:0.7.20-4
+http://launchpadlibrarian.net/14537936/gtkdialog_0.7.20-4_i386.deb
+
+#udevadm
+udevadm info -q all -n /dev/sd?
+
+stat -c '%Y' /dev/.udev/db
+
+#lshal
+lshal -l
+
+#mise à jour de multisystem
+sudo apt-get update
+sudo apt-get --yes --force-yes -q install --reinstall multisystem
+
+#
+grub-install -v
+lsb_release -a
+uname -a
+
+#Discuter de MultiSystem
+http://chat.jabberfr.org/muckl_int/index.php?room=multisystem
+
+Activation du compte Administrateur sous Windows 7:
+net user Administrateur /active:yes
+
+#monter un fichier de sauvagarde multisystem pour verif
+sudo mount  -t vfat -o loop,offset=32256,rw,shortname=mixed \
+'./MultiSystem-45FA-3086.img' './mountiso'
+
+MBR, FAT et Secteurs de boot : Explications...
+http://forum.pcastuces.com/mbr_fat_et_secteurs_de_boot__explications_-f1s108547.htm?page=1
+
+# dd if=/dev/sdx of=/mbr_sdx.bak bs=512 count=1       # Backup the full MBR
+# dd if=/dev/zero of=/dev/sdx bs=512 count=1          # Delete MBR and partition table
+# dd if=/mbr_sdx.bak of=/dev/sdx bs=512 count=1       # Restore the full MBR
+# dd if=/mbr_sdx.bak of=/dev/sdx bs=446 count=1       # Restore only the boot loader
+# dd if=/mbr_sdx.bak of=/dev/sdx bs=1 count=64 skip=446 seek=446 # Restore partition table
+
+#Efacer uniquement le bootloader de /dev/sdx
+dd if=/dev/zero of=/dev/sdx bs=440 count=1
+
+#http://www.arcanapercipio.com/lessons/codage_binaire_du_texte/codage_binaire_du_texte.html
+0 	NUL 	☺ 	☻ 	♥ 	♦ 	♣ 	♠ 	• 	◘ 	○ 	◙ 	♂ 	♀ 	♪ 	♫ 	☼
+1 	► 	◄ 	↕ 	‼ 	¶ 	§ 	▬ 	↨ 	↑ 	↓ 	→ 	← 	∟ 	↔ 	▲ 	▼
+2 	espace 	! 	" 	# 	$ 	% 	& 	' 	( 	) 	* 	+ 	, 	- 	. 	/
+3 	0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	: 	; 	< 	= 	> 	?
+4 	@ 	A 	B 	C 	D 	E 	F 	G 	H 	I 	J 	K 	L 	M 	N 	O
+5 	P 	Q 	R 	S 	T 	U 	V 	W 	X 	Y 	Z 	[ 	\ 	] 	^ 	_
+6 	` 	a 	b 	c 	d 	e 	f 	g 	h 	i 	j 	k 	l 	m 	n 	o
+7 	p 	q 	r 	s 	t 	u 	v 	w 	x 	y 	z 	{ 	| 	} 	~ 	⌂
+8 	Ç 	ü 	é 	â 	ä 	à 	å 	ç 	ê 	ë 	è 	ï 	î 	ì 	Ä 	Å
+9 	É 	æ 	Æ 	ô 	ö 	ò 	û 	ù 	ÿ 	Ö 	Ü 	¢ 	£ 	¥ 	₧ 	ƒ
+A 	á 	í 	ó 	ú 	ñ 	Ñ 	ª 	º 	¿ 	⌐ 	¬ 	½ 	¼ 	¡ 	« 	»
+B 	░ 	▒ 	▓ 	│ 	┤ 	╡ 	╢ 	╖ 	╕ 	╣ 	║ 	╗ 	╝ 	╜ 	╛ 	┐
+C 	└ 	┴ 	┬ 	├ 	─ 	┼ 	╞ 	╟ 	╚ 	╔ 	╩ 	╦ 	╠ 	═ 	╬ 	╧
+D 	╨ 	╤ 	╥ 	╙ 	╘ 	╒ 	╓ 	╫ 	╪ 	┘ 	┌ 	█ 	▄ 	▌ 	▐ 	▀
+E 	α 	ß 	Γ 	π 	Σ 	σ 	µ 	τ 	Φ 	Θ 	Ω 	δ 	∞ 	φ 	ε 	∩
+F 	≡ 	± 	≥ 	≤ 	⌠ 	⌡ 	÷ 	≈ 	° 	∙ 	· 	√ 	ⁿ 	² 	■ 	nbs
+
+
+
+#http://www.linuxpedia.fr/doku.php/commande/su_sudo
+http://doc.ubuntu-fr.org/sudoers
+#Pour éditer ton fichier /etc/sudoers la commande est (Attention a ce que tu met dedans!):
+Dans Ubuntu : sudo VISUAL=/usr/bin/gedit visudo
+Dans Kubuntu : sudo VISUAL=/usr/bin/kate visudo
+Dans Xubuntu : sudo VISUAL=/usr/bin/mousepad visudo
+En mode console : sudo EDITOR=/usr/bin/nano visudo
+
+
+https://bugs.launchpad.net/ubuntu/+source/sudo/+bug/692391
+http://linux.about.com/od/commands/l/blcmdl5_sudoers.htm
+#/etc/sudoers
+Defaults	!tty_tickets,env_reset
+Defaults	!tty_tickets,env_reset,timestamp_timeout=15 # Mémorise la dernière saisie du mot de pass pendant 15 minutes
+
+
+udisks --show-info /dev/sda
+
+#Afficher mbr
+sudo dd if=/dev/sdx bs=512 count=1 | hexdump -C
+
+sudo dmidecode --type 0
+sudo biosdecode
+lshw
+lshw -html >lshw.html && xdg-open lshw.html
+
+
+
+
+
+
+

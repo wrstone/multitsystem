@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Ponovo pokrenite računalo"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Ponovo pokrenite računalo"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Pritisni [Tab] za prikaz boot opcija"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Boot CD slika je dostupna,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Putanja"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Prije ponovnog pokretanja vašeg računala, ako je potrebno,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "Umetnite boot CD i USB"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Pogreška: sljedeći volume je nedostupan:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Pogreška: USB nije isti!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Pogreška: grub.cfg datoteka nije valjana"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Pogreška: menu.lst  datoteka nije valjana"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Pogreška: Odabrana .ISO datoteka sadrži nepodržane karaktere u svom nazivu:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Pogreška: Datoteka sa istim nazivom već postoji."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Pogreška: Nemoguće je otkriti oznaku:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Administratorska lozinka je potrebna za montiranje datoteke"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Pogreška: u montiranju .ISO datoteke"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Kopiranje u tijeku..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "GRUB ažuriranje, molimo pričekajte"
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB zahtjeva administratorske ovlasti"
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Pogreška: LiveCD je već prisutan."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Preuzimanje je u tijeku..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>UPOZORENJE:</b> za Mandrivu, skripta se mora učitati\\nvaš USB\\047s naziv. Novi naziv je MANDRIVAONE.\\nTaj naziv ne mijenjajte, ili se Mandriva više neće ponovo pokrenuti,\\n\\nMolimo <b>izvadite/ponovo umetnite</b> vaš USB. Vaš sustav će sada prikazati novi naziv."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Pgreška: arhivu nije moguće preuzeti."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Pogreška: ISO nije za sada podržan."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr ".img datoteke, zahtjevaju administratorske ovlasti"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "Kopiranje .ISO datoteke je u tijeku..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "Brisanje LiveCD-a."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Pogreška: Nemoguće je detektirati LiveCD."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "Napravite LiveCD."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "Vaš MultiSystem LiveCD je dostupan:\\nPutanja:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Pogreška: persistent mode već postoji,\\nSamo jedna persistent instalacija je dostupna."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Pogreška: Molimo odaberite distribuciju\\nkoju želite dodati persistent modu"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Pogreška: Nemoguće je detektirati boot=casper\\npersistent mod je moguć samo za distribucije bazirane na Ubuntu."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Persistent mod veličina, u MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Stvaranje persistent moda "
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Ažurirajte MultiSystem"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Uklonite instalaciju"
+
+#, sh-format
+msgid "Informations"
+msgstr "Info"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Ako je vaš USB spojen?\\n\\nMolimo da spojite FAT32 formatiran\\nUSB\\ni montirajte ga u /media\\n\\nTada, ponovo pokrenite MultiSystem."
+
+#, sh-format
+msgid "Valider"
+msgstr "Potvrdi"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Molim odaberite USB naziv\\nkoji će biti korišten u sljedećoj listi.\\nWARNING!,\\nGrub2 bit će instaliran u MBR.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Uređaj|Proizvođač|Model|Veličina|Korišteno|Slobodno|Bus|Driver"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Poništi"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Pogreška: Imate li ovlasti za pisanje u ovoj mapi?:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Zatvorite"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Pogreška: Nedostaje: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Pogreška:Pogrešan Bus"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "GRUB postavke"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Napravite persistent mod"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "Preuzmite LiveCD-e"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Testirajte u Qemu"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Podignite sa Grub/Grub2"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Podignite sa Windows XP-a"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Podignite sa Windows Viste"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Podignite sa MacIntel"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "Stvori MultiSystem LiveCD"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "Testirajte LiveCD u Qemu"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Zatvorite MultiSystem"
+
+#, sh-format
+msgid "Menus"
+msgstr "Izbornici"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB naziv :"
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Točka montiranja:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "Veličina:"
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Korišteno:"
+
+#, sh-format
+msgid "Libre:"
+msgstr "Slobodno:"
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Broj LiveCD-a:"
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Drag/Drop ISO/img"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Uredite Grub2 konfiguracijsku datoteku .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "Uredite grub4dos konfiguracijsku datoteku .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Odaberite Grub2 boot sliku"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hex|Naziv"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Boja teksta"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Boja pozadine"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Odaberite boju teksta"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Odaberite boju pozadine"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Pogreška: Nemoguće je detektirati Type:PNG u vašoj selekciji."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Pogreška: Nemoguća promjena rezolucije 640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "convert: MultiSystem je već instaliran."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "convert: MultiSystem mora biti instaliran iz: /tmp/multisystem/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "convert: Instalacija mora biti pokrenuta sa naredbom sudo."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Stvori ikonu za pokretanje u Menu:/Applications/Accessories/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Napravite MultiSystem ikonu za pokretanje u\\nMenu: /Applications/Accessories/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Od sada, za pokretanje scripte, koristite\\nMenu: /Applications/Accessories/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu zahtjeva administratorske ovlasti"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Pokreni Qemu CLE_USB:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Instalirajte qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Kompiliraj  i podesi kqemu (ubrzanje)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "Dostupan RAM: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Pogreška: Nedostatak RAM-a:$RAM_LIBRE min. ram-a potrebno:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Pokreni Qemu za boot verifikaciju"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Pogreška: Uklanjanje instalacije je moguće samo ako je MultiSystem instaliran."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Pogreška: Uklanjanje instalacije mora biti pokrenuto sa naredbom sudo."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Izaberite opcije sa sljedeće liste"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Naredba za izvršenje"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "Potvrdi, uklonite MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Ili se vrati Home"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "Uklanjanje MultiSystema uspješno."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Pogreška: Nadogradnja je dostupna samo ako je MultiSystem instaliran."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Pogreška: Nadogradnja mora biti pokrenuta sa naredbom sudo."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Ne nadograđuj skriptu"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Nadogradi skriptu"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Pogreška: Nemoguće je skinuti version-multisystem.txt datoteku"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Traženje nadogradnja"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Nema dostupne nadogradnje,\\nKoristite najnoviju verziju skripte."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Pogreška: Nemoguće je detektirati MultiSystem verziju."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Izbriši Plop iz Grub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Dodajte Plop u Grub/Grub2"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Ovo sučelje dopušta dodavanje\\nili uklanjanje Plop bootloadera\\niz vašeg boot managera\\nAko koristite Grub ili Grub2.\\n\\nPokrenite vaš MultiSystem LiveUSB s lakoćom..."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "Pokrenite MultiSystem LiveUSB sa Intel Mac,\\nOvo rješenje nije testirano,\\ni povratna informacija nije primljena.\\nMolimo pošaljite povratnu informaciju, da li radi ili ne...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "Preuzmite rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Dodajte u Windows Vista boot manager\\nizbornik unos, da bi pokrenuli vaš LiveUSB.\\n\\nOvo morate učiniti nakon podizanja Viste:\\nPreuzmi EasyBCD\\numetnite vaš USB\\npokrenite EasyBCD\\nkliknite na \"Add/Remove Entries\"\\nodaberite Linux tab\\npodesite opcije:\\nTip: GRUB\\nNaziv: LiveUSB\\nDrive: (select partition 0 of your USB key)\\nne odabirite! \"GRUB isn\\047t installed to the boot sector\"\\nkliknite na: \"+ Add Entry\"\\nkliknite na: \"Save\"\\nZavršeno\\047kraj! .\\nSnimi prikaz:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nPrilikom sljedećeg pokretanja, odaberite LiveUSB,\\nBit će vam postavljeno pitanje da umetnete volume,\\npritisnite enter.\\n\\nDruga metoda,\\nDodaj plop bootloader u Windows Vista boot manager\\nPogledajte: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "Preuzmite EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Dodajte plop bootloader\\nu Windows Vista boot manager\\nPogledajte: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Dodajte plop Bootloader u Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Ramdisk modifiikacija u tijeku, molim pričekajte..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Molim snimite CD sliku\\nPutanja: $HOME/cd-boot-liveusb.iso\\n(Desni klik, snimi disk...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(Desni klik, snimi disk...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Pogreška:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Potrebna je administratorska lozinka "
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Pogreška: syslinux.cfg datoteka nije valjana"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Pogreška:nema persistent moda za ovu distribuciju"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Filter"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Omogući persistent overlay"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Enable home separate"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Omogući enkripciju podataka"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Omogući persistent home odvjeno"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Pogreška: Nedovoljno slobodnog prostora:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Omogući šifriranje osobnih podataka"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Promijenite Jezik"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Promijenite jezik"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "Prevedi datoteku .po"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Operacija je u tijeku ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Testirajte u VirtualBox-u"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Boot"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Pogreška: nedovoljno slobodnog RAM-a:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Pritisnite enter za nastavak"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "POZOR!\\nInstalirat ćete\\nne-slobodnu verziju VirtualBox-a"
+
+#, sh-format
+msgid "Installer"
+msgstr "Instalirajte"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Molimo ponovno umetnite USB ručno"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "Testirajte LiveCD u VirtualBox-u"
+
+#, sh-format
+msgid "Tester"
+msgstr "Testiranje"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "Dodajte liveCD"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "Pokreni VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Provjerite ima li dostupnih ažuriranja nakon pokretanja"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "Uredite syslinux konfiguracijsku datoteku .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Boja pozadine zaslona"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Boja okvira"
+
+#, sh-format
+msgid "Créer"
+msgstr "Napravite"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Testirajte liveusb u Qemu"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Testirajte liveusb u VirtualBox-u"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "UPOZORENJE!\\nFormatirat ćete\\nUSB uređaj:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nSav sadržaj\\nbit će obrisan."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "Formatirajte USB"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Spalsh zadano"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Pomakni Vertikalno"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Uklonite splash"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Pomakni Horizontalno"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Zadano"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Pogreška: Molim koristite upravitelj paketima."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Stvori ikonu za pokretanje u Menu:/Applications/Accessories/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "Postavi MultiSystem ikonu za pokretanje u\\nMenu: /Applications/Accessories/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Pažnja bit će obrisano:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Spriječite prije brisanja"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Uklonite Operativni Sustav"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Pogreška vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Pogreška disk"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Pogreška /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Pogreška predaje"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Pogreška virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Ažurirajte Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "Napravite CD za pokretanje USB-a"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Dostupna je nadogradnja MultiSystem-a"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "Instalirajte VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Pritisni bilo koju tipku za nastavak ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Nema selekcije"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Promjeni veličinu"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Obriši sadržaj"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Upozorenje!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "uklonit ćete sadržaj iz:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Pogreška: Nemoguće montiranje USB-a:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Promijenite stalnu veličinu"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Debug"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Pričekajte  test u tijeku..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Pogreška: nema dovoljno slobodnog prostora da bi se testiranje izvršilo,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Čekam , pritisni enter za nastavak."
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted ispiši"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "Prikaži mbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm info"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Verzija Grub2"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "Popravi fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Izvrši Benchmark"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Benchmark čitaj"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Dopuštenje datoteke ako je manja od 600"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Pogreška: Nemoguče je detektirat predaju liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Pogreška: nije root!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Pogreška: Nije moguće izbrisati:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Pogreška: Naredba blkid ne radi kako treba, molim ponovo pokrenite vašu sesiju."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Pogreška: MultiSystem ne podržava razmak u nazivu."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Dodajte"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Crvena Tema"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Zelena Tema"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Plava Tema"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "Trenutna tema:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Pogreška: ništa nije odabrano."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "UPOZORENJE!\\nautorun.inf datoteka je izmjenjena, Virus?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "UPOZORENJE!\\nmultisystem.bat datoteka je izmjenjena, Virus?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Prikaži/Sakrij datoteke/mape u vašem USB-u"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Prikaži sve"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Sakrij sve"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "Sadržaj vašeg USB-a"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Prikaži / Sakrij datoteke/mape\\nOnly works with Nautilus."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Instalacija ne-slobodnih komponenti"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Ne-Slobodno"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Ne-Slobodne komponente MultiSystem-a"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "PLoP Boot Manager je freeware."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "Preuzmite PLoP Boot Manager"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Korisit za BartPE iso"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Preuzmite Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Molim instalirajte \\\"PLOP Boot Manager\\\"\\nposlije prihvačanja licence,\\nPlop je freeware a ne besplatan.\\n\\nInstalacija je dostupna kroz menu: Ne-Slobodan ==> Instalacija ne-slobodnih komponenti ==> Preuzmi Plop Boot Manager"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Pogreška: Molimo instalirajte PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Pogreška: Molimo instalirajte potrebne datoteke, menu Ne-Slobodni"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Korisiti za pokretanje iso od Windows XP-a"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "Preuzmite firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Odaberite vaš USB\\nna popisu ispod.\\n\\<span color='red'>UPOZORENJE!,\\nGrub2 će biti instaliran u mbr.\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Ovaj dio skripte je za Ubuntu karmic i lucid"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Upozorenje! Instalirat ćete Burg,\\nOvaj software je eksperimentalan"
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Ažurirajte Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Osobne teme"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Instaliraj/Ažuriraj Burg (pričekajte...)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Zadana Tema:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Odaberite zadanu temu za korištenje"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Kopiranje u tijeku ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Osobne Ikone"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Pogreška pri Preuzimanju"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Pogreška: Datoteka s istim nazivom već postoji."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "Vaš USB je bez naziva, multisystem će ispraviti to,\\nmolimo Izvadite/umetnite vaš USB kako biste potvrdili ovu promjenu."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Odspojite/spojite vaš USB disk ako se točka montiranja ne poklapa sa nazivom!"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Donirajte"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Nemojte donirati"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "Za sada je MultiSystem besplatan\\nali njegov razvoj nije besplatan!\\nAko ga koristite propisno\\ni želite da se razvija,\\npodržite nas putem paypal-a.\\n\\nHVALA VAM unaprijed!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Dva puta kliknite da bi uredili nazive u bootloader menu-u."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Sigurnosna kopija USB-a/Vratite kopiju USB-a"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Sigurnosna kopija"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Vratite kopiju"
+
+#, sh-format
+msgid "de"
+msgstr "of"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "UPOZORENJE!\\nVračanjem kopije trajno brišete\\nsav sadržaj:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID USB-a:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "Veličina USB-a:"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Izlaz"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Pogreška: Molim pokrenite multisystem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Pogreška: sigurnosna kopija datoteka već je prisutna."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Sigurnosna kopija je izrađena u datoteci:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Odaberite datoteku za vračanje sigurnosne kopije."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Pogreška: nije moguće detektirat datoteku sigurnosne kopije"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Pogreška: Nedovoljno prostora na USB-u"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Vračanje sigurnosne kopije završeno,\\nmolimo Izvadite/umetnite vaš USB\\nprije pokretanja multisystema."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Formatiranje završeno,\\nmolimo Izvadite/umetnite vaš USB\\nprije pokretanja multisystema."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Error: software blocks the use of records, please close it."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "O MultiSystemu"
+
+#, sh-format
+msgid "À propos"
+msgstr "O Programu"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Preveo na"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "MultiSystem traži prevoditelje,\\nAko želite sudjelovati,\\nkontaktirajte nas na:\\nKontakt:"
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Djelomično ažuriranje"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Dodajte boot opciju (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Omogući ikonu u gnome izborniku ?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "Uređaj|Proizvođač|Model|Veličina|Korišteno|Slobodno|Bus|Driver|Točka Montiranja"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr ""
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr ""
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr ""
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr ""
+
+#, sh-format
+msgid "Titre"
+msgstr ""
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Molimo potvrdite instalaciju Grub2 obujma:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr ""
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr ""

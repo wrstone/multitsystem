@@ -1,0 +1,20 @@
+English|en|en_US.UTF-8|Ryan J Nicholson|rjn256@gmail.com
+Spanish|es|es_ES.UTF-8|Jesús MUÑOZ|jesus.munoz@luztic.org
+French|fr|fr_FR.UTF-8|Fabre François|liveusb@gmail.com
+Hebrew|he|he_IL.UTF-8|Matanya Moses|matanya.moses@gmail.com
+Portuguese|pt|pt_PT.UTF-8|Pedro Peres|peter.p@sapo.pt
+Italian|it|it_IT.UTF-8|Federico Kircheis|fekir1.618@gmail.com
+German|de|de_DE.UTF-8|Daniel|daniel@daniel-ritter.de
+Dutch|nl|nl_NL.UTF-8|Jeroen|webmaster@jvanoort.nl
+Portuguese (Brazil)|pt_BR|pt_BR.UTF-8|Eduengler|eduengler@gmail.com
+Czech|cs|cs_CZ.UTF-8|kubijo|kubijo@gmail.com
+Türkçe|tr_TR|tr_TR.UTF-8|M.Emin KARA|meminkara@yahoo.com
+Croatian|hr|hr_HR.UTF-8|Goran Vidovic|trebelnik2@gmail.com
+Russian|ru|ru_RU.UTF-8|Stas kolobkov|zetwin@gmail.com
+Romanian|ro|ro_RO.UTF-8|Marian Vasile|marianvasile@upcmail.ro
+Chinese|zh_CN|zh_CN.UTF-8|Gavin|bjeasy@163.com
+Greek|el_GR|el_GR.UTF-8|Efstathios Iosifidis|diamond_gr@freemail.gr
+Indonesian|id_ID|id_ID.UTF-8|Rahadian Koesdijarto Putra|rahadian.ironman@gmail.com
+Hungarian|hu|hu_HU.UTF-8|Zsolt Boldizsár|boldizsarzsolt@gmail.com
+Bulgarian|bg|bg_BG.UTF-8|Havy D|hhavyy@gmail.com
+Polish|pl|pl_PL.UTF-8|Igor Vozny|igor.vozny@gmail.com

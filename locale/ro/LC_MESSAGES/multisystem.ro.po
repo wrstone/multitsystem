@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Repornire"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Reporniți calculatorul"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Apăsați tasta [Tab] pentru afișarea opțiunilor de pornire"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Este disponibilă o imagine CD de pornire,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Cale"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Înainte de a porni calculatorul, dacă este nevoie,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "introduceți CD-ul de pornire sau mediul USB"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Eroare: volumul afișat mai jos nu este disponibil:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Eroare: mediul USB este altul!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Eroare: fișierul grub.cfg nu este valid"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Eroare: fișierul menu.lst nu este valid"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Eroare: fișierul .ISO ales conține un caracter nevalid în numele său:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Eroare: Există deja un fișier cu același nume."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Eroare: marcajul nu poate fi detectat:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Este necesară parola de administrator pentru a monta fișierul"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Eroare: Eroare la montarea fișierului .ISO."
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Se copiază..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "Se actualizează GRUB, așteptați..."
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB solicită privilegii de administrare."
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Eroare: LiveCD-ul este prezent deja."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Se descarcă..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>AVERTISMENT:</b> pentru Mandriva, scriptul trebuie să încarce\\nmediul USB\\cu eticheta 047s. Noua etichetă este MANDRIVAONE.\\nNu modificați eticheta, altfel Mandriva nu va mai porni,\\n\\n<b>Scoateți/introduceți</b> din nou mediul USB. Sistemul va afișa eticheta nouă."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Eroare: nu se poate descărca arhiva."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Eroare: ISO-ul nu este unul recunoscut."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "Sunt necesare drepturi de administrare pentru fișierele .img"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "Se copiază fișierul .ISO..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "Se șterge LiveCD-ul."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Eroare: LiveCD-ul nu este găsit."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "Se creează LiveCD-ul."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "LiveCD-ul Multisystem este disponibil:\\nCale:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Eroare: modul persistent există deja,\\nNumai o singură instalare poate beneficia de modul persistent."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Eroare: Alegeți distribuția\\npentru care doriți crearea modului persistent!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Eroare: nu se poate detecta boot=casper\\nmodul persistent este rezervat distribuțiilor bazate pe Ubuntu."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Dimensiunea modului persistent în MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Se creează modul  persistent"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Actualizare"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Dezinstalare"
+
+#, sh-format
+msgid "Informations"
+msgstr "Informații"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Mediul USB este conectat\\n\\nConectați un mediu USB\\nformatat ca FAT32\\nși montat în /media\\n\\nReporniți apoi MultiSystem."
+
+#, sh-format
+msgid "Valider"
+msgstr "Confirmare"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Alegeți mediul USB\\ncare va fi folosit din lista următoare.\\nAVERTISMENT!\\nGrub2 va fi  instalat în MBR-ul mediului.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Dispozitiv|Producător|Model|Dimensiune|Utilizat|Liber|Bus|Driver"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Anulare"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Eroare: Aveți permisiuni de scriere în acest dosar?"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Închidere"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Eroare: nu există: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Eroare: magistrală incorectă"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "Configurări GRUB"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Adăugare mod persistent"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "Descărcare LiveCD-uri"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Testare în QEMU"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Pornire de pe Grub/Grub2"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Pornire de pe Windows XP"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Pornire de pe Windows Vista"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Pornire de pe MacIntel"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "Creare LiveCD MultiSystem"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "Testare LiveCD în QEMU"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Ieșire"
+
+#, sh-format
+msgid "Menus"
+msgstr "Meniuri"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "Mediu USB: "
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Punct de montare: "
+
+#, sh-format
+msgid "Taille:"
+msgstr "Dimensiune: "
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Utilizat: "
+
+#, sh-format
+msgid "Libre:"
+msgstr "Liber: "
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Număr LiveCD-uri: "
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Alegeți un fișier .iso sau .img:"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Editare fișier de configurare Grub2.../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "Editare fișier de configurare grub4dos.../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Alegeți imaginea de fond pentru Grub2"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hexa|Denumire"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Culoare text"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Culoare fundal pentru text"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Culoare aleasă pentru text"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Culoare aleasă pentru fundalul textului"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Eroare: Nu se poate detecta tip:PNG în selecție."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Eroare: imposibil de convertit la 640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Eroare: MultiSystem este instalat deja."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "Eroare: MultiSystem trebuie instalat din: /tmp/multisystem/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Eroare: instalarea trebuie pornită cu sudo."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Creează lansator în Meniu:/Aplicații/Accesorii/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Configurează un lansator MultiSystem în\\nMeniu: /Aplicații/Accesorii/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Pentru a lansa scriptul, utilizați\\nMeniu: /Aplicații/Accesorii/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu solicită drepturi administrative"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Lansează Qemu CLE_USB:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Instalare qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Compilare și configurare kqemu (accelerare)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "RAM disponibil: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Eroare: memorie RAM insuficientă:$RAM_LIBRE necesar:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Lansare Qemu pentru verificare procedură de pornire"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Eroare: Dezinstalarea este disponibilă numai dacă MultiSystem este instalat."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Eroare: Dezinstalarea trebuie pornită cu sudo."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Alegeți o opțiune din lista următoare"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Funcția de executat"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "Confirm, dezinstalează MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Sau mergi Acasă"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "Instalarea MultiSystem a reușit."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Eroare: Actualizarea este disponibilă numai dacă MultiSystem este instalat."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Eroare: Actualizarea trebuie pornită cu sudo."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Nu actualiza scriptul"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Actualizează scriptul"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Eroare: nu se poate descărca fișierul version-multisystem.txt"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Caută actualizări"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Nu există actualizări disponibile.\\nUtilizați deja ultima versiune a acestui script."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Eroare: nu se poate determina versiunea MultiSystem."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Șterge Plop din Grub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Adaugă Plop la Grub/Grub2"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Această interfață permite adăugarea\\nsau ștergerea încărcătorului de sisteme Plop\\nla/din administartorul de pornire\\ndacă utilizați Grub sau Grub2.\\n\\nPermite pornirea cu ușurință a LiveUSB-ului MultiSystem."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "Porniți MultiSystem LiveUSB de pe Intel Mac,\\nSoluția nu este testată,\\nși nu a fost primit niciun feedback.\\nVă rugăm postați feedback, pozitiv sau negativ, la...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "Descărcare rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Adaugă la administratorul de pornire din Windows Vista\\no intrare în meniu pentru pornirea LiveUSB-ului.\\n\\nDupă pornirea Vista\\ndescărcați EasyBCD\\nintroduceți mediul USB\\nlansați EasyBCD\\nefectuați clic pe \"Adăugare/Ștergere intrări\"\\nalegeți fila Linux\\nconfigurați opțiunile ca:\\nTip: GRUB\\nNume: LiveUSB\\nDisc: (alegeți partiția 0 a mediului USB)\\nnu marcați! \"GRUB nu este\\047t instalat în sectorul de pornire\"\\nefectuați clic pe : \"+ Adaugă intrare\"\\nefectuați clic pe : \"Salvare\"\\nSunteți \\047 gata! .\\nCaptură ecran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nLa următoarea pornire, alegeți LiveUSB,\\nveți fi solicitațți să introduceți mediul,\\napăsați pe enter.\\n\\nMetodă alternativă,\\nAdăugați încărcătorul de sisteme plop la administratorul de pornire a Windows Vista\\nconsultați: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "Descărcare EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Adaugă încărcătorul de sisteme plop\\nla încărcătorul de sisteme din Windows Vista\\nconsultați: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Adaugă încărcătorul de sisteme plop la Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Se modifică Ramdisk, așteptați..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Inscripționează imaginea CD\\nCale: $HOME/cd-boot-liveusb.iso\\n(clic creapta, inscripționare disc...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(clic dreapta, inscripționare disc...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Eroare:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Este necesară parola de administrator"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Eroare: fișierul syslinux.cfg nu este valid"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Eroare: pentru această distribuție nu există mod persistent"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Filtrare"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Activează modul persistent"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Activează spațiu Acasă separat"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Activează criptarea datelor"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Activează persistența separată a spațiului Acasă"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Eroare: spațiul liber insuficient:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Activează criptarea datelor din spațiul Acasă"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Internaționalizare"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Schimbă limba"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "Traducerea unui fișier .po"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Operație în desfășurare..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Testare în VirtualBox"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Pornire"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Eroare: memorie liberă RAM insuficientă:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Apăsați Enter pentru a continua"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "ATENȚIE!\\nVeți instala\\nversiunea non-free a VirtualBox"
+
+#, sh-format
+msgid "Installer"
+msgstr "Instalează"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Remontați manual mediul usb stick"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "Încercați un LiveCD în VirtualBox"
+
+#, sh-format
+msgid "Tester"
+msgstr "Testează"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "Adaugă LiveCD"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "Deschide VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Verifică pentru actualizări la fiecare pornire"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "Editare fișier configurare syslinux .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Culoare fundal de ecran"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Culori prim plan"
+
+#, sh-format
+msgid "Créer"
+msgstr "Creează"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Testați liveusb-ul în QEMU"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Testați liveusb-ul în VirtualBox"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "AVERTISMENT!\\nVeți formata\\nvolumul amovibil:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nTot conținutul\\nva fi șters definitiv."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "Formatați mediul USB"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Element grafic implicit"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Răstoarnă vertical"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Șterge element grafic"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Răstoarnă imaginea orizontal"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Implicit"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Eroare: utilizați administratorul de pachete."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Creează un lansator în Meniu:/Aplicații/Accesorii/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "Configurează un lansator pentru MultiSystem în\\nMeniu: /Aplicații/Accesorii/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Atenție, ștergeți:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Întreabă înainte de a șterge un sistem de operare."
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Șterge un sistem de operare"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Eroare vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Eroare disc"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Eroare /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Eroare de operare"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Eroare virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Actualizare Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "Creează un CD pentru a lansa USB-ul"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Este disponibilă o actualizare pentru multisystem"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "Instalare VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Pentru a continua, apăsați orice tastă..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Fără selecție"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Redimensionare"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Șterge conținutul"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Avertisment!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "veți șterge conținutul de pe:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Eroare: volumul nu se poate monta:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Redimensionare persistență"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Depanare"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Așteptați pentru realizarea testului curent..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Eroare: nu există suficient spațiu disponibil pentru efectuarea acestui test,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Se așteaptă, apăsați Enter pentru a continua."
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "afișare partiții"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "Arată mbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "informații udevadm"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Versiune Grub2"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "Reparare fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Test scriere"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Test citire"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Permisiunile asociate fișierului sunt inferioare valorii 600"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Eroare: nu se poate detecta și opera cu liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Eroare: nu sunteți administrator!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Eroare: nu se poate șterge:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Eroare: comanda blkid nu lucrează normal, reporniți sesiunea."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Eroare: MultiSystem nu acceptă spațiile în etichete."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Adaugă"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Tema roșie"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Tema verde"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Tema albastră"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "  Temă curentă:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Eroare: fără selecție."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "AVERTISMENT!\\nfișierul autorun.inf a fost modificat, virus?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "AVERTISMENT!\\nfișierul multisystem.bat a fost modificat, virus?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Arată sau ascunde fișiere și dosare"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Arată tot"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Ascunde tot"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "Conținutul mediului USB:"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Arată sau ascunde fișiere și dosare\\nLucrează numai cu Nautilus."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Se instalează componente non-free"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Non-Free"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Componente MultiSystem Non-Free"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "Încărcătorul de sisteme PLoP este freeware."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "Descărcare PLoP"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Utilzat pentru BartPE iso"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Descărcare Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Instalați încărcătorul de sisteme\\\"PLOP\\\"\\ndupă acceptarea licenței,\\nPlop este freeware not free.\\n\\nFacilitate accesibilă via meniu: Non-free ==> Instalare componente non-free part ==> Descărcare încărcător de sisteme Plop"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Eroare: instalați PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Eroare: instalați fișierele necesare, din meniul Non-Free"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Utilzat pentru pornirea iso cu Windows XP"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "Descărcare firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Alegeți mediul USB\\npe care doriți să-l utilizați din lista de mai jos.\\n\\<span color='red'>AVERTISMENT:\\nGrub2 va fi instalat în MBR!\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Această parte a scriptului este destinată pentru Ubuntu Karmic și Lucid"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Avertisment! veți instala Burg,\\nAcest software este experimental"
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Actualizare Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Teme personale"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Instalare/Actualizare Burg (așteptați)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Temă implicită:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Alegeți pentru utilizare tema implicită "
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Se copiază ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Pictograme personalizate"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Eroare la descărcare"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Eroare: există deja un fișier cu același nume."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "mediul USB nu avea o etichetă, multisystem a rezolvat problema,\\nscoateți/reintroduceți mediul USB pentru validarea modificării."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Deconectați/reconectați mediul USB deoarece punctul de montare nu corespunde cu eticheta!"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Faceți o donație"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Nu faceți o donație"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "MultiSystem este software liber\\ndar dezvoltarea implică costuri!\\nDacă îl utilizați cu regularitate\\nși doriți să sprijiniți progresele noastre,\\nvă rugăm să donați via PayPal. \\n\\nMULȚUMIM în avans!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Efectuați clic dublu pentru a modifica numele afișat în meniul încărcătorului de sisteme."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Copie de siguranță/Restaurare"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Copie de siguranță"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Restaurare"
+
+#, sh-format
+msgid "de"
+msgstr "a"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "AVERTISMENT!\\nrestauarea șterge definitiv\\ntot conținutul:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "mediu USB:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID al mediului USB:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "Dimensiunea mediului USB"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Închide această fereastră"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Eroare: lansați multisystem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Eroare: fișierul copie de siguranță există deja."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Copia de siguranță este creată în fișierul:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Alegere fișier pentru restaurare."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Eroare: nu se poate detecta fișierul copie de siguranță"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Eroare: mediu USB prea mic"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Restaurare efectuată,\\nscoateți/reintroduceți mediul USB key\\nînainte de a rula multisystem."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Formatare efectuată,\\nscoateți/reintroduceți mediul USB key\\nînainte de a rula multisystem."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Eroare: programul blochează utilizarea înregistrărilor, opriți-l."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "Despre MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "Despre"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Traducere"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "MultiSystem are nevoie de traducători!\\nDacă doriți să ajutați,\\nvă rugăm să ne contactați.\\nContact: "
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Actualizare parțială"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Adăugare opțiune pornire (linie comandă)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Activați pictogramele în meniul gnome?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "Dispozitiv|Producător|Model|Dimensiune|Utilizat|Liber|Bus|Driver|Punct de montare"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr "Eroare: acest iso este utilizat pentru a porni calculatorul, nu poate fi șters."
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr "Poziție curentă:"
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr "Utilizați acest buton dacă Trage și plasează nu funcționează."
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr "Demarcați pentru a muta rapid elementele din meniu. AVERTISMENT: Nu veți actualiza încărcătorul de sisteme! Marcați opțiunea înainte de ultima modificare pentru a actualiza încărcătorul  de sisteme."
+
+#, sh-format
+msgid "Titre"
+msgstr "Denumire"
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Confirmați instalarea Grub2 în mediul:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr "Eroare: ștergeți caracterul spațiu."
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr ""

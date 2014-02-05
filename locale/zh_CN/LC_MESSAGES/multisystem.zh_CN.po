@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "重新启动"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "重新启动计算机"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "按 [Tab] 键显示引导选项"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "引导光盘镜像,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "路径"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "必要时，在引导计算机前，"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "插入引导光盘和 USB 盘"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "错误：磁盘卷标不可用："
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "错误：使用了不同的 USB 盘"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "错误：grub.cfg 文件无效"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "错误：menu.list 文件无效"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "错误：所选 .ISO 文件名称包含不支持的字符："
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "错误：同名文件已存在。"
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "错误：无法找到标记："
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "挂载文件需输入管理员密码"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "错误：挂载 .ISO 文件错误"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "正在复制 ..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "GRUB 正在升级，请等待 ..."
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB 需管理员权限。"
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "错误：LiveCD 已存在。"
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "正在下载 ..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>警告：</b>Mandriva 在本程序中需加载 USB 卷标。\\n新卷标为 MANDRIVAONE。\\n请勿修改该卷标，否则 Mandriva 将不再引导，\\n\\n请 <b>拔下/重新插入</b> USB 盘。系统现在将显示新卷标"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "错误：无法下载档案文件。"
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "错误：现在还不支持此 ISO。"
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr ".img 文件操作需管理员权限。"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "正在复制 .ISO 文件 ..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "删除 LiveCD。"
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "错误：检测不到 LiveCD。"
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "创建 LiveCD。"
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "MultiSystem LiveCD 路径位于：\\n"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "错误：持久模式已经存在，\\n只能安装一个持久模式。"
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "错误：请选择发行版本\\n将哪一个发行版添至持久模式？"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "错误：检测不到 boot=casper\\n持久模式预留给基于 Ubuntu 的发行版。"
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "持久模式容量，以 MiB 表示"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "创建持久模式"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "升级"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "卸载"
+
+#, sh-format
+msgid "Informations"
+msgstr "信息"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "USB 盘是否已连接？\\n\\n请连接 FAT32 格式\\nUSB 盘，\\n并挂载至 /media 下\\n\\n然后重新启动 MultiSystem。"
+
+#, sh-format
+msgid "Valider"
+msgstr "确定"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>请从下面列表\\n选择 USB 磁盘卷\\n警告！，\\nGrub2 将安装到 MBR 上。\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "设备 | 构成 | 模式 |容量 | 已用 | 剩余 | 总线 | 驱动程序"
+
+#, sh-format
+msgid "Annuler"
+msgstr "取消"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "错误：您有对此文件夹的写权限吗？："
+
+#, sh-format
+msgid "Fermer"
+msgstr "关闭"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "错误：缺少："
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "错误：错误的总线"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "GRUB 设置"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "添加持久模式"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "下载 LiveCD"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "在 QEMU 中测试"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "从 Grub/Grub2 引导"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "从 Windows XP 引导"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "从 windows Vista 引导"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "从 Macintel 引导"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "创建 MultiSystem LiveCD"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "在 QEMU 中测试 LiveCD"
+
+#, sh-format
+msgid "Quitter"
+msgstr "离开"
+
+#, sh-format
+msgid "Menus"
+msgstr "菜单"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB 磁盘卷："
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "挂载点："
+
+#, sh-format
+msgid "Taille:"
+msgstr "容量："
+
+#, sh-format
+msgid "Occupé:"
+msgstr "已用："
+
+#, sh-format
+msgid "Libre:"
+msgstr "剩余："
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "全部 LiveCD："
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "选择 .iso 或 .img 文件："
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "编辑 Grub2 config 文件 .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "编辑 grub4dos config 文件 .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "选择 Grub2 引导界面背景图"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hex | 标题"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "文本颜色"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "文本背景色"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "已选文本颜色"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "已选文本背景色"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "错误：无法检测的类型：请选择 PNG 类型。"
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "错误：无法转换为 640x480 。"
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "错误：MultiSystem 已安装。"
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "错误：必须从：/tmp/multisystem 中安装 MultiSystem 。"
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "错误：必须以 sudo 登录进行安装。"
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "创建引导器，菜单：/应用程序/附件/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "设定 MultiSystem 引导器，\\n菜单：/‎应用程序/附件/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "从现在开始，请以下述方式运行本程序\\n 菜单：/应用程序/附件/MultiSystem。"
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu 要求管理员权限"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "启动 Qemu CLE_USB："
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "安装 qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "编译并安装 kqemu（加速）"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "可用内存："
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "错误：没有足够的内存：内存：$RAM_LIBRE  要求：256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "启动 Qemu 进行引导验证"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "错误：只有当 MultiSystem 已安装时才可以卸载。"
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "错误：必须以 sudo 登录才可以卸载。"
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "请从下面列表选项中选择"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "要执行的操作"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "确定，卸载 MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "或返回首页"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "MultiSystem 成功卸载"
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "错误：只有当 MultiSystem 已安装时才可以升级。"
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "错误：必须以 sudo 登录才可以升级。"
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "不升级"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "升级"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "错误：无法下载 version-multisystem.txt 文件"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "搜索并升级"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "无可用升级版本。\\n您正在使用的版本为最新版。"
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "错误：无法检测 MultiSystem 的版本。"
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "从 Grub/Grub2 中删除 Plop"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "向 Grulb/Grub2 中添加 Plop"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "如果您正在使用 Grub 或 Grub2。\\n本程序允许您\\n从引导管理器\\n添加或删除 Plop bootloader\\n\\n现在，让我们轻松启动 MultiSystem LiveUSB ..."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "我们并未对 Intel Mac 平台引导 MultiSystem LiveUSB \\n进行测试，\\n也未收到任何反馈。\\n请将该平台下正常与否的反馈贴至此处 ... \\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "下载 rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "在 Windows Vista 引导管理器中\\n添加菜单条目，以启动 LiveUSB。\\n\\n在 Vista 引导后\\n下载 EasyBCD\\n插入 USB 盘\\n启动 EasyBCD\\n点击\"添加/删除条目\"\\n选择 Linux 标签选项\\n选项设定为：\\n类型：GRUB\\n名称：LiveUSB\\n磁盘：（选择 USB 磁盘分区）\\n注意！\"GRUB 并未安装到引导扇区\"\\n点击：\"+ 添加条目 \"\\n点击：\"保存\"\\n操作完成！\\n屏幕载图：\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\n下次引导时，选择 LiveUSB，\\n系统提示插入磁盘，\\n按回车键。\\n\\n另一个办法是,\\n将 plop bootloader 添至 Windows Vista 引导管理器\\n参见：http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "下载 EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "将 plog bootloader\\n添加至 Windows Vista 引导管理器 \\n参见：http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "将 plop Bootloader 添加至 Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "正在修改 Ramdisk，请等待 ..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "请刻录光盘镜像\\n路径：$HOME/cd-boot-liveusb.iso\\n（右键单击，刻录光盘 ...）"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "（右键单击，刻录光盘 ...）"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "错误："
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "需要管理员密码"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "错误：syslinux.cfg 文件无效"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "错误：本发行版无持久模式"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "过滤"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "启用持久覆盖"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "启用 home 单独存放"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "启用数据加密"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "启用 home 持久单独存放"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "错误：磁盘空间不足："
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "启用 home 持久单独存放"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "国际化"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "更改语言"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "翻译 .po 文件"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "操作正在进行 ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "在 virtualBox 中测试"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "引导"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "错误：可用内存空间不足："
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "按回车键继续"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "注意！\\n您将安装\\nnon-free VirtualBox"
+
+#, sh-format
+msgid "Installer"
+msgstr "安装"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "请以手动方式重新挂载 usb 盘"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "在 VirtualBox 中试用 LiveCD"
+
+#, sh-format
+msgid "Tester"
+msgstr "测试"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "添加 LiveCD"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "打开 VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "每次启动时检测升级"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "编辑 syslinux config 文件 .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "屏幕背景色"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "前景色"
+
+#, sh-format
+msgid "Créer"
+msgstr "创建"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "在 QEMU 中测试 liveusb"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "在 VirtualBox 中测试 liveusb"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "注意！\\n您将格式化\\n可移动磁盘："
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\n磁盘上的所有内容\\n毫无疑问将被删除。"
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "格式化 USB 盘"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "默认引导背景"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "垂直翻转"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "删除引导背景"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "图像水平翻转"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "默认"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "错误：请用包管理器。"
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "创建引导器，菜单：/应用程序/附件/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "设定 MultiSystem 引导器 \\n菜单：/应用程序/附件/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "注意，您将要删除："
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "删除操作系统前询问。"
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "删除操作系统"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "vbox 用户错误"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "磁盘错误"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "/proc/bus/usb 错误"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "操作错误"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "virtualbox-ose 错误"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "升级 Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "创建用于启动 USB 的光盘"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "multisystem 升级包可用"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "安装 VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "按任意键继续 ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "未做任何选择"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "更改容量"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "清除内容"
+
+#, sh-format
+msgid "Attention!"
+msgstr "警告！"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "您将删除以下内容："
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "错误：无法挂载磁盘卷："
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "更改持久模式容量"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "调试"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "等待当前的测试 .."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "错误：没有足够的磁盘空间来执行本测试，"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "等待，按回车键继续。"
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "部分打印"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "显示 mbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm 信息"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Grub2 版本"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "修复 fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "写操作标准测试"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "读操作标准测试"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "文件权限低于 600"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "错误：无法检测 liveusb.info 操作"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "错误：非 root 用户！"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "错误：无法删除："
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "错误：命令 blkid 无法正常工作，请重新启动会话。"
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "错误：MultiSystem 不允许标签中出现空格。"
+
+#, sh-format
+msgid "Ajouter"
+msgstr "添加"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "红色主题"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "绿色主题"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "蓝色主题"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "当前主题："
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "错误：未做任何选择。"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "警告！\\nautorun.inf 文件已被修改，病毒？"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "警告！\\nmultisystem.bat 文件已被修改，病毒？"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "显示或隐藏文件和文件夹"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "显示所有"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "隐藏所有"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "USB 闪存盘的内容："
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "显示或隐然文件和文件夹\\n只在 Nautilus 下工作。"
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "安装 non-free 部分"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Non-Free"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "MultiSystem Non-Free 部分"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "PLop Boot Manager 为免费自由软件。"
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "下载 PLop Boot Manager"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "用于 BartPE iso"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "下载 Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "请安装 \\\"PLOP Boot Manager\\\"\\n接受协议后，\\nPlop 将不再免费。\\n\\n可通过菜单：Non-free ==> 安装 non-free 部分 ==> 下载 Plop Boot Manager 进行安装。"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "错误：请安装 PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "错误：请安装必要的 Non-Free 文件和菜单"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "用于启动 Windows XP iso"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "下载 firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>请从下面列表中\\n选择希望使用的 USB 盘\\n\\<span color='red'>警告：\\nGrub2 将安装在 MBR 上！\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "该程序部分用于 Ubuntu karmic 和 lucid "
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "警告！ 您将安装 Burg，\\n本软件为实验版"
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "升级 Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "个性化主题"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "安装/升级 Burg（耐心等待）"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "默认主题:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "选择默认主题"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "正在复制 ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "个性化图标"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "下载错误"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "错误：同名文件已存在。"
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "USB 盘无卷标，multisystem 将进行修复，\\n请拔下/重新插入 USB 盘使本更改生效。"
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "挂载点与卷标不匹配，请断开/重新连接 USB 盘！"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "捐赠"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "不捐赠"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "MultiSystem 为免费自由软件 \\n但开发该软件却并非毫无投入！\\n如果你定期使用它\\n并希望支持我们继续进步，\\n请通过 PayPal 捐赠。\\n\\n提前向您致谢！\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "双击某个条目，更改 bootloader 菜单显示名称。"
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "备份/恢复"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "备份"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "恢复"
+
+#, sh-format
+msgid "de"
+msgstr "的"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "警告！\\n恢复永远删除的所有内容："
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB 盘："
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID USB 盘："
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "USB 盘容量"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "关闭窗口"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "错误：请启动 multisystem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "错误：备份文件已存在。"
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "备份文件至："
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "选择恢复文件。"
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "错误：检测不到备份文件"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "错误：USB 磁盘空间太小"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "恢复完成,\\n请在运行 multisystem 前，\\n拔下/重新插入 USB 盘。"
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "格式化完成,\\n请在运行 multisystem 前，\\n拔下/重新插入 USB 盘。"
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "错误：软件阻止对纪录的调用，请将其关闭。"
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "关于 MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "关于"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "翻译"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "MultiSystem 正在寻找翻译！\\n如果您乐意提供帮助，\\n请联系我们。\\n联系方式："
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "部分升级"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "添加引导选项（cmdline）"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "启用 gnome 菜单图标？"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "设备 | 品牌 | 模式 | 容量 | 已用 | 剩余 | 总线 | 驱动程序 | 挂载点"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr "错误：本 iso 用于引导计算机，不能删除。"
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr "当前位置："
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr "如果拖曳操作无法进行，请使用本按钮。"
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr "反选后，可快速移动菜单项。注意：该操作导致不能升级 bootloader！请在最后进行移动操作后，重新选择本选项，以便升级 bootloader。"
+
+#, sh-format
+msgid "Titre"
+msgstr "标题"
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "请确认在如下磁盘卷安装 Grub2："
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr "错误：请删除路径中的空格字符。"
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr "返回首页"

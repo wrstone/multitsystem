@@ -1,0 +1,11 @@
+timeout 0
+splashimage=/boot/splash/splash.xpm.gz
+foreground=0033FF
+background=FF3300
+
+title Chainloader into GRUB 2
+find --set-root /boot/grub/boot.img
+chainloader /boot/grub/boot.img
+boot
+#savedefault --wait=2
+

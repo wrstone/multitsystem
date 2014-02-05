@@ -1,0 +1,1359 @@
+▒▒▒▒▒mer. 02 mai 2012 01:05:10 CEST 
+-Modification du support de CrunchBang pour support de la dernière version
+distrowatch: http://distrowatch.com/?newsid=07231
+
+▒▒▒▒▒mar. 01 mai 2012 04:13:36 CEST 
+-Modification du support de "Kaspersky Rescue Disk" pour support de la dernière version
+ATTENTION l'acccès à changé, son menu est maintenant accessible via grub4dos.
+Kaspersky Rescue Disk: http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/
+
+▒▒▒▒▒dim. 29 avril 2012 16:04:22 CEST 
+-Ajout du support officiel de la nouvelle version de Ubuntu Studio
+qui reviens à ses premiers amours, à savoir une version DVD en Live 
+ubuntustudio: http://ubuntustudio.org/downloads
+distrowatch: http://distrowatch.com/?newsid=07225
+
+- Modification du support de Tails pour support de la dernière version
+Distribution Release: Tails 0.11
+Tails: https://tails.boum.org/download/
+distrowatch: http://distrowatch.com/?newsid=07229
+
+▒▒▒▒▒mer. 25 avril 2012 18:35:24 CEST 
+
+-Ajout du support officiel de Archlemur
+Archlemur: http://liquidlemur.com/cms/downloads
+
+-Ajout du support officiel de ClearOS
+ClearOS: http://distrowatch.com/table.php?distribution=clearos
+
+-Ajout du support officiel de Swift Linux
+Swift Linux: http://distrowatch.com/table.php?distribution=swift
+
+▒▒▒▒▒sam. 21 avril 2012 14:49:51 CEST 
+-MultiSystem est maintenant disponible en polonais,
+un grand MRECI àIgor Vozny|igor.vozny@gmail.com pour sa traduction rapide et efficace
+
+▒▒▒▒▒jeu. 19 avril 2012 17:56:29 CEST 
+-Ajout du support officiel de Mageia 2 beta3 version livecd !
+testé live et install ok ...
+http://www.mageia.org/en/2/
+
+-Ajout du support officiel de JabirOS
+JabirOS: http://jabirproject.org/
+
+-Ajout du support officiel de IGOS Nusantara
+IGOS Nusantara: http://igos-nusantara.or.id/
+
+-Ajout du support officiel de DarkRacer
+DarkRacer: http://www.darkracer.org/download.html
+
+▒▒▒▒▒lun. 09 avril 2012 18:48:05 CEST 
+-Ajout du support officiel de ROSA
+ROSA: http://wiki.rosalab.ru/
+distrowatch: http://distrowatch.com/table.php?distribution=rosa
+
+-Ajout du support officiel de Phinx Desktop
+Phinx Desktop (base PCLinuxOS): http://phinxdesktop.slyip.net/phinxdesktop/?page_id=11
+
+-Ajout du support officiel de LuninuX OS
+LuninuX OS: http://luninuxos.com/?page_id=18
+distrowatch: http://distrowatch.com/table.php?distribution=luninux
+
+-Ajout du support officiel de Blender-boot
+Blender-boot: https://sourceforge.net/projects/blenderboot/
+
+▒▒▒▒▒dim. 01 avril 2012 23:50:51 CEST 
+-Ajout du support officiel de Wifislax
+Accessible par le menu ==> Syslinux ==> Wifislax
+Wifislax: http://www.seguridadwireless.es/wifislax-4-0-stable/
+distrowatch: http://distrowatch.com/table.php?distribution=wifislax
+
+▒▒▒▒▒jeu. 29 mars 2012 03:33:59 CEST 
+- Modification du support de Webconverger pour support de la dernière version
+Distribution Release: Webconverger 12.0
+Distrowatch: http://distrowatch.com/?newsid=07176
+
+-Ajout du support officiel de Linuxfx
+Linuxfx: https://sourceforge.net/projects/linuxfxdevil/
+
+-Ajout du support officiel de ShilaOS
+ShilaOS: https://sourceforge.net/projects/shilaos/
+
+▒▒▒▒▒sam. 24 mars 2012 02:46:57 CET 
+- Modification du support de Pear OS pour support de la dernière version
+Distribution Release: Pear OS 4
+Distrowatch: http://distrowatch.com/?newsid=07173
+
+▒▒▒▒▒mar. 20 mars 2012 01:32:13 CET 
+-Ajout du support officiel de JoldzicOS
+JoldzicOS 3: http://www.joldzic.net/
+
+- Modification du support de Emmabuntus pour support de la dernière version
+Emmabuntus2: http://ema.freelydifferent.com/Emmabuntus2-Beta-1-v13.iso
+
+▒▒▒▒▒dim. 18 mars 2012 00:26:09 CET 
+- Mise à jour du support de Incognito Live System,
+correction du support des locales.
+Incognito Live System: https://tails.boum.org/download/
+
+- Modification du support de TOOROX pour support de la dernière version
+Distribution Release: Toorox 03.2012 "KDE"
+TOOROX: http://toorox.de/index.php/en/download
+Distrowatch: http://distrowatch.com/?newsid=07165
+
+▒▒▒▒▒mer. 14 mars 2012 00:01:28 CET 
+-Ajout du support officiel de Matriux
+Matriux: http://www.matriux.com/index.php?page=download
+Distrowatch: http://distrowatch.com/table.php?distribution=matriux
+
+-Ajout du support officiel de srvRX live
+srvRX live: https://sourceforge.net/projects/srvrx/files/
+
+▒▒▒▒▒mar. 13 mars 2012 00:06:45 CET 
+- Suppression de la limite uid >= 1000
+
+▒▒▒▒▒mer. 07 mars 2012 22:06:34 CET 
+- Modification du support de TinyMe pour support de la dernière version
+Development Release: TinyMe 2012 Alpha
+Distrowatch : http://distrowatch.com/?newsid=07149
+
+▒▒▒▒▒lun. 05 mars 2012 20:21:10 CET 
+-Ajout du support officiel de Kepler OS
+Kepler OS: http://kepleros.altervista.org/download/
+
+-Ajout du support officiel de Nosonja
+Nosonja: https://plus.google.com/102479162698978916755/posts
+
+- Modification du support de Unity pour support de la dernière version
+Development Release: Unity Linux 2012 Alpha 1
+Distrowatch: http://distrowatch.com/?newsid=07144
+
+▒▒▒▒▒sam. 03 mars 2012 18:50:57 CET 
+- Modification du fichier de conf par defaut de Syslinux
+
+▒▒▒▒▒sam. 03 mars 2012 03:23:56 CET 
+- Modification du support de CentOS netinstall pour support de la dernière version
+http://mirror.its.sfu.ca/mirror/CentOS/
+
+▒▒▒▒▒ven. 02 mars 2012 04:21:52 CET 
+- Modification du support de PLoP Linux pour support de la dernière version
+PLoP Linux: http://www.plop.at/en/ploplinux/index.html
+
+- Mise à jour de la version de grub4dos embarquée dans MultiSystem
+on passe en version : grub4dos-0.4.6a-2012-02-27.7z 
+http://code.google.com/p/grub4dos-chenall/downloads/list
+
+▒▒▒▒▒jeu. 01 mars 2012 09:26:12 CET 
+- Correction d'un bug dans le support de fedora en mode persistant,
+dans le cas d'un boot avec iso MS en liveusb .
+
+▒▒▒▒▒mer. 29 févr. 2012 23:20:01 CET 
+- Modification du système de détection pour support de l'iso MS en boot toram
+
+▒▒▒▒▒mer. 29 févr. 2012 00:46:56 CET 
+- Modification de l'entrée dans grub2 qui chaine Syslinux
+
+▒▒▒▒▒mar. 28 févr. 2012 18:41:00 CET 
+- correction d'un bug dans le cas d'utilisation d'une version différente de grub2
+sur une clé USB multisystem ...
+
+▒▒▒▒▒mar. 28 févr. 2012 16:30:00 CET 
+- Modification du support des bases Fedora en mode persistant,
+un bug obligeait à remonter manuellement le volume utilisé,
+ce n'est maintenant plus nécessaire.
+
+▒▒▒▒▒mar. 28 févr. 2012 00:46:19 CET 
+- Modification du support de kaspersky pour support de la dernière version 
+ATTENTION ! kaspersky est maintenant accessible via grub2
+kaspersky:http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/
+
+▒▒▒▒▒jeu. 23 févr. 2012 17:57:19 CET 
+- Modification du support de Slitaz pour support de la dernière version 
+Development Release: SliTaz GNU/Linux 4.0 RC1
+ATTENTION Slitaz est maintenant accessible via le menu Syslinux !
+Distrowatch : http://distrowatch.com/?newsid=07127
+
+▒▒▒▒▒mer. 22 févr. 2012 22:55:30 CET 
+-Ajout du support officiel de Linutop
+Linutop: http://www.linutop.com/download.en.html
+
+▒▒▒▒▒dim. 19 févr. 2012 02:17:37 CET 
+-Mise à jour de la version de "Plop Boot Manager" enbarquée dans multisystem,
+on passe en version 5.0.14
+Plop Boot Manager 5.0.14 released
+http://www.plop.at/en/bootmngrusblog.html
+
+- Correction d'un bug découvert par Roman de St.Petersburg en Russie !
+Merci à lui :)
+Remplacé:
+echo "${DISK_MOUNT}|${ID_VENDOR}|${ID_MODEL}|$(($(/bin/df | grep ^${DISK_MOUNT} | awk '{print $2}')/1024)) Mio|$(($(/bin/df | grep ^${DISK_MOUNT} | awk '{print $3}')/1024)) Mio|$(($(/bin/df | grep ^${DISK_MOUNT} | awk '{print $4}')/1024)) Mio|${ID_TYPE}|${ID_BUS}|${DISK_MOUNTPOINT}|${ID_FS_UUID}" >>/tmp/multisystem/multisystem-detection-usb
+Par:
+echo "${DISK_MOUNT}|${ID_VENDOR}|${ID_MODEL}|$(($(/bin/df | grep -w ^${DISK_MOUNT} | awk '{print $2}')/1024)) Mio|$(($(/bin/df | grep -w ^${DISK_MOUNT} | awk '{print $3}')/1024)) Mio|$(($(/bin/df | grep -w ^${DISK_MOUNT} | awk '{print $4}')/1024)) Mio|${ID_TYPE}|${ID_BUS}|${DISK_MOUNTPOINT}|${ID_FS_UUID}" >>/tmp/multisystem/multisystem-detection-usb
+normalement dans les recharche avec grep je protège la recherche entre des simples quotes + un espace pour éviter ce bug ...
+le recherche echouait si le disque etait /dev/sdx11 car il prenait /dev/sdx1 ...
+
+-Modification du support de openSUSE pour support de la dernière version
+Development Release: openSUSE 12.2 Milestone 1
+Distrowatch:http://distrowatch.com/?newsid=07114
+
+▒▒▒▒▒sam. 04 févr. 2012 17:28:33 CET 
+-Modification du support de Odebian pour support de la dernière version
+Odebian: http://www.odebian.org/static5/telechargements
+
+-Modification du support de Salix Live pour support de la dernière version
+Distribution Release: Salix OS 13.37 "Live Xfce"
+login ==> one
+pass ==> rien
+Distrowatch: http://distrowatch.com/?newsid=07090
+
+▒▒▒▒▒mer. 01 févr. 2012 02:15:05 CET 
+-Ajout du support officiel de JonDo
+JonDo Live-CD: http://www.anonym-surfen.de/jondo-live-cd.html
+
+▒▒▒▒▒mar. 31 janv. 2012 00:48:58 CET 
+-Ajout du support officiel de PuppyStudio
+PuppyStudio: http://puppystudio.tiddlyspot.com/
+
+-Ajout du support officiel de LinuxCoin
+LinuxCoin (64 bits only): http://www.linuxcoin.co.uk/
+
+▒▒▒▒▒sam. 28 janv. 2012 23:55:47 CET 
+Correction du support de Debian versions dvd et 
+cd gnome; kde; lxde+xfce i386 et amd64
+
+▒▒▒▒▒mar. 24 janv. 2012 01:50:26 CET 
+Mise à jour de grub4dos	change version to 0.4.5c.
+
+-Ajout du support officiel de ReactOS
+ReactOS: http://www.reactos.org/fr/
+Accesible via le menu grub4dos
+
+-Ajout du support officiel de Leeenux
+Leeenux:http://www.leeenux-linux.com/index.php/get-leeenux
+Distrowatch: http://distrowatch.com/table.php?distribution=Leeenux
+
+-Ajout du support officiel de SparkyLinux
+SparkyLinux: http://linuxiarze.pl/sparkylinux/
+
+-Ajout du support officiel de Snowlinux
+Snowlinux: http://www.snowlinux.de/download
+Distrowatch: http://distrowatch.com/table.php?distribution=snowlinux
+
+▒▒▒▒▒mer. 18 janv. 2012 02:02:08 CET 
+-Correction d'un bug dans la dernière version de Ubuntu precise
+/usr/bin/qemu n'existe plus remplacé par kvm ...
+
+▒▒▒▒▒mer. 18 janv. 2012 01:16:10 CET 
+-Correction d'un bug dans la dernière version de Ubuntu precise
+/usr/bin/qemu n'existe plus ...
+
+▒▒▒▒▒mar. 17 janv. 2012 20:48:17 CET 
+-MultiSystem est maintenant disponible en bulgare,
+un grand MRECI à Havy D|hhavyy@gmail.com pour sa traduction rapide et efficace
+
+▒▒▒▒▒mar. 17 janv. 2012 01:03:16 CET 
+-Ajout du support officiel de openRescue
+openRescue: https://github.com/cernoch/openRescue/wiki
+openRescue: http://susestudio.com/a/8RMG1v/openrescue
+
+▒▒▒▒▒lun. 16 janv. 2012 17:56:21 CET 
+-Ajout du support officiel de SuseStudio - SUSE Studio Team
+#User 	Password
+#root 	linux
+#tux 	linux
+SuseStudio: http://susestudio.com/
+ouvre un compte et générez votre iso via leur générateur en cloud, et hop dans multisystem ...
+
+▒▒▒▒▒dim. 15 janv. 2012 23:46:15 CET 
+-Correction d'un bug quand on passait par le bouton "Ajouter"
+il ne supportait pas les espaces dans le chemin, c'est corrigé ...
+
+-Modification du support de ArtistX pour support de la dernière version
+Development Release: ArtistX 1.2
+Distrowatch: http://distrowatch.com/?newsid=07072
+
+▒▒▒▒▒ven. 13 janv. 2012 05:57:41 CET 
+-Ajout du support officiel de liberte
+liberte: http://sourceforge.net/projects/liberte/
+
+▒▒▒▒▒jeu. 12 janv. 2012 03:53:38 CET 
+-Modification du support de plusieurs distributions,
+elles sont maintenant accessibles via le menu Syslinux,
+distributions concernées:
+Wifiway
+BeakOS
+Porteus
+Slax
+
+▒▒▒▒▒mer. 11 janv. 2012 00:13:47 CET 
+-Modification du support de Porteus pour support de la dernière version
+Distribution Release: Porteus 1.1
+Distrowatch: http://distrowatch.com/?newsid=07061
+
+-Ajout du support officiel de beakOS
+beakOS L/P root/beakos beakos/beakos (pour demarrer ==> gdm start)
+beakOS: http://www.beakos.com.mx/
+
+▒▒▒▒▒dim. 08 janv. 2012 00:37:02 CET 
+Mise à jour de la traduction en  Tchèque/Czech
+Merci à Josef Kubíček|kubijo@gmail.com
+
+▒▒▒▒▒mar. 03 janv. 2012 06:39:16 CET 
+-Ajout du support officiel de ExTiX
+ExTiX: http://sourceforge.net/projects/extix/files/
+Distrowatch: http://distrowatch.com/table.php?distribution=extix
+
+-Modification du support de Gentoo pour support de la dernière version
+Distribution Release: BackBox Linux 2.01
+Distrowatch: http://distrowatch.com/?newsid=07057
+
+-Modification de la première interface,
+il y a maintenant un bouton refresh qui permet de recharger la liste des volume à utiliser,
+utile au cas ou on a lancé multisystem sans monter le volume...
+
+▒▒▒▒▒jeu. 29 déc. 2011 04:06:10 CET 
+-Modification du support du Hongrois, un grand MERCI à Zsolt Boldizsár|boldizsarzsolt@gmail.com
+
+-Ajout du support officiel de ArchLinux Live
+ArchLinux Live: http://arch.alwaysdata.net/
+
+-Ajout du support officiel de Ubuntu Secured Remix
+Ubuntu Secured Remix (YannUbuntu): http://doc.ubuntu-fr.org/ubuntu_secured_remix
+
+-Ajout du support officiel de boot-repair-disk
+boot-repair-disk (YannUbuntu): http://doc.ubuntu-fr.org/boot-repair
+
+▒▒▒▒▒mer. 28 déc. 2011 01:37:44 CET 
+-Modification du support de GParted LiveCD.
+On peut maintenant mettre plusieures versions différentes de GParted LiveCD dans MultiSystem.
+GParted LiveCD: http://gparted.sourceforge.net/download.php
+
+-Ajout du support du Hongrois, un grand MERCI à Zsolt Boldizsár|boldizsarzsolt@gmail.com
+pour sa traduction efficace et hyper rapide :)
+
+▒▒▒▒▒sam. 24 déc. 2011 15:05:17 CET 
+-Modification du support de Grml pour support de la dernière version
+Distribution Release: Grml 2011.12
+Distrowatch: http://distrowatch.com/?newsid=07042
+
+▒▒▒▒▒ven. 23 déc. 2011 14:06:27 CET 
+-Ajout du support officiel de siduction
+siduction: http://siduction.org/index.php?module=inhalt&func=view&pid=2
+Distrowatch: http://distrowatch.com/table.php?distribution=siduction
+
+▒▒▒▒▒mer. 21 déc. 2011 02:31:23 CET 
+-Modification du support de Webconverger pour support de la dernière version
+Distribution Release: Webconverger 10.2
+Distrowatch: http://distrowatch.com/?newsid=07031
+
+-Modification du support de BitDefender Rescue CD pour support de la dernière version
+BitDefender Rescue CD: http://download.bitdefender.com/rescue_cd/
+
+▒▒▒▒▒lun. 19 déc. 2011 13:38:16 CET 
+-Correction d'un bug dans l'interface Non-Libre "Microsoft Windows Server 2003 Service Pack 1 (32 bits)"
+
+-Ajout du support officiel de Pear OS
+Pear OS: http://www.pear-os-linux.fr/index.php?option=com_content
+Distrowatch: http://distrowatch.com/table.php?distribution=pear
+
+▒▒▒▒▒dim. 11 déc. 2011 14:58:31 CET 
+-Ajout du support officiel de KahelOS
+KahelOS: http://www.kahelos.org/downloads.php
+Distrowatch: http://distrowatch.com/table.php?distribution=kahelos
+
+-Ajout du support officiel de Semplice Linux
+Semplice: http://semplice-linux.sourceforge.net/download/
+Distrowatch: http://distrowatch.com/table.php?distribution=semplice
+
+-Modification du support de CentOS (version livecd uniquement) pour support de la dernière version
+CentOS: http://www.centos.org/modules/tinycontent/index.php?id=30
+
+-Modification du support de Ultimate Edition pour support de la dernière version
+Distribution Release: Ultimate Edition 3.0
+Distrowatch: http://distrowatch.com/?newsid=07009
+
+▒▒▒▒▒mer. 07 déc. 2011 19:39:46 CET 
+-Modification du support de Ubuntu Privacy Remix pour support de la dernière version
+Distribution Release: Ubuntu Privacy Remix 10.04r2
+Distrowatch: http://distrowatch.com/?newsid=07011
+
+-Ajout du support officiel de SME Server
+SME_Server: http://wiki.contribs.org/SME_Server:Download
+Distrowatch: http://distrowatch.com/table.php?distribution=smeserver
+
+-Correction d'un bug dans le curseur qui permet de déplacer les iso rapidement,
+au dela de 9 menus il avait un message d'erreur "move 3", c'est corrigé ...
+
+▒▒▒▒▒ven. 25 nov. 2011 05:27:52 CET 
+-Modification du support de Parted Magic pour support de la dernière version
+Distribution Release: Parted Magic 2011_11_24
+Distrowatch: http://distrowatch.com/?newsid=06997
+
+-Ajout du support de l'Indonesien, un grand MERCI à Rahadian Koesdijarto Putra|rahadian.ironman@gmail.com
+pour sa traduction efficace et hyper rapide :)
+
+▒▒▒▒▒ven. 25 nov. 2011 02:27:25 CET 
+-Ajout du support officiel de NetbootCD (tinycore based)
+#NetbootCD: http://netbootcd.tuxfamily.org/#Downloads
+
+-Modification du support de ZevenOS pour support de la dernière version
+Distribution Release: ZevenOS 4.0
+Distrowatch: http://distrowatch.com/?newsid=06996
+
+-Ajout du support officiel de ASRI Edu version 300 Profs et 300 Kids Full
+http://asri.edu.free.fr/articles.php?lng=fr&pg=1570
+
+▒▒▒▒▒jeu. 17 nov. 2011 02:35:46 CET 
+-Ajout du support du Grecque, un grand MERCI à Stathis Iosifidis|diamond_gr@freemail.gr
+pour sa traduction efficace :)
+
+-Modification du support de Guadalinex pour support de la dernière version ==> Guadalinex v8
+Guadalinex: http://www.guadalinex.org/noticias/noticias/publicamos-la-prueba-de-concepto-de-guadalinex-v8/
+
+-Ajout du support officiel de Ubuntu 12.04 LTS "Precise Pangolin" 
+Ubuntu 12.04 LTS "Precise Pangolin" 
+http://cdimage.ubuntu.com/daily-live/current/
+
+▒▒▒▒▒dim. 13 nov. 2011 00:20:09 CET 
+-Modification du support de  CDlinux pour support de la dernière version
+Development Release: CDlinux 0.9.7
+Distrowatch: http://distrowatch.com/?newsid=06976
+
+-Ajout du support officiel de Commodore OS Vision
+Commodore OS Vision: http://www.commodoreusa.net/CUSA_OS_Vision_Download.aspx
+Distrowatch: http://distrowatch.com/table.php?distribution=commodore
+
+▒▒▒▒▒mar. 08 nov. 2011 02:28:39 CET 
+-Ajout du support officiel de Elastix
+Elastix: http://www.elastix.org/index.php/en/downloads.html
+Distrowatch: http://distrowatch.com/table.php?distribution=elastix
+
+▒▒▒▒▒ven. 04 nov. 2011 02:05:57 CET 
+-Modification du support de IPFire pour support de la dernière version
+Distribution Release: IPFire 2.11
+Distrowatch: http://distrowatch.com/?newsid=06967
+
+-Modification du support de openSUSE pour support de la dernière version
+Development Release: openSUSE 12.1 RC2
+Distrowatch: http://distrowatch.com/?newsid=06971
+
+▒▒▒▒▒mer. 02 nov. 2011 23:54:45 CET 
+-Modification du support de Hiren’s BootCD pour support de la dernière v:15.0
+Téléchargement: http://www.hirensbootcd.org/download/
+
+-Modification du support de AVLinux pour support de la dernière version
+Distribution Release: AVLinux 5.0.2
+Distrowatch: http://distrowatch.com/?newsid=06961
+
+-Modification du support de ArchBang pour support de la dernière version
+Distribution Release: ArchBang Linux 2011.11
+Distrowatch: http://distrowatch.com/?newsid=06963
+
+▒▒▒▒▒mar. 01 nov. 2011 22:36:37 CET 
+-Correction d'un bug dans le système de detection des volumes amovibles depuis Ubuntu Oneiric
+-Correction d'un bug dans le support de diverses version de Debian wheezy/amd64
+
+▒▒▒▒▒mar. 01 nov. 2011 18:34:40 CET 
+-Correction d'un bug dans l'inteface de réglages de grub2
+
+▒▒▒▒▒mer. 26 oct. 2011 17:36:07 CEST 
+-Modification du support de Puppy Linux pour support de la dernière version
+Distribution Release: Puppy Linux 5.3 "Slacko"
+Distrowatch: http://distrowatch.com/?newsid=06952
+
+▒▒▒▒▒mar. 25 oct. 2011 17:59:29 CEST 
+-Ajout du support du Chinois, un grand MERCI à Gavin|bjeasy@163.com
+pour sa traduction efficace et rapide :)
+
+▒▒▒▒▒mar. 25 oct. 2011 01:54:50 CEST 
+-Mise au propre des fichiers temporaires,
+avant ils etaient dans /tmp, maintenant ils sont tous dans un dossier: /tmp/multisystem
+
+-Modification du support de ZevenOS pour support de la dernière version
+Distribution Release: ZevenOS 2.0 "Neptune"
+Distrowatch: http://distrowatch.com/?newsid=06946
+
+▒▒▒▒▒ven. 21 oct. 2011 02:39:23 CEST 
+-Ajout du support officiel des versions DVD-1 de Debian toutes architectures:
+http://cdimage.debian.org/debian-cd/current/i386/iso-dvd/
+http://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/
+
+▒▒▒▒▒jeu. 20 oct. 2011 01:06:12 CEST 
+-Correction d'un bug d'affichage dans l'interface "Télécharger des liveCD"
+
+▒▒▒▒▒mer. 19 oct. 2011 15:35:21 CEST 
+-Ajout du support officiel des versions:
+Debian NetInstall Multi-architecture amd64/i386
+http://cdimage.debian.org/debian-cd/current/multi-arch/iso-cd/
+
+-Ajout du support officiel des versions non-free de Debian i386 amd64 multi-arch:
+http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/i386/iso-cd/
+http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/
+http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/multi-arch/
+
+▒▒▒▒▒mer. 19 oct. 2011 15:35:21 CEST 
+-Comme pour les versions alternate de Ubuntu,
+je viens de réécrire totalement le support de Debian et de Debian-Live,
+plus besoin d'être connecté au net pour ajouter ces isos à votre clé USB MultiSystem.
+Les versions supportées de Debian sont:
+debian-*-*-businesscard.iso
+debian-*-*-CD-1.iso
+debian-*-*-kde-CD-1.iso
+debian-*-*-netinst.iso
+debian-*-*-xfce+lxde-CD-1.iso
+toutes architectures pour Wheezy ==> 7.0 et Squeeze ==> 6.0
+
+-Et pour Debian-Live sont supportés iso-hybrid architectures amd64 et i386:
+debian-live-*-*-gnome-desktop.iso
+debian-live-*-*-kde-desktop.iso
+debian-live-*-*-lxde-desktop.iso
+debian-live-*-*-xfce-desktop.iso
+
+-A venir (pas encore supportées)...
+-Support des iso "Unofficial non-free CDs including firmware packages"
+http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/
+-A venir (pas encore supportées)...
+Support des versions DVD de Debian toutes architectures.
+http://www.debian.org/CD/http-ftp/#stable
+
+▒▒▒▒▒mer. 19 oct. 2011 01:17:24 CEST 
+-Réécriture du support de Debian Squeeze et Debian-Live.
+
+▒▒▒▒▒lun. 17 oct. 2011 20:32:45 CEST 
+-Correction d'un bug généré par la précédente mise à jour dans le support 
+des versions alternate de ubuntu sur les versions avant Oneiric.
+
+▒▒▒▒▒lun. 17 oct. 2011 01:45:31 CEST 
+-Réécriture du support des versions alternate de Ubuntu et dérivés.
+
+▒▒▒▒▒dim. 16 oct. 2011 03:20:16 CEST 
+-Correction des lanceurs des paquets .deb pour adaptation à Ubuntu Oneiric.
+
+▒▒▒▒▒jeu. 13 oct. 2011 01:47:55 CEST 
+-Adaptation des différents gui à la nouvelle version de gtkdialog
+
+▒▒▒▒▒mar. 11 oct. 2011 00:59:36 CEST 
+-Adaptation des différents gui à la nouvelle version de gtkdialog
+
+▒▒▒▒▒lun. 10 oct. 2011 23:47:22 CEST 
+-Adaptation des différents gui à la nouvelle version de gtkdialog
+
+▒▒▒▒▒sam. 08 oct. 2011 03:04:22 CEST 
+-Adaptation des différents gui à la nouvelle version de gtkdialog
+
+▒▒▒▒▒mer. 05 oct. 2011 02:32:06 CEST 
+-Adaptation des différents gui à la nouvelle version de gtkdialog
+
+▒▒▒▒▒lun. 03 oct. 2011 16:51:01 CEST 
+-Modification du support de  Parted Magic pour support de la dernière version
+Distribution Release: Parted Magic 6.7
+Distrowatch: http://distrowatch.com/?newsid=06916
+Miroirs de téléchargement: http://partedmagic.com/doku.php?id=downloads
+
+-Changement de la version de gtkdialog embarquée dans le dépôt de liveusb.info,
+la version est maintemant celle développée par Thunor à savoir actuellement la "0.8.0".
+gtkdialog: http://code.google.com/p/gtkdialog/downloads/list
+## Depôt MultiSystem
+deb http://liveusb.info/multisystem/depot all main
+#deb-src http://liveusb.info/multisystem/depot all main
+#wget -q http://liveusb.info/multisystem/depot/multisystem.asc -O- | sudo apt-key add -
+
+-Le "Drag And Drop" est maintenant un vrai "Drag And Drop"
+plus besoin de bouger le pointeur ou de cliquer, 
+c'est la première nouvelle fonction que j'implémente grace à gtkdialog "0.8.0",
+pleins d'autres sont à venir dans les jours prochains ...
+
+▒▒▒▒▒jeu. 22 sept. 2011 19:37:17 CEST 
+-Ajout du paquet xz-utils en dépendance, car j'ai oublié de le mettre en dépendance 
+lors de la modification du support de GeeXboX
+
+▒▒▒▒▒mer. 21 sept. 2011 17:45:45 CEST 
+-Correction du support de GeeXboX 2.0, on peut maintenant installer 2 versions i386 et x86_64
+mettez multisystem à jour, et effacez et redroppez vos iso.
+GeeXboX: http://www.geexbox.org/en/downloads.html
+
+-Ajout du support du Roumain (Romanian,ro_RO.UTF-8)
+Un grand MERCI à "Marian Vasile" marianvasile@upcmail.ro pour sa traduction efficace et rapide :)
+
+▒▒▒▒▒mar. 20 sept. 2011 03:53:14 CEST 
+-Correction du support de GeeXboX 2.0 car il ne fonctionnait pas dans Qemu et VBox et sur certains vieux bios,
+mettez multisystem à jour, et effacez et redroppez votre iso.
+GeeXboX: http://www.geexbox.org/en/downloads.html
+
+▒▒▒▒▒dim. 18 sept. 2011 19:12:03 CEST 
+-Modification du support de GeeXboX (avec mode persistant) pour support de la dernière version
+GeeXboX 2.0: http://www.geexbox.org/en/downloads.html
+Distrowatch: http://distrowatch.com/?newsid=06891
+
+-Ajout du support officiel de KillDisk (accessible via grub4dos)
+KillDisk: http://www.killdisk.com/downloadfree.htm
+KillDisk: http://software.lsoft.net/boot-cd-iso.zip
+
+▒▒▒▒▒jeu. 15 sept. 2011 00:33:05 CEST 
+-Ajout du support officiel de ALDOS
+ALDOS: http://www.alcancelibre.org/article.php/disponible-aldos-1-4
+
+▒▒▒▒▒lun. 12 sept. 2011 16:58:02 CEST 
+voir ce post: http://forum.ubuntu-fr.org/viewtopic.php?pid=6140491#p6140491
+
+▒▒▒▒▒lun. 12 sept. 2011 14:05:17 CEST 
+-Ajout du support officiel de Likinux
+Likinux: http://www.likinux.tk/
+
+-Modification du support de Dr.Web LiveCD, 
+car si la clé USB n'etait pas en premier dans le bios, le boot echouait.
+Dr.Web LiveCD minDrWebLiveCD: http://www.freedrweb.com/livecd/
+
+▒▒▒▒▒mer. 07 sept. 2011 02:38:18 CEST 
+-Modification du support de Emmabuntüs pour support de la dernière version
+Emmabuntüs Patrick Ablard: http://sourceforge.net/projects/emmubuntu/files/Emmabuntus%20Equitable/
+
+▒▒▒▒▒lun. 05 sept. 2011 15:46:40 CEST 
+-Modification du support de ntpasswd pour support de la dernière version
+ntpasswd: http://pogostick.net/~pnh/ntpasswd/
+
+-Ajout du support officiel de Estobuntu
+Estobuntu: http://estobuntu.org/allalaadimine
+
+▒▒▒▒▒dim. 04 sept. 2011 15:46:45 CEST 
+-Ajout du support officiel de BackBox
+BackBox Linux: http://www.backbox.org/content/download
+Distrowatch: http://distrowatch.com/table.php?distribution=backbox
+
+▒▒▒▒▒ven. 02 sept. 2011 15:20:14 CEST 
+-Modifications des lanceurs pour compatibilité avec Ubuntu "Oneiric Ocelot"
+
+▒▒▒▒▒jeu. 01 sept. 2011 18:19:59 CEST 
+-Ajout du support officiel de PureWebOS
+PureWebOS: http://www.freetorrent.fr/details.php?id=0613a4153cbbfe013bc1593085c764958b4f4894
+
+▒▒▒▒▒dim. 28 août 2011 13:27:53 CEST 
+-Ajout du support officiel de Dream Studio
+Dream Studio: http://sourceforge.net/projects/dreamstudio/files/
+Distrowatch: http://distrowatch.com/?newsid=06861
+
+▒▒▒▒▒mer. 24 août 2011 17:16:03 CEST 
+-Modification du support de CrunchBang,
+il est maintenant possible de l'installer.
+CrunchBang: http://www.crunchbanglinux.org/wiki/downloads
+
+▒▒▒▒▒mar. 23 août 2011 15:36:15 CEST 
+-Modification du support de "Kaspersky Rescue Disk" pour support de la dernière version
+ATTENTION l'acccès à changé, son menu est maintenant accessible via grub4dos.
+Kaspersky Rescue Disk: http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/
+
+-Modification du support de "KLinuxMint Debian (LMDE)" pour support de la dernière version
+LinuxMint Debian (LMDE): http://www.linuxmint.com/download.php
+
+▒▒▒▒▒dim. 21 août 2011 23:30:58 CEST 
+-Modification du support de Linux Mint Debian (LMDE) pour support de la dernière version
+http://www.linuxmint.com/download_lmde.php
+
+▒▒▒▒▒lun. 15 août 2011 17:30:27 CEST 
+-Mise à jour de la version de Plop boot Manager, passe en version 5.0.13 
+
+▒▒▒▒▒sam. 13 août 2011 16:49:26 CEST 
+-Ajout de l'option uid=$(id -u) dans le fichier ./multisystem/iso_add.sh
+==> sudo mount -o loop,uid=$(id -u) "${option2}" "/tmp/multisystem/multisystem-mountpoint-iso"
+
+▒▒▒▒▒ven. 12 août 2011 16:35:57 CEST 
+-Modification du support de minDrWebLiveCD pour support de la dernière version
+minDrWebLiveCD: http://www.freedrweb.com/livecd/
+
+▒▒▒▒▒jeu. 11 août 2011 19:45:23 CEST 
+-Correction du montage des iso car pour hiren's ne fonctionnait plus ...
+
+▒▒▒▒▒mar. 09 août 2011 15:53:26 CEST 
+-Modification du support de dyne:bolic pour support de la dernière version
+Development Release: dyne:bolic 3.0 Beta 4
+Distrowatch: http://distrowatch.com/?newsid=06833
+
+▒▒▒▒▒sam. 06 août 2011 20:05:50 CEST 
+-Suppression de l'utilisation de fuseiso
+
+▒▒▒▒▒jeu. 04 août 2011 23:50:56 CEST 
+-Modification du support de knoppix pour support de la dernière version 6.4.4
+knoppix: http://knopper.net/knoppix-mirrors/
+
+-Ajout du support officiel d4e/desktop4education (version LiveCD)
+pour installer ==> Login: root Passwort: open23
+d4e/desktop4education: http://d4e.at/downloads/
+
+▒▒▒▒▒lun. 01 août 2011 03:11:41 CEST 
+-Modification du système de détection générique (pour les isos non supportées officiellement),
+maintenant les isos dans lesquelles la paquet lupin-casper n'est pas présent seront supportéessans erreurs.
+
+-Modification du système qui empêche de lancer multisystem plusieures fois.
+
+-Correction d'une erreur dans le support de Ophcrack
+Ophcrack LiveCD XP: http://sourceforge.net/projects/ophcrack/files/
+
+-Ajout du support officiel de Manjaro
+Manjaro: http://manjarolinux.org/hp/download.html
+Quebecos: http://www.quebecos.com/modules/news/article.php?storyid=4448
+
+▒▒▒▒▒sam. 30 juil. 2011 15:35:00 CEST 
+-Nttoyage du code des fichiers fonctions.sh et os_support.sh
+
+▒▒▒▒▒jeu. 28 juil. 2011 14:18:51 CEST 
+-Modification du système de détection générique (pour les isos non supportées officiellement),
+maintenant les isos dans lesquelles la paquet lupin-casper n'est pas présent seront supportéessans erreurs.
+
+-Modification du système qui empêche de lancer multisystem plusieures fois.
+
+-Correction d'une erreur dans le support de Ophcrack
+Ophcrack LiveCD XP: http://sourceforge.net/projects/ophcrack/files/
+
+▒▒▒▒▒mer. 27 juil. 2011 02:16:38 CEST 
+-Ajout du support officiel de "La Boîte à Outils"
+La Boîte à Outils: http://www.lulu-search.com/boite-a-outils/telechargement.html
+
+▒▒▒▒▒lun. 25 juil. 2011 00:42:06 CEST 
+-Modification du support de Finnix pour support de la dernière version
+Distribution Release: Finnix 102
+Distrowatch: http://distrowatch.com/?newsid=06802
+Finnix: http://www.finnix.org/Download
+
+-Modification du support de Calculate pour support de la dernière version
+Distribution Release: Calculate Linux 11.6.1
+Calculate: http://www.calculate-linux.org/main/en/download
+Distrowatch: http://distrowatch.com/?newsid=06805
+
+▒▒▒▒▒ven. 22 juil. 2011 15:28:22 CEST 
+-Correction d'un bug dans le système de détection avec udevadm
+
+▒▒▒▒▒ven. 22 juil. 2011 14:24:13 CEST 
+-Ajout du support officiel de Lightweight Portable Security (LPS)
+Lightweight Portable Security (LPS): http://www.spi.dod.mil/lipose.htm
+Distrowatch: http://distrowatch.com/table.php?distribution=lps
+
+▒▒▒▒▒lun. 18 juil. 2011 00:54:30 CEST 
+-Modification du support de PapugLinux pour support de la dernière version
+Distribution Release: PapugLinux 11.1
+PapugLinux: http://www.papuglinux.net/Download/
+Distrowatch: http://distrowatch.com/?newsid=06788
+
+-Ajout du support officiel de Blackbuntu
+Blackbuntu: http://www.blackbuntu.com/download
+
+▒▒▒▒▒ven. 15 juil. 2011 16:50:16 CEST 
+-Ajout du support officiel de GAG
+GAG: http://gag.sourceforge.net/download.html
+
+▒▒▒▒▒jeu. 14 juil. 2011 18:11:48 CEST 
+-Modification du support de Pinguy OS pour support de la dernière version
+Distribution Release: Pinguy OS 11.04 "Ping-Eee"
+Distrowatch: http://distrowatch.com/?newsid=06774
+
+-Modification du support de ASRI pour support de la dernière version
+ASRI Edu 300 Profs et ASRI Edu 300 Full
+http://asri.edu.free.fr/articles.php?lng=fr&pg=1570
+
+-Ajout du support officiel de Linvo (based on Slackware)
+Linvo: http://www.linvo.org/?page=getit
+Distrowatch: http://distrowatch.com/table.php?distribution=linvo
+
+▒▒▒▒▒sam. 09 juil. 2011 00:08:28 CEST 
+-Mise à jour de la traduction en Anglais par Ryan J Nicholson rjn256@gmail.com
+Un grand Merci :)
+
+▒▒▒▒▒sam. 25 juin 2011 16:44:46 CEST 
+2 petits utilitaires en plus qui contiennent ms-sys
+http://ms-sys.sourceforge.net/
+
+-Ajout du support officiel de BG-Rescue Linux
+BG-Rescue Linux: http://www.giannone.eu/rescue/
+
+-Ajout du support officiel de PLD RescueCD
+PLD RescueCD: http://rescuecd.pld-linux.org/ (menu Syslinux)
+
+▒▒▒▒▒ven. 24 juin 2011 01:17:55 CEST 
+-Ajout du support officiel de PC Global Services
+PC Global Services: http://www.gpcservices.com/gratuit/
+
+▒▒▒▒▒mar. 21 juin 2011 16:56:54 CEST 
+-Modification du support de VectorLinux pour support de la dernière version
+VectorLinux: http://vector2.ecosq.com/downloads
+Distrowatch: http://distrowatch.com/?newsid=06744
+
+▒▒▒▒▒sam. 18 juin 2011 15:16:56 CEST 
+-Correction d'un bug dans l'interface qui permet de déplacer les menus,
+Normalement ce coup-ci plus de bug dans cette interface ...
+
+▒▒▒▒▒ven. 17 juin 2011 15:21:59 CEST 
+-Ajout du support officiel de Tiny Core Linux, version multicore (accès via menu Syslinux)
+Tiny Core Linux: http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/
+Distrowatch: http://distrowatch.com/?newsid=06733
+
+-Modification du support de Lemmabuntus pour support de la dernière version
+Lemmabuntus: http://sourceforge.net/projects/emmubuntu/files/Lemmabuntus%20Equitable/
+
+-Ajout dans options de boot sur double clic, montre la totalité des options de boot.
+
+-Correction d'un bug dans l'interface qui permet de déplacer les menus.
+
+▒▒▒▒▒mer. 15 juin 2011 14:58:35 CEST 
+-Modification du support de Parted Magic pour support de la dernière version
+Parted Magic: http://partedmagic.com/download.html
+Distrowatch http://distrowatch.com/?newsid=06731
+
+-Ajout du support officiel de Mandriva-linux-instanton-2010
+Mandriva-linux-instanton-2010: http://www.mandriva.com/fr/instanton/
+
+▒▒▒▒▒mar. 14 juin 2011 22:37:13 CEST 
+-Modification du support de chakra pour support de la dernière version
+chakra: http://chakra-project.org/download.html
+Distrowatch: http://distrowatch.com/?newsid=06727
+
+-Ajout du support officiel de Paragon
+Paragon: http://www.paragon-software.com/home/systembackup/
+
+-Ajout du support officiel de IPFire
+IPFire: http://www.ipfire.org/download
+Distrowatch: http://distrowatch.com/?newsid=06729
+
+-Refonte de l'interface qui permet d'ajouter des options de boot
+
+-Modification du support de AV Linux pour support de la dernière version
+AV Linux: http://www.bandshed.net/DownloadInstall.html
+Distrowatch: http://distrowatch.com/?newsid=06730
+
+▒▒▒▒▒dim. 12 juin 2011 11:55:00 CEST 
+- Correction d'un bug dans l'interface de restauration.
+- Ajout d'un bouton dans la partie Glisser/Déposer car sous XFCE Glisser/Déposer ne fonctionne pas.
+- Ajout d'un checkbox pour vérifier mise à jour dans interface "Mise à jour", onglet Menus.
+- Ajout d'un checkbox pour ne pas faire la mise à jour des bootloader lors du déplacement de menus.
+-Modification du support de Imagineos pour support de la dernière
+Imagineos: http://www.imagineos.com.br/ 
+Distrowatch:  http://distrowatch.com/?newsid=06726
+
+▒▒▒▒▒jeu. 09 juin 2011 15:39:17 CEST 
+- Correction d'un bug dans le système de détection avec udevadm
+- Ajout d'un bouton sur interface principale pour déplacer rapidement un menu
+
+▒▒▒▒▒mer. 08 juin 2011 16:58:24 CEST 
+- Correction du support des versions alternate et server de Ubuntu version Natty et Oneiric, 
+une erreur dans le téléchargement du ramdisk hd-media, le script ne prenait pas la bonne version
+et du coup l'install notifiait que on avait pas la bonne iso ...
+
+▒▒▒▒▒mar. 07 juin 2011 16:28:37 CEST 
+-Modification du support de DRBL LIVE pour support de la dernière version 1.0.5-6
+DRBL LIVE: http://drbl.sourceforge.net/
+
+▒▒▒▒▒lun. 06 juin 2011 12:30:54 CEST 
+- Limitation dans la détection aux volumes montés dans /media
+
+▒▒▒▒▒lun. 06 juin 2011 11:59:27 CEST 
+-Modification du support de Hiren’s BootCD pour support de la dernière v:14.0
+Téléchargement: http://www.hirensbootcd.org/download/
+
+▒▒▒▒▒dim. 05 juin 2011 16:57:45 CEST 
+- Ajout du support officiel de Mageia en version Netinstall
+
+-Ajout du support officiel de Sn0wL1nuX
+Sn0wL1nuX: http://sourceforge.net/projects/sn0wl1nux/
+
+▒▒▒▒▒ven. 03 juin 2011 00:09:09 CEST 
+- Ajout du support de Fedora 15 en version DVD install
+
+▒▒▒▒▒mer. 01 juin 2011 18:42:33 CEST 
+- Corrections d'un bug dans le nouveau système de détection
+
+▒▒▒▒▒mer. 01 juin 2011 15:58:30 CEST 
+- Ajout de (floppy) dans le système de détection des clé USB.
+
+▒▒▒▒▒mer. 01 juin 2011 14:15:19 CEST 
+- Ajout du support officiel de AriOS
+AriOS: http://arioslinux.org/download/
+Distrowatch: http://distrowatch.com/table.php?distribution=arios
+
+- Suppression de hal, remplacé par udevadm
+
+- Modification du support de Grml pour support de la dernière version
+Distribution Release: Grml 2011.05
+Distrowatch: http://distrowatch.com/?newsid=06700
+
+▒▒▒▒▒mer. 25 mai 2011 14:53:13 CEST 
+-Modification du support de Kongoni pour support de la dernière version
+Development Release: Kongoni GNU/Linux 2011 RC2
+Distrowatch: http://distrowatch.com/?newsid=06688
+
+-Modification du support de Trisquel pour support de la dernière version
+Distribution Release: Trisquel GNU/Linux 4.5.1
+Distrowatch: http://distrowatch.com/?newsid=06691
+
+▒▒▒▒▒dim. 22 mai 2011 11:52:02 CEST
+-Ajout du support officiel de Lemmabuntus Equitable
+Téléchargement Lemmabuntus: http://sourceforge.net/projects/emmubuntu/files/Lemmabuntus%20Equitable/
+Documentation Lemmabuntus: http://sourceforge.net/projects/emmubuntu/files/Lemmabuntus%20Equitable/Documentation/
+
+▒▒▒▒▒mer. 18 mai 2011 02:59:04 CEST 
+-Modification du support de Porteus pour support de la dernière version
+Development Release: Porteus 1.0 RC2
+Distrowatch: http://distrowatch.com/?newsid=06667
+
+-Correction de l'installation de Virtualbox pour support dans Ubuntu Natty
+
+-Correction du support de Qemu pour support dans Ubuntu Natty
+
+▒▒▒▒▒lun. 16 mai 2011 14:24:11 CEST 
+-Correction du support de la dernière version de clonezilla version maverick et natty
+-Correction de divers bugs dans le gestionnaire de boot Burg,
+testé ok sous Ubuntu maverick et natty.
+-Ajout du support officiel de iBoot
+
+▒▒▒▒▒sam. 14 mai 2011 23:50:49 CEST 
+-Mise à jour du thème burg par defaut "multisystem"
+
+▒▒▒▒▒sam. 14 mai 2011 22:19:22 CEST 
+-Correction de divers bugs dans le gestionnaire de boot Burg,
+testé ok sous Ubuntu maverick et natty.
+
+▒▒▒▒▒jeu. 12 mai 2011 17:55:41 CEST 
+-Ajout du support officiel de Caixa Mágica
+Caixa Mágica: http://www.caixamagica.pt/pag/b_down00.php
+Distrowatch: http://distrowatch.com/?newsid=06674
+
+▒▒▒▒▒mer. 11 mai 2011 16:06:22 CEST 
+-Modification du support de SalineOS pour support de la dernière version
+Distribution Releases: SalineOS 1.4, 1.0 "Personal Server"
+Distrowatch: http://distrowatch.com/?newsid=06672
+
+▒▒▒▒▒mer. 11 mai 2011 13:29:54 CEST 
+-Modification du support de BackTrack pour support de la dernière version
+Distribution Release: BackTrack 5
+Distrowatch: http://distrowatch.com/?newsid=06671
+
+-Ajout du support officiel de Ocariabuntus
+Ocarinabuntus: http://sourceforge.net/projects/emmubuntu/files/Ocarinabuntus/
+Wiki: http://sourceforge.net/apps/mediawiki/emmubuntu/index.php?title=Main_Page
+Patrick Ablard: http://www.framablog.org/index.php/post/2011/01/04/emmaus-logiciels-libres-interview-patrick
+
+▒▒▒▒▒mar. 10 mai 2011 20:42:05 CEST 
+-Ajout du support officiel de Zenwalk Linux 7.0 "Live" 
+Distrowatch: http://distrowatch.com/?newsid=06666
+
+-Modification du support de linuX-gamers pour support de la dernière version linuX-gamers Live 0.9.7
+ATTENTION seule la version lite est supportée !
+Distrowatch: http://distrowatch.com/?newsid=06670
+
+▒▒▒▒▒sam. 07 mai 2011 18:51:30 CEST 
+-Modification de l'install de grub2 dans le mbr de la clé USB,
+car sous Ubuntu Natty en Wubi cela ne fonctionnait plus ...
+
+▒▒▒▒▒mar. 03 mai 2011 12:15:35 CEST 
+-Ajout du support officiel de deSbian
+deSbian: https://sites.google.com/a/h4ckdr4g.net/desbian/
+
+▒▒▒▒▒dim. 01 mai 2011 17:47:05 CEST 
+-Ajout du support du Russe,
+un grand merci à Stas kolobkov pour sa traduction :)
+
+▒▒▒▒▒mer. 27 avril 2011 13:50:44 CEST 
+-Amélioration de l'esthétique de la nouvelle interface principale :)
+intégration dans onglets 'Non-Libre' et 'A Propos' de l'interface sans boutons
+
+▒▒▒▒▒mar. 26 avril 2011 23:50:01 CEST 
+-Amélioration de l'esthétique de la nouvelle interface principale :)
+
+▒▒▒▒▒mar. 26 avril 2011 14:02:46 CEST 
+-Refonte de l'interface principale car sous Ubuntu 11.04 (Natty Narwhal) avec Unity
+les menus (gtkdialog) ont tendance à buger,
+je les ai donc remplacé par des onglets.
+
+▒▒▒▒▒dim. 17 avril 2011 14:49:30 CEST 
+-Modification de support de LMDE (linuxmint base debian)
+vous pouvez maintenant mettre plusieures versions 32-Bits/64-Bits version gnome/xfce ...
+
+▒▒▒▒▒ven. 15 avril 2011 17:48:59 CEST 
+-Ajout du support officiel de DEFT Linux
+pour lancer mode graphique commande ==> deft-gui
+DEFT Linux: http://www.deftlinux.net/download/
+Distrowatch: http://distrowatch.com/table.php?distribution=deft
+
+-Ajout du support officiel de Privatix
+Privatix: http://www.mandalka.name/privatix/download.html.en
+Distrowatch: http://distrowatch.com/table.php?distribution=privatix
+
+-Ajout du support officiel de Incognito
+Incognito: https://tails.boum.org/download
+Distrowatch:http://distrowatch.com/table.php?distribution=incognito
+
+▒▒▒▒▒jeu. 07 avril 2011 12:25:29 CEST 
+-Ajout du support officiel de netboot.me
+netboot.me: http://netboot.me
+
+-Ajout d'un menu 64bits pour SystemRescueCd
+SystemRescueCd: http://www.sysresccd.org/Download
+
+-Ajout du support officiel de Scientific Linux 6.0 "Live" edition
+distrowatch: http://distrowatch.com/?newsid=06560
+
+-Mise à jour du script multisystem.bat situé à la racine de votre clé USB
+pour compatibilité avec VirtualBox Version >= 4.04 .
+Ce script permet sous Windows XP/Vista/Seven de virtualiser votre clé USB en 1 clic !.
+(sous Vista et Seven, exécuter en Administrateur)
+pour en profiter mettre à jour multisystem, puis mettre à jour Grub2 de votre clé USB.
+
+-Modification du support de Mageia pour support de la version dual (merci à olivier76 d'avoir signalé le version dual :) )
+http://mageia.org/en/downloads/
+
+▒▒▒▒▒ven. 25 mars 2011 16:18:48 CET 
+-Modification du support de Trisquel pour support de la dernière version
+Distribution Release: Trisquel GNU/Linux 4.5
+Distrowatch: http://distrowatch.com/?newsid=06593
+
+▒▒▒▒▒mer. 16 mars 2011 17:47:36 CET 
+-Ajout du support officiel des versions netinstall CentOS.
+CentOS: http://mirror.its.sfu.ca/mirror/CentOS/
+
+-Modification du support de Jolicloud,
+car il viens de changer de mon, il s'appelle maintenant Joli OS.
+Distrowatch: http://distrowatch.com/?newsid=06563
+
+-Modification du support de Kongoni pour support de la dernière version
+Development Release: Kongoni GNU/Linux 2011 Beta 1
+Distrowatch: http://distrowatch.com/?newsid=06578
+
+▒▒▒▒▒mer. 09 mars 2011 18:06:16 CET 
+-Modification du support de Gentoo pour support de la dernière version
+Distribution Release: Gentoo Linux 11.0
+Distrowatch: http://distrowatch.com/?newsid=06558
+
+▒▒▒▒▒mar. 08 mars 2011 12:16:48 CET 
+-Ajout du support officiel de Porteus
+Porteus: http://www.porteus.org/distro-download.html
+
+-Ajout du support officiel de Hybryde NirvanOS
+Hybryde: http://88.191.128.71/site-joolma/
+
+-Ajout du support officiel de Liquid Lemur
+Liquid Lemur: http://liquidlemur.org/
+
+▒▒▒▒▒lun. 07 mars 2011 11:41:26 CET 
+-Modification du support de Wary Puppy pour support de la dernière version ==> 5.1.1
+Wary Puppy: http://distro.ibiblio.org/quirky/wary-5.1.1/wary-511-readme.htm
+
+-Modification du support de KANOTIX pour support de la dernière version
+KANOTIX: http://kanotix.com/Downloads.html
+Distrowatch: http://distrowatch.com/?newsid=06547
+
+-Ajout du support officiel de kademar
+kademar: http://www.kademar.org/kademar-linux/
+Distrowatch: http://distrowatch.com/table.php?distribution=kdemar
+
+▒▒▒▒▒sam. 26 févr. 2011 14:43:04 CET 
+-Modification du support de kduxp pour support de la dernière version
+maintenant les 2 versons sont supportées à savoir small et plus.
+kduxp: http://www.linuxkduxp.com/downloads/
+
+▒▒▒▒▒mer. 23 févr. 2011 12:31:30 CET 
+-Ajout du support officiel de KDE Partition Manager
+KDE Partition Manager: http://sourceforge.net/projects/partitionman/
+
+-Ajout du support officiel de KDE Bodhi Linux
+Bodhi Linux: http://www.bodhilinux.com/download.html
+Distrowatch: http://distrowatch.com/table.php?distribution=bodhi
+
+-Ajout d'une interface qui préviens que grub2 va être installé dans le mbr
+si le disque sélectionné n'a pas une structure intégrant multisystem
+
+-Ajout du support du Croate,
+un grand merci à Goran Vidovic pour sa traduction :)
+
+-Modification du support de rescatux pour support de la dernière version ==> 0.23
+rescatux: http://www.supergrubdisk.org/rescatux/
+
+▒▒▒▒▒lun. 14 févr. 2011 23:20:48 CET 
+-Modification du support de Rescatux pour support de la dernière version ==> Rescatux 0.22 released
+Téléchargement: http://www.supergrubdisk.org/category/download/rescatuxdownloads/
+
+▒▒▒▒▒dim. 13 févr. 2011 12:06:48 CET 
+-Modification du support de Hiren's BootCD pour support de la dernière version 13.1
+Téléchargement: http://www.hirensbootcd.org/download/
+
+-Ajout du support officiel de Canaima
+Distrowatch: http://distrowatch.com/?newsid=06509
+
+-Correction du support de Debian-live version squeeze
+pour support des versions amd64
+Debian-live: http://cdimage.debian.org/cdimage/release/current-live/
+
+▒▒▒▒▒mer. 09 févr. 2011 19:59:18 CET 
+-Modification du support de ArtistX pour support de la dernière version
+Distribution Release: ArtistX 1.0
+Distrowatch: http://distrowatch.com/?newsid=06502
+
+-Ajout du support du Turque/Türkçe
+un grand merci à M.Emin KARA pour sa traduction :)
+
+▒▒▒▒▒lun. 07 févr. 2011 15:06:19 CET 
+-Modification du support de aptosid pour support de la dernière version
+Distribution Release: aptosid 2011-01
+les 3 versions sont supportées la mixte i386/amd et i386 ou amd
+Distrowatch: http://distrowatch.com/?newsid=06500
+
+-Ajout du support du Tchèque/Czech
+un grand merci à kubijo pour sa traduction :)
+
+▒▒▒▒▒dim. 06 févr. 2011 12:16:00 CET 
+-Ajout du support officiel de Beini
+Beini: http://www.ibeini.com/es/index.htm
+
+▒▒▒▒▒mar. 01 févr. 2011 22:23:36 CET 
+-Ajout du support officiel de la version en cours de dévelopement de Mandriva 2011
+Annonce: http://blog.mandriva.com/en/2011/01/31/mandriva-2011-technology-preview/
+Distrowatch: http://distrowatch.com/?newsid=06490
+
+▒▒▒▒▒dim. 30 janv. 2011 12:19:14 CET 
+-Ajout d'un mode "persistent" pour Android x86
+http://code.google.com/p/android-x86/downloads/list
+http://www.androidx86.org/downloads.html
+
+-Modification du support de ArchBang pour support de la dernière version
+Distribution Release: ArchBang Linux 2011.01
+Distrowatch: http://distrowatch.com/?newsid=06483
+
+▒▒▒▒▒ven. 28 janv. 2011 00:43:51 CET 
+-Modification du support de android x86 pour support de la dernière version ==> froyo
+
+▒▒▒▒▒ven. 21 janv. 2011 02:02:35 CET 
+-Ajout du support officiel de Saline
+Saline OS:http://www.salineos.com/downloads.php
+Distrowatch: http://distrowatch.com/table.php?distribution=saline
+
+▒▒▒▒▒mar. 18 janv. 2011 01:07:10 CET 
+-Ajout du support officiel de Dynebolic
+Dynebolic: http://www.dynebolic.org/index.php?show=available
+Distrowatch: http://distrowatch.com/table.php?distribution=Dynebolic
+
+-Ajout du support officiel de DEMONOID-HBCD-13.0-Restored ...
+
+▒▒▒▒▒lun. 17 janv. 2011 01:09:17 CET 
+-Modification du support de xbmc pour support de la dernière version
+xbmc: http://xbmc.org/download/
+
+▒▒▒▒▒dim. 09 janv. 2011 19:24:51 CET
+-Ajout du support officiel de CTKarchLive
+CTKarchLive: http://calimeroteknik.free.fr/ctkarchlive/
+Distrowatch: http://distrowatch.com/table.php?distribution=CTKarchLive
+
+▒▒▒▒▒jeu. 06 janv. 2011 23:55:29 CET 
+-Modification du support de Puppy Linux pour support de la dernière version
+Distribution Release: Puppy Linux 5.2
+Distrowatch: http://distrowatch.com/?newsid=06447
+
+-Modification du support de knoppix 6.x
+vous pouvez maintenant mettre plusieurs versions en/de/cd/dvd ...
+KNOPPIX:http://knopper.net/knoppix-mirrors/
+
+-Modification du support de CrunchBang pour support de la dernière version
+Development Release: CrunchBang Linux 10 R20110105
+Distrowatch: http://distrowatch.com/?newsid=06448
+
+▒▒▒▒▒mer. 05 janv. 2011 02:47:16 CET 
+-Ajout du support officiel de moonOS
+moonOS: http://moonos.org/download
+Distrowatch: http://distrowatch.com/table.php?distribution=moonos
+
+▒▒▒▒▒mer. 29 déc. 2010 14:52:36 CET 
+-Modification du support de Puppy Linux pour support de la dernière version
+Distribution Release: Puppy Linux 5.0 "Wary"
+Distrowatch: http://distrowatch.com/?newsid=06434
+
+▒▒▒▒▒sam. 25 déc. 2010 21:28:42 CET 
+-Modification du support de Finnix pour support de la dernière version
+Distribution Release: Finnix 101
+Distrowatch: http://distrowatch.com/?newsid=06427
+
+▒▒▒▒▒ven. 24 déc. 2010 02:04:31 CET 
+-Modification du support de slampp pour support de la dernière version 
+http://distrowatch.com/table.php?distribution=slampp
+
+▒▒▒▒▒ven. 24 déc. 2010 00:36:37 CET 
+Modification du fichier: /usr/local/share/multisystem/vbox.sh
+pour support de la dernière version de VirtualBox à savoir la 4.0
+
+▒▒▒▒▒jeu. 23 déc. 2010 16:36:32 CET
+-Modification du support de Mandriva Linux One pour support de la dernière version 
+Mandriva Linux One 2010.2: http://www2.mandriva.com/fr/downloads/one/
+
+▒▒▒▒▒mar. 21 déc. 2010 14:47:57 CET  
+-Modification du support de LinuxConsole pour support de la dernière version 
+LinuxConsole 1.0.2010: http://linuxconsole.org/
+
+-Modification du support de Chakra pour support de la dernière version 
+Distribution Release: Chakra GNU/Linux 0.3.0
+Distrowatch: http://distrowatch.com/?newsid=06417
+
+▒▒▒▒▒lun. 20 déc. 2010 00:56:27 CET 
+-Modification du support de PureOSlight pour support de la dernière version (merci olivier76)
+quebecos: http://www.quebecos.com/modules/news/article.php?storyid=4150
+
+-Modification du support de LinuxMint LMDE car install ne passait pas (merci olivier76)
+http://www.linuxmint.com/download_lmde.php
+
+-Modification du support de clonezilla-live-*-maverick (merci Wolf)
+http://sourceforge.net/projects/clonezilla/files/
+
+▒▒▒▒▒jeu. 16 déc. 2010 17:49:29 CET 
+remplacement de mkisofs par genisoimage
+
+▒▒▒▒▒jeu. 16 déc. 2010 17:15:34 CET 
+-Modification du support de Asturix pour support de la dernière version
+Distribution Release: Asturix 3
+Distrowatch: http://distrowatch.com/?newsid=06404
+
+-Modification du support de BackTrack pour support de la dernière version
+Distribution Release: BackTrack 4 R2
+Distrowatch: http://distrowatch.com/?newsid=06372
+Site officiel: http://www.backtrack-linux.org/downloads/
+
+-Modification du support de GnackTrack pour support de la dernière version
+GnackTrack: http://www.gnacktrack.co.uk/download.php
+Distrowatch: http://distrowatch.com/table.php?distribution=GnackTrack
+
+▒▒▒▒▒lun. 13 déc. 2010 13:24:28 CET 
+-Ajout du support officiel de G Data BootCD
+G Data BootCD: https://www.gdatasoftware.com/support/main-subjects/upgrade-service/download.html
+
+▒▒▒▒▒sam. 11 déc. 2010 18:50:39 CET 
+-Modification du support de Debian-Live-Squeeze pour support de la dernière version
+Debian GNU/Linux 6.0.0 "Squeeze" - Official Snapshot i386 LIVE/INSTALL Binary 20101211-06:35
+http://debian-live.alioth.debian.org/
+
+▒▒▒▒▒sam. 11 déc. 2010 00:27:39 CET 
+-Modification du support de Vinux pour support de la dernière version
+Development Release: Vinux 3.1
+Distrowatch: http://distrowatch.com/?newsid=06398
+Vinux: http://vinux.org.uk/downloads.html
+
+▒▒▒▒▒jeu. 09 déc. 2010 08:01:28 CET 
+-Modification du support de CrunchBang pour support de la dernière version
+Development Release: CrunchBang Linux 10 R20101205
+Distrowatch: http://distrowatch.com/?newsid=06395
+
+▒▒▒▒▒mer. 08 déc. 2010 00:53:41 CET 
+-Ajout du support officiel de NuTyX
+NuTyX: http://www.nutyx.org/?p=telechargement
+
+-Modification du support de Jolicloud pour support de la dernière 
+Jolicloud 1.1 "robby": http://www.jolicloud.com/download
+
+▒▒▒▒▒lun. 06 déc. 2010 23:01:28 CET 
+-Ajout du support officiel de ShadowProtect
+ShadowProtect: http://www.storagecraft.com/shadow_protect_desktop.php
+
+▒▒▒▒▒lun. 29 nov. 2010 14:51:45 CET
+-Ajout du support officiel de LightDesktop
+LightDesktop: http://lightdesktop.com/
+
+-Modification du support de Fuduntu pour support de la dernière version
+Fuduntu: http://fuduntu.org/
+
+-Ajout du support officiel de Upstream
+l/p upstream/upstream root/toor
+Upstream: http://upstreamos.tk/
+
+▒▒▒▒▒ven. 26 nov. 2010 18:36:23 CET 
+- Ajout du support officiel de l'iso MultiSystem bi-language (fr,en) en cours de préparation.
+
+▒▒▒▒▒mer. 24 nov. 2010 14:15:34 CET 
+- Modification du support de chakra pour support de la dernière version
+Distribution Release: Chakra GNU/Linux 0.2.4
+Distrowatch: http://distrowatch.com/?newsid=06373
+
+▒▒▒▒▒ven. 19 nov. 2010 02:53:10 CET 
+- Modification du support de Parted Magic pour support de la dernière version 5.7
+- Modification du support de Trinity Rescue Kit pour support de la dernière version 3.4
+
+▒▒▒▒▒jeu. 18 nov. 2010 18:30:43 CET 
+- Ajout du support officiel de Ubuntu 11.04 "Natty Narwhal"
+
+- Mise à jour de la version de memtest enbarquée dans MultiSystem
+elle passe en ** Memtest86+ V4.10 (04/05/2010) **
+pour porfiter de cette mise à jour effacez votre clé usb
+ou remplacez /media/multisystem/boot/img/memtest86+.bin
+par /usr/local/share/multisystem/boot/img/memtest86+.bin apres avoir mis a jour MultiSystem
+http://www.memtest.org/#downiso
+
+- Mise à jour de la version Super Grub2 Disk et de Super Grub Disk enbarquée dans MultiSystem
+http://www.supergrubdisk.org/category/download/
+pour en profiter remplacez 
+/usr/local/share/multisystem/boot/img/sgdfr.img
+/usr/local/share/multisystem/boot/img/sgdh.iso
+dans le dossier /media/multisystem/boot/img/ de votre clé USB.
+
+- Ajout du support officiel de rescatux (base debian-live 6.0.0 "Squeeze)
+Login password is: live
+rescatux: http://www.supergrubdisk.org/rescatux/
+
+- RAPPEL sur iso MultiSystem (besoin de vos retours de test, suggestions, remarques, souhaits, bugs, ...)
+Ce fichier iso est une versions personnalisée de Ubuntu 10.10 (nom de code : The Maverick Meerkat),
+il contiens entre autre MultiSystem, il est spécialement concu pour être utilisé en liveUSB.
+
+-C'est un permier jet, son but essentiel est de valider le fonctionnement de
+la version de MultiSystem embarqué qui permet d'ajouter des iso sur lui même,
+et d'avoir accés a votre clé USB en écriture en user non-root.
+
+- Téléchargement (lent si pas freeuser): http://dl.free.fr/KW5lYO/multisystem
+- Torrent de ccal (MERCI à lui): http://exo.enarel.eu/mirror/multisystem/ModCustom-17-11-2010-23.25.27.torrent
+- Md5: 7bda8281002954fb185ebb6c51243d39
+
+▒▒▒▒▒mer. 17 nov. 2010 02:20:05 CET 
+-Modification spéciale pour ajouter support en boot liveusb d'une clé USB monté dans /isodevice
+-Modification du support de Hirens pour support de la dernière version Hirens.BootCD.12.0.zip
+
+▒▒▒▒▒sam. 13 nov. 2010 15:17:19 CET 
+-Modification du support de GParted LiveCD, correction des options de boot.
+-Changement de la version de firadisk.ima passé en version: firadisk-driver-0.0.1.24
+
+▒▒▒▒▒mer. 10 nov. 2010 19:46:10 CET 
+-Ajout du support officiel de Forensic Boot CD
+FCCU-Forensic Boot CD: http://www.lnx4n6.be/index.php?sec=Downloads&page=bootcd#
+
+-Ajout du support officiel de Slax-LFI
+Slax-LFI: http://www.slaxlfi.fr/
+
+-Modification du support de UPR Ubuntu Privacy Remix pour support de la dernière version upr-10.04r1_normal.iso
+UPR Ubuntu Privacy Remix: https://www.privacy-cd.org/en/using-upr/download
+
+-Ajout du support officiel de Fusion Linux (base Fedora 14)
+Development Release: Fusion Linux 14 RC
+Distrowatch: http://distrowatch.com/?newsid=06353
+Fusion Linux: http://fusionlinux.org/downloads/
+
+-Modification du support de PureOS pour support de la dernière version
+PureOS Gnome 1.0 2010 login/pass root/root guest/guest
+PureOS: http://pureos.org/
+
+▒▒▒▒▒mar. 09 nov. 2010 00:29:46 CET 
+-Modification du support de android-x86 pour support de la dernière version ==> froyo-vm-20100812.iso
+Téléchargement: http://sourceforge.net/projects/android-x86/files/
+
+-Ajout du support officiel de Tangostudio
+Tangostudio: http://tangostudio.tuxfamily.org/en/tangostudio
+linuxmao: http://www.linuxmao.org/tikiwiki/tiki-index.php?page=tangostudio&highlight=livecd
+
+-Ajout du support officiel de KDuXP
+KDuXP: http://www.linuxkduxp.com/downloads/
+
+▒▒▒▒▒dim. 07 nov. 2010 14:13:32 CET 
+-Modification du support de Webconverger pour support de la dernière version
+Distribution Release: Webconverger 7.0
+distrowatch: http://distrowatch.com/?newsid=06345
+
+▒▒▒▒▒dim. 07 nov. 2010 01:39:28 CET 
+-Remplacement de toute les occurences 'Multi system' par 'MultiSystem'.
+
+▒▒▒▒▒sam. 06 nov. 2010 13:29:04 CET 
+-Suppression d'un bug dans le Menu Désinstaller.
+-Suppression d'un bug dans l'interface qui permet de rajourer des options de boot,
+si la distribution comportait plusieurs menus cela ne fonctionnait pas.
+-Suppression d'un bug à l'extinction de MultiSystem, 
+qui des fois obligeait de cliquer 2 fois pour le relancer.
+
+▒▒▒▒▒mer. 03 nov. 2010 01:38:40 CET 
+-Nouvelle version changement de nom multiboot deviens multisystem
+car depuis Ubuntu maverick 10.10 il esiste dans les dêpots officiels de Ubuntu un paquet nommé multiboot !
+

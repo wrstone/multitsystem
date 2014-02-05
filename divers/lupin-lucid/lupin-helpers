@@ -1,0 +1,83 @@
+. /scripts/casper-helpers
+
+is_supported_fs(){
+    [ -z "${1}" ] && return 1
+    case ${1} in
+        ext2|ext3|ext4|xfs|jfs|reiserfs|vfat|ntfs|iso9660)
+            return 0
+            ;;
+    esac
+    return 1
+}
+
+wait_for_devs(){
+    if [ -e /dev/.initramfs/lupin-waited-for-devs ]; then
+        return
+    fi
+    [ "$quiet" != "y" ] && log_begin_msg "...waiting for devs..."
+    udevadm trigger --subsystem-match=block
+    udevadm settle
+    #TBD, modprobe on demand?
+    modprobe ext3
+    modprobe ext4
+    modprobe reiserfs
+    modprobe xfs
+    modprobe jfs
+    modprobe vfat
+    modprobe fuse
+    [ "$quiet" != "y" ] && log_end_msg "...devs loaded..."
+    touch /dev/.initramfs/lupin-waited-for-devs
+}
+
+find_path()
+{
+    local path="${1}"
+    # must match find_path_cleanup
+    local default_mountpoint="${2:-/tmpmountpoint}"
+    local mountoptions="${3:-ro}"
+    local mountpoint=
+    local dev devname devfstype
+    local trial_number
+    FOUNDDEV=
+    FOUNDPATH=
+    [ -z "${path}" ] && return 1
+    wait_for_devs
+    mkdir -p "${default_mountpoint}"
+    for trial_number in 1 2 3; do
+        [ $trial_number -gt 1 ] && sleep 3
+        for sysblock in $(echo /sys/block/* | tr ' ' '\n' | grep -v /ram | grep -v /loop | grep -v /fd); do
+            for dev in $(subdevices "${sysblock}"); do
+                devname=$(sys2dev "${dev}")
+                devfstype="$(get_fstype ${devname})"
+                if is_supported_fs "${devfstype}" ; then
+                                    #if device is already mounted, do not remount
+                    if grep -q "^${devname} " /proc/mounts; then
+                        mountpoint=$(grep "^${devname} " /proc/mounts|cut -d ' ' -f 2)
+                        unmount=false                
+                    else                
+                        mountpoint="${default_mountpoint}"                    
+                        try_mount "$devname" "$mountpoint" "$mountoptions" || return 1
+                        unmount=true    		    
+                    fi                
+                    if [ -e "${mountpoint}${path}" ]; then
+                        FOUNDDEV="${devname}"
+                        FOUNDPATH="${mountpoint}${path}"
+                        return 0
+                    fi
+                    [ "${unmount}" = "true" ] && umount ${mountpoint} 2> /dev/null || true
+                fi
+            done
+        done
+    done
+    return 1
+}
+
+find_path_cleanup()
+{
+    # must match find_path
+    local default_mountpoint="${1:-/tmpmountpoint}"
+    if grep -q "^[^ ]* $default_mountpoint " /proc/mounts; then
+        umount "$default_mountpoint" 2>/dev/null || true
+    fi
+    rmdir "$default_mountpoint" 2>/dev/null || true
+}

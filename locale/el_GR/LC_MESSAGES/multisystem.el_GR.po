@@ -1,0 +1,1130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Επανεκκίνηση"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Επανεκκίνηση του υπολογιστή σας"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Πιέστε [Tab] για προβολή επιλογών εκκίνησης"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Διαθέσιμη εικόνα CD εκκίνησης,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Διαδρομή"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Πριν εκκινήσετε τον υπολογιστή σας, εάν χρειάζεται,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "εισάγετε το CD εκκίνησης και το USB key"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Σφάλμα: ο ακόλουθος τόμος δεν είναι διαθέσιμος:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Σφάλμα: Το USB key δεν είναι το ίδιο!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Σφάλμα: Μή έγκυρο αρχείο grub.cfg"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Σφάλμα: Μή έγκυρο αρχείο menu.lst"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Σφάλμα: Το επιλεγμένο αρχείο .ISO περιέχει ένα μη υποστηριζόμενο χαρακτήρα στο όνομά του:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Σφάλμα: Υπάρχει ένα αρχείο με το ίδιο όνομα."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Σφάλμα: Αδυναμία ανίχνευσης δείκτη:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Απαιτείται κωδικός διαχειριστή για προσάρτηση αρχείου"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Σφάλμα: Εσφαλμένη προσάρτηση αρχείου .ISO"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Αντιγραφή σε εξέλιξη..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "Ενημέρωση GRUB, παρακαλώ περιμένετε..."
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "Το GRUB απαιτεί δικαιώματα διαχειριστή."
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Σφάλμα: Το LiveCD είναι ήδη παρόν."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Λήψη σε εξέλιξη..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b>ΠΡΟΣΟΧΗ:</b> για Mandriva, η δέσμη ενεργειών χρειάζεται να φορτώσει\\nτην ετικέτα του\\047s USB key. Η νέα ετικέτα του είναι MANDRIVAONE.\\nΜην αλλάξετε αυτή την ετικέτα διότι το Mandriva δεν θα εκκινεί άλλο,\\n\\nΠαρακαλώ <b>αποσυνδέστε/επανασυνδέστε</b> το USB key σας. Το σύστημά σας θα εμφανίζει νέα ετικέτα."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Σφάλμα: αδυναμία λήψης αρχειοθήκης."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Σφάλμα: Το ISO δεν υποστηρίζεται προς στιγμή."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "Για αρχεία .img, απαιτούνται δικαιώματα διαχειριστή"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "Αντιγραφή αρχείου .ISO σε εξέλιξη..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "Διαγραφή LiveCD."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Σφάλμα: Αδυναμία ανίχνευσης LiveCD."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "Δημιουργία LiveCD."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "Το MultiSystem LiveCD σας είναι διαθέσιμο:\\nΔιαδρομή:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Σφάλμα: η μόνιμη κατάσταση είναι ήδη παρούσα,\\nΔιαθέσιμη μόνο μια μόνιμη εγκατάσταση."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Σφάλμα: Παρακαλώ επιλέξτε την διανομή\\nστην οποία θέλετε να προσθέσετε την μόνιμη κατάσταση!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Σφάλμα: Αδυναμία ανίχνευσης εκκίνησης boot=casper\\nη μόνιμη κατάσταση είναι δεσμευμένη σε διανομές βασισμένες σε Ubuntu."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Μέγεθος μόνιμης κατάστασης, σε MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Δημιουργία μόνιμης κατάστασης"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Ενημέρωση"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Απεγκατάσταση"
+
+#, sh-format
+msgid "Informations"
+msgstr "Πληροφορίες"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Είναι συνδεδεμένο το USB σας;\\n\\nΠαρακαλώ συνδέστε ένα διαμορφωμένο FAT32\\nτόμο USB\\nκαι προσαρτήστε το στο /media\\n\\nΜετά, επανεκτελέστε το MultiSystem."
+
+#, sh-format
+msgid "Valider"
+msgstr "Επιβεβαίωση"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Παρακαλώ επιλέξτε τον τόμο USB\\nπου θα χρησιμοποιηθεί στην παρακάτω λίστα.\\nΠΡΟΣΟΧΗ!,\\nΤο Grub2 θα εγκατασταθεί στο MBR του.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Συσκευή|Μάρκα|Μοντέλο|Μέγεθος|Σε χρήση|Ελεύθερο|Δίαυλος|Οδηγός"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Άκυρο"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Σφάλμα: Έχετε δικαιώματα εγγραφής σε αυτό το φάκελο;:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Κλείσιμο"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Σφάλμα: Λείπει: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Σφάλμα: Λάθος Δίαυλος"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "Ρυθμίσεις GRUB"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Προσθήκη μόνιμης κατάστασης"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "Λήψη LiveCDs"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Δοκιμή σε QEMU"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Εκκίνηση από Grub/Grub2"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Εκκίνηση από Windows XP"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Εκκίνηση από Windows Vista"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Εκκίνηση από MacIntel"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "Δημιουργία MultiSystem LiveCD"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "Δοκιμή του LiveCD στο QEMU"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Τερματισμός"
+
+#, sh-format
+msgid "Menus"
+msgstr "Μενού"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "Τόμος USB : "
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Σημείο προσάρτησης:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "Μέγεθος:"
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Σε χρήση:"
+
+#, sh-format
+msgid "Libre:"
+msgstr "Ελεύθερο:"
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Σύνολο LiveCD: "
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Επιλέξτε ένα .iso ή .img:"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Επεξεργασία αρχείου ρυθμίσεων Grub2 .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "Επεξεργασία αρχείου ρυθμίσεων grub4dos .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Επιλέξτε εικόνα για την οθόνη εκκίνησης Grub2"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "δεκαεξαδικό|Τίτλος"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Χρώμα κειμένου"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Χρώμα παρασκηνίου κειμένου"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Επιλεγμένο χρώμα κειμένου"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Χρώμα παρασκηνίου επιλεγμένου κειμένου"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Σφάλμα: Αδυναμία ανίχνευσης Τύπου:PNG στην επιλογή σας."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Σφάλμα: Αδυναμία μετατροπής σε 640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Σφάλμα: Το MultiSystem είναι ήδη εγκατεστημένο."
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem."
+msgstr "Σφάλμα: Το MultiSystem πρέπει να εγκατασταθεί από τον κατάλογο: /tmp/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Σφάλμα: Η εγκατάσταση πρέπει να εκτελεστεί με sudo."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Δημιουργία Εκκινητή στο Μενού:/Εφαρμογές/Βοηθήματα/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Δημιουργία Εκκινητή του MultiSystem στο\\nΜενού: /Εφαρμογές/Βοηθήματα/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Από δώ και πέρα, για εκκίνηση του προγράμματος, παρακαλώ χρησιμοποιήστε\\nΜενού: /Εφαρμογές/Βοηθήματα/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Το Qemu απαιτεί δικαιώματα διαχειριστή"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Εκκίνηση Qemu CLE_USB:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "εγκατάσταση qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Μεταγλώττιση και εγκατάσταση kqemu (επιτάχυνση)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "Διαθέσιμη μνήμη RAM: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Σφάλμα: μη επαρκής διαθέσιμη RAM:$RAM_LIBRE απαιτείται:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Εκτέλεση Qemu για επαλήθευση εκκίνησης"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Σφάλμα: Η απεγκατάσταση είναι διαθέσιμη μόνο εάν το MultiSystem είναι εγκατεστημένο."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Σφάλμα: Η απεγκατάσταση πρέπει να εκτελεστεί με sudo."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Παρακαλώ επιλέξτε από την παρακάτω λίστα"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Λειτουργία για εκτέλεση"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "Επιβεβαίωση, απεγκατάσταση MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Ή επιστροφή στην Αρχική"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "Επιτυχής απεγκατάσταση MultiSystem."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Σφάλμα: Η ενημέρωση είναι διαθέσιμη μόνο εάν το MultiSystem είναι εγκατεστημένο."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Σφάλμα: Η ενημέρωση πρέπει να εκτελεστεί με sudo."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Να μην ενημερωθεί η δέσμη ενεργειών (script)"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Ενημέρωση δέσμης ενεργειών"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Σφάλμα: Αδυναμία λήψης αρχείου version-multisystem.txt"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Αναζήτηση για ενημερώσεις"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Μη διαθέσιμη ενημέρωση.\\nΧρησιμοποιείτε την τελευταία έκδοση της δέσμης ενεργειών (script)."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Σφάλμα: Αδυναμία ανίχνευσης έκδοσης MultiSystem."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Διαγραφή Plop από το Grub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Προσθήκη Plop στο Grub/Grub2"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Αυτή η διεπαφή επιτρέπει την προσθήκη \\nή την αφαίρεση του προγράμματος εκκίνησης Plop\\nαπό τον διαχειριστή εκκίνησης\\nεάν χρησιμοποιείτε Grub ή Grub2.\\n\\nΑς ξεκινήσουμε απλά το MultiSystem LiveUSB σας.."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "Εκκίνηση MultiSystem LiveUSB από Intel Mac.\\nΑυτή η λύση δεν είναι δοκιμασμένη,\\nκαι δεν έχουν ληφθεί σχόλια.\\nΠαρακαλώ στείλτε μας σχόλια είτε δουλεύει είτε όχι...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "Λήψη rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Προσθήκη στον διαχειριστή εκκίνησης των Windows Vista\\nμιας καταχώρισης στο μενού για εκκίνηση του LiveUSB σας.\\n\\nΤι να κάνετε μετά από την εκκίνηση των Vista\\nΚατεβάστε το EasyBCD\\nσυνδέστε το USB σας\\nεκκινείστε το EasyBCD\\nκάντε κλικ στο \"Προσθήκη/Αφαίρεση Καταχωρήσεων\"\\nεπιλέξτε την καρτέλλα Linux\\nορίστε τις παρακάτω επιλογές:\\nΤύπος: GRUB\\nΌνομα: LiveUSB\\nΔίσκος: (επιλέξτε την κατάτμηση 0 από το USB σας)\\nμην επιλέξετε! \"Το GRUB να εγκατασταθεί στον τομέα εκκίνησης\"\\nκάντε κλικ στο: \"+ Προσθήκη Καταχώρισης\"\\nκάντε κλικ στο: \"Αποθήκευση\"\\nΤελειώσατε! .\\nΣτιγμυότυπο οθόνης:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nΣτην επόμενη εκκίνηση, επιλέξτε LiveUSB,\\nθα ερωτηθείτε να εισάγετε τον τόμο,\\nκάντε κλικ στο είσοδος.\\n\\nΆλλη μέθοδος,\\nΠροσθήκη προγράμματος εκκίνησης plop στον διαχειριστή εκκίνησης των Windows Vista\\nδείτε: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "Λήψη EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Προσθήκη προγράμματος εκκίνησης plop\\nστον διαχειριστή εκκίνησης των Windows Vista\\nδείτε: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Προσθήκη προγράμματος εκκίνησης plop στα Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Η τροποποίηση Ramdisk σε εξέλιξη, παρακαλώ περιμένετε..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Παρακαλώ εγγράψτε την εικόνα CD\\nΔιαδρομή: $HOME/cd-boot-liveusb.iso\\n(δεξί κλικ, εγγραφή δίσκου...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(δεξί κλικ, εγγραφή δίκου...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Σφάλμα:"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Απαιτείται κωδικός διαχειριστή"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Σφάλμα: μή έγκυρο αρχείο syslinux.cfg"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Σφάλμα: μη μόνιμη κατάσταση γι' αυτή τη διανομή"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Φίλτρο"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Ενεργοποίηση μόνιμης επικάλυψης"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Ενεργοποίηση χωριστού προσωπικού φακέλλου"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Ενεργοποίηση κρυπτογράφησης δεδομένων"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Ενεργοποίηση μόνιμου χωριστού προσωπικού φακέλλου"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Σφάλμα: δεν υπάρχει επαρκής ελεύθερος χώρος:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Ενεργοποίηση κρυπτογράφησης δεδομένω προσωπικού φακέλου"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Διεθνοποίηση"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Αλλαγή γλώσσας"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "Μετάφραση αρχείου .po"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Λειτουργία σε εξέλιξη..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Δοκιμή στο VirtualBox"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Εκκίνηση"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Σφάλμα: μη διαθέσιμη αρκετή ελεύθερη μνήμη RAM:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Πιέστε enter για συνέχεια"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "ΠΡΟΣΟΧΗ!\\nΠρέπει να εγκαταστήσετε\\nμη ελεύθερη έκδοση του VirtualBox"
+
+#, sh-format
+msgid "Installer"
+msgstr "Εγκατάσταση"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Παρακαλώ επαναπροσαρτήστε χειροκίνητα το usb stick"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "Δοκιμή του LiveCD στο VirtualBox"
+
+#, sh-format
+msgid "Tester"
+msgstr "Δοκιμή"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "Προσθήκη LiveCD"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "Εκκίνηση VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Έλεγχος ενημερώσεων κατά την εκκίνηση"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "Επεξεργασία αρχείου ρυθμίσεων syslinux .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Χρώμα παρασκηνίου"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Χρώματα Προσκηνίου"
+
+#, sh-format
+msgid "Créer"
+msgstr "Δημιουργία"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Δοκιμή του liveusb σας σε QEMU"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Δοκιμή του liveusb σας σε VirtualBox"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "ΠΡΟΣΟΧΗ!\\nΘα διαμορφώσετε\\nΑφαιρούμενο Τόμο:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nΌλο το περιεχόμενο\\nθα διαγραφεί οριστικά."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "Διαμόρφωση του USB"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Προεπιλεγμένη splash"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Κατακόρυφη αναστροφή"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Αφαίρεση splash"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Οριζόντια αναστροφή εικόνας"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Προεπιλογή"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Σφάλμα: Παρακαλώ χρησιμοποιείστε τον διαχειριστή πακέτων."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Δημιουργία εκκινητή στο μενού:/Εφαρμογές/Βοηθήματα/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "Ορισμός εκκινητή MultiSystem στο\\nμενού: /Εφαρμογές/Βοηθήματα/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Προσοχή διαγράφετε:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Ερώτηση πριν την διαγραφή ενός λειτουργικού συστήματος."
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Αφαίρεση ενός λειτουργικού συστήματος"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Σφάλμα vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Εσφαλμένος δίσκος"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Σφάλμα /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Σφάλμα παράδοσης"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Σφάλμα virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Ενημέρωση Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "Δημιουργία CD για εκτέλεση USB"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Διαθέσιμη ενημέρωση του multisystem"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "Εγκατάσταση VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Πατήστε ένα πλήτρο για συνέχεια ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Καμία επιλογή"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Αλλαγή μεγέθους"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Καθαρισμός περιεχομένου"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Προσοχή!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "θα αφαιρέσετε το περιεχόμενο από:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Σφάλμα: Αδυναμία προσάρτησης του τόμου:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Μόνιμη αλλαγή μεγέθους"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Αποσφαλμάτωση"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Αναμονή για τρέχουσα δοκιμή..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Σφάλμα: δεν υπάρχει επαρκής ελεύθερος δίσκος για εκτέλεση της δοκιμής,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Αναμονή , πατήστε enter για συνέχεια."
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "εκτύπωση κατάτμησεων"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "Εμφάνιση mbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "πληροφορίες udevadm"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Έκδοση Grub2"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "Διόρθωση fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Εγγραφή επιδόσεων"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Ανάγνωση επιδόσεων"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Τα δικαιώματα του αρχείου είναι λιγότερα από 600"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Σφάλμα: Αδυναμία ανίχνευσης liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Σφάλμα: όχι root!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Σφάλμα: Αδυναμία διαγραφής:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Σφάλμα: Η εντολή blkid δεν εκτελείται σωστά, παρακαλώ επανεκκινήστε την συνεδρία σας."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Σφάλμα: Το MultiSystem δεν δέχεται κενά στις ετικέτες."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Προσθήκη"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Κόκκινο Θέμα"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Πράσινο Θέμα"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Μπλέ Θέμα"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr "  Τρέχον θέμα:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Σφάλμα: καμία επιλογή"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "ΠΡΟΣΟΧΗ!\\nΤο αρχείο autorun.inf τροποποιήθηκε, Ιός;"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "ΠΡΟΣΟΧΗ!\\nΤο αρχείο multisystem.bat τροποποιήθηκε, Ιός;"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Εμφάνιση ή απόκρυψη αρχείων και φακέλων"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Εμφάνιση όλων"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Απόκρυψη όλων"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "Περιεχόμενα του USB flash:"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Εμφάνιση ή Απόκρυψη Αρχείων και Φακέλων\\nΔουλεύει μόνο με Nautilus."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "Εγκατάσταση μη ελεύθερων προγραμμάτων"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Μη Ελεύθερα"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Μη Ελεύθερα Προγράμματα MultiSystem"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "Ο Διαχειριστής Εκκίνησης PLoP είναι δωρεάν."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "Λήψη Διαχειριστή Εκκίνησης PLoP"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Χρήση για iso του BartPE"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Λήψη Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Παρακαλώ εγκαταστήστε τον \\\"Διαχειριστή Εκκίνησης PLOP\\\"\\nμετά την αποδοχή της άδειας,\\nΟ Plop είναι δωρεάν αλλά δεν είναι ελεύθερο.\\n\\nΗ εγκατάσταση είναι προσβάσιμη μέσω του μενού: Μη Ελεύθερο ==> Εγκατάσταση μη ελεύθερου προγράμματος ==> Λήψη Διαχειριστή Εκκίνησης Plop"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Σφάλμα: Παρακαλώ εγκαταστήστε το PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Σφάλμα: Παρακαλώ εγκαταστήστε τα απαραίτητα αρχεία, το μενού δεν είναι ελεύθερο"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Χρήση για έναρξη του iso των Windows XP"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "Λήψη firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Παρακαλώ επιλέξτε τον τόμο USB\\nπρος χρήση από την παρακάτω λίστα.\\n\\<span color='red'>ΠΡΟΣΟΧΗ:\\nΤο Grub2 θα εγκατασταθεί στο MBR!\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Αυτό το τμήμα της δέσμης ενεργειών είναι για το Ubuntu karmic και lucid"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Προσοχή! θα εγκαταστείσετε το Burg,\\nΑυτό το λογισμικό είναι δοκιμαστικό"
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Ενημέρωση Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Προσωπικό θέμα"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Εγκατάσταση/Ενημέρωση του Burg (υπομονή)"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Προεπιλεγμένο θέμα:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Επιλογή για χρήση του προεπιλεγμένου θέματος"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Αντιγραφή σε εξέλιξη ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Προσωπικά εικονίδια"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Σφάλμα λήψης"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Σφάλμα: Ένα αρχείο με το ίδιο όνομα υπάρχει ήδη."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "το USB σας δεν είχε ετικέτα, το multisystem μόλις το διόρθωσε,\\nπαρακαλώ αποσυνδέστε/ξανασυνδέστε το USB σας ώστε να επικυρώσετε αυτή την αλλαγή."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Αποσυνδέστε/επανασυνδέστε το USB drive σας διότι το σημείο προσάρτησης δεν ταιριάζει με την ετικέτα!"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Κάντε δωρεά"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Μην κάνετε δωρεά"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "Το MultiSystem είναι Ελεύθερο Λογισμικό\\nαλλά η ανάπτυξή του δεν είναι δωρεάν!\\nΕάν το χρησιμοποιείτε τακτικά\\nκαι θέλετε να υποστηρίξετε την  πρόοδό μας,\\nπαρακαλώ κάντε δωρεά μέσω PayPal. \\n\\nΕΥΧΑΡΙΣΤΟΥΜΕ εκ των προτέρων!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Διπλό-κλικ σε μια καταχώρηση για αλλαγή του ονόματος που αναγράφεται στο μενού εκκίνησης."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Αντίγραφο ασφαλείας/Επαναφορά"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Αντίγραφο ασφαλείας"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Επαναφορά"
+
+#, sh-format
+msgid "de"
+msgstr "του"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "ΠΡΟΣΟΧΗ!\\nη επαναφορά διαγράφει μόνιμα\\nόλα τα περιεχόμενα:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID του USB:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "Μέγεθος του USB"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Κλείσιμο παραθύρου"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Σφάλμα: Παρακαλώ εκκινήστε το multisystem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Σφάλμα: το αντίγραφο ασφαλείας υπάρχει ήδη."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Το αντίγραφο ασφαλείας έγινε στο αρχείο:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Επιλογή αρχείου επαναφοράς."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Σφάλμα: αδυναμία ανίχνευσης αντιγράφου ασφαλείας"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Σφάλμα: πολύ μικρό USB"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Η επαναφορά ολοκληρώθηκε,\\nπαρακαλώ αποσυνδέστε/επανασυνδέστε το USB σας\\nπριν την εκτέλεση του multisystem."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Η διαμόρφωση ολοκληρώθηκε,\\nπαρακαλώ αποσυνδέστε/επανασυνδέστε το USB key\\nπριν εκτελέσετε το multisystem."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Σφάλμα: ένα λογισμικό εμποδίζει τη χρήση των εγγραφών, παρακαλώ τερματίστε το."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "Περί MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "Περί"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Μεταφραστής"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "Το MultiSystem ψάχνει για μεταφραστές!\\nΕάν θέλετε να βοηθήσετε,\\nπαρακαλώ επικοινωνήστε μαζί μας.\\nΕπικοινωνία: "
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Μερική Ενημέρωση"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Προσθήκη επιλογής εκκίνησης (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Ενεργοποίηση εικόνας στο μενού του gnome;"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "Συσκευή|Μάρκα|Μοντέλο|Μέγεθος|Σε χρήση|Ελεύθερα|Δίαυλος|Οδηγός|Σημείο Προσάρτησης"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr "Σφάλμα: αυτό το iso χρησιμοποιήθηκε για να εκκινήσετε τον υπολογιστή, είναι αδύνατο να το απομακρύνετε."
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr "Τρέχουσα Θέση:"
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr "Χρήση αυτού του κουμπιού εάν δεν δουλέψει το Drag and Drop."
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr "Αποεπιλέξτε ώστε να μετακινήσετε γρήγορα τα αντικείμενα στο μενού. ΠΡΟΣΟΧΗ: Αυτό δεν ενημερώνει το πρόγραμμα εκκίνησης! Ενεργοποιήστε την επιλογή πριν την τελική μετακίνηση ώστε να ενημερώσετε το πρόγραμμα εκκίνησης."
+
+#, sh-format
+msgid "Titre"
+msgstr "Τίτλος"
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Παρακαλώ επιβεβαιώστε την εγκατάσταση του Grub2 στον τόμο:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr "Σφάλμα: Παρακαλώ αφαιρέστε τον χαρακτήρα κενό στη διαδρομή."
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr ""
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr ""

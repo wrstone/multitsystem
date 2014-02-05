@@ -1,0 +1,23 @@
+#! /bin/sh
+
+PREREQ=""
+DESCRIPTION="Setting sendsigs.omit..."
+
+prereqs ()
+{
+	echo "$PREREQ"
+}
+
+case $1 in
+# get pre-requisites
+prereqs)
+	prereqs
+	exit 0
+	;;
+esac
+
+. /scripts/casper-functions
+
+mkdir -p /dev/.initramfs/varrun
+pidof mount.ntfs >> /dev/.initramfs/varrun/sendsigs.omit
+pidof mount.ntfs-3g >> /dev/.initramfs/varrun/sendsigs.omit

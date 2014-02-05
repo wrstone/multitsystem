@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multisystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 02:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid "Redemarrer"
+msgstr "Reboot"
+
+#, sh-format
+msgid "Redemarrer votre PC"
+msgstr "Reboot komputermu"
+
+#, sh-format
+msgid "Pressez [Tab] pour afficher les options de boot"
+msgstr "Tekan [Tab] untuk menampilkan opsi boot"
+
+#, sh-format
+msgid "l\\047image du cd d\\047amorce est disponible,"
+msgstr "Boot image CD yang tersedia,"
+
+#, sh-format
+msgid "Chemin"
+msgstr "Tempat"
+
+#, sh-format
+msgid "Avant démarrer votre PC si besoin est,"
+msgstr "Sebelum booting komputermu, jika diperlukan,"
+
+#, sh-format
+msgid "insérez le CD ainsi que votre clé USB"
+msgstr "Masukan CD boot dan USB anda"
+
+#, sh-format
+msgid "Erreur:le volume suivant est indisponible:"
+msgstr "Error: volume berikut tidak tersedia:"
+
+#, sh-format
+msgid "Erreur: La clé USB n\\047est plus la même!"
+msgstr "Error: USB tidak sama!"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration grub.cfg non conforme"
+msgstr "Error: berkas grub.cfg tidak valid"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration menu.lst non conforme"
+msgstr "Errors: berkas menu.lst tidak valid"
+
+#, sh-format
+msgid "Erreur:Le fichier iso sélectionné contiens un caractère non supporté dans son nom:"
+msgstr "Error: Berkas .ISO terpilih terdapat karakter yang tidak terdukung di namanya:"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même non est déjà présent."
+msgstr "Error: Berkas dengan nama yang sama sudah ada."
+
+#, sh-format
+msgid "Erreur:Impossible de détecter le marqueur:"
+msgstr "Error: Mustahil untuk mendeteksi penanda:"
+
+#, sh-format
+msgid "Demande de votre mot de passe d\\047administrateur pour monter le fichier"
+msgstr "Password administrator diperlukan untuk memuat berkas"
+
+#, sh-format
+msgid "Erreur:de montage du fichier iso."
+msgstr "Error: Errormemuat berkas .ISO"
+
+#, sh-format
+msgid "Copie du en cours..."
+msgstr "Penyalinan dalam proses..."
+
+#, sh-format
+msgid "Patience Mise à jour de grub"
+msgstr "memperbarui GRUB, harap tunggu..."
+
+#, sh-format
+msgid "Grub nécéssite les droits d\\047administrateur"
+msgstr "GRUB memerlukan hak Administrator."
+
+#, sh-format
+msgid "Erreur: LiveCD déjà présent."
+msgstr "Error: LiveCD sudah ada."
+
+#, sh-format
+msgid "Téléchargement en cours..."
+msgstr "Unduh dalam proses..."
+
+#, sh-format
+msgid "<b>ATTENTION:</b> pour Mandriva le script est obligé de changer\\nle label de votre clé USB elle se nomme maintenant MANDRIVAONE\\nveillez à ne pas changer ce label sous peine de ne plus pouvoir démarrer Mandriva,\\n\\nVeuliiez <b>débrancher/rebrancher</b> votre clé usb pour que votre système affiche le changement."
+msgstr "<b> PERINGATAN: </ b> untuk Mandriva, script diperlukan untuk memuat     nlabel USB anda.     047s Label baru adalah MANDRIVAONE    . NJangan mengubah label ini, atau Mandriva tidak akan boot lagi,     n    nSilakan <b> cabut dan pasang </ b> USB Anda. Sistem sekarang akan menunjukkan label baru."
+
+#, sh-format
+msgid "Erreur: impossible de télécharger l\\047archive."
+msgstr "Error: mustahil untuk mengunduh berkas."
+
+#, sh-format
+msgid "Erreur:iso non supporté actuellement."
+msgstr "Error: ISO belum didukung."
+
+#, sh-format
+msgid "Pour les fichiers img les droits d\\047administrateur sont nécessaire"
+msgstr "Untuk berkas .img, hak administratif diperlukan"
+
+#, sh-format
+msgid "Copie du fichier iso en cours..."
+msgstr "Penyalinan berkas .ISO dalam proses..."
+
+#, sh-format
+msgid "Suppression du LiveCD."
+msgstr "Menghapus LiveCD."
+
+#, sh-format
+msgid "Erreur Impossible de détecter le liveCD."
+msgstr "Error: Tidak bisa mendeteksi LiveCD."
+
+#, sh-format
+msgid "Création de votre LiveCD."
+msgstr "Membuat LiveCD anda."
+
+#, sh-format
+msgid "Votre LiveCD MultiSystem est disponible:\\nChemin:"
+msgstr "LiveCD MultiSystem anda tersedia:\\nTempat:"
+
+#, sh-format
+msgid "Erreur: 1 mode persistent est déjà présent,\\n1 seul est possible."
+msgstr "Error: modus tetap sudah ada,\\nHanya ada satu instalasi tetap."
+
+#, sh-format
+msgid "Erreur: Veuillez sélectionner la distribution\\nà laquelle il faut ajouter le mode persistent!"
+msgstr "Error: Harap pilih distro\\nyang akan anda buat untuk modus tetap!"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter boot=casper\\nle mode persistent est réservé aux distributions de bases Ubuntu."
+msgstr "Error: Tidak bisa mendeteksi boot=casper\\nmodus tetap hanya untuk Ubuntu based."
+
+#, sh-format
+msgid "Taille du mode persistent en Mio"
+msgstr "Ukuran modus tetap, dalam MiB"
+
+#, sh-format
+msgid "Création du mode persistent"
+msgstr "Membuat modus tetap"
+
+#, sh-format
+msgid "Mise à jour"
+msgstr "Perbarui"
+
+#, sh-format
+msgid "Désinstaller"
+msgstr "Uninstall"
+
+#, sh-format
+msgid "Informations"
+msgstr "Informasi"
+
+#, sh-format
+msgid "Avez-vous branché votre clé USB ?\\n\\nVeuillez connecter un volume usb\\nformaté en fat32\\net le monter dans /media\\n\\nPuis relancez MultiSystem."
+msgstr "Apakah USB terhubung    ? N    nSilahkan menghubungkan FAT32     nUSB Volume     ndan mount di / media     n    nKemudian, luncurkan MultiSystem."
+
+#, sh-format
+msgid "Valider"
+msgstr "Konfirmasi"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\nATTENTION!,\\nGrub2 sera installé dans son mbr.\\</big>\\</b>"
+msgstr "\\<b>\\<big>Harap pilih USB volume\\ntyang akan digunakan dalam list berikut.\\nPERINGATAN!,\\nGrub2 akan diinstall di MBR.\\</big>\\</b>"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver"
+msgstr "Alat|Pembuat|Model|Ukuran|Terpakai|Bebas|Bus|Driver"
+
+#, sh-format
+msgid "Annuler"
+msgstr "Batal"
+
+#, sh-format
+msgid "Erreur:Avez vous le droit d\\047écriture dans le dossier:"
+msgstr "Error: Apakah anda punya ijin menulis di folder ini?:"
+
+#, sh-format
+msgid "Fermer"
+msgstr "Tutup"
+
+#, sh-format
+msgid "Erreur il manque: "
+msgstr "Error: Hilang: "
+
+#, sh-format
+msgid "Erreur:pas le bon bus"
+msgstr "Error: Bus salah"
+
+#, sh-format
+msgid "Réglages Grub"
+msgstr "sunting GRUB"
+
+#, sh-format
+msgid "Ajouter mode persistent"
+msgstr "Tambah modus tetap"
+
+#, sh-format
+msgid "Télécharger des LiveCD"
+msgstr "Unduh LiveCD"
+
+#, sh-format
+msgid "Tester dans Qemu"
+msgstr "Tes di QEMU"
+
+#, sh-format
+msgid "Boot depuis Grub/Grub2"
+msgstr "Boot dari Grub/Grub2"
+
+#, sh-format
+msgid "Boot depuis Windows XP"
+msgstr "Boot dari Windows XP"
+
+#, sh-format
+msgid "Boot depuis Windows Vista"
+msgstr "Boot dari Windows Vista"
+
+#, sh-format
+msgid "Boot depuis MacIntel"
+msgstr "Boot dari MacIntel"
+
+#, sh-format
+msgid "Créer LiveCD MultiSystem"
+msgstr "Buat MultiSystem LiveCD"
+
+#, sh-format
+msgid "Tester LiveCD dans Qemu"
+msgstr "Tes LiveCD di QEMU"
+
+#, sh-format
+msgid "Quitter"
+msgstr "Keluar"
+
+#, sh-format
+msgid "Menus"
+msgstr "Menu"
+
+#, sh-format
+msgid "Volume USB:"
+msgstr "USB volume :"
+
+#, sh-format
+msgid "Point de montage:"
+msgstr "Mountpoint:"
+
+#, sh-format
+msgid "Taille:"
+msgstr "Ukuran: "
+
+#, sh-format
+msgid "Occupé:"
+msgstr "Terpakai: "
+
+#, sh-format
+msgid "Libre:"
+msgstr "Bebas: "
+
+#, sh-format
+msgid "Nombre de LiveCD:"
+msgstr "Jumlah LiveCD: "
+
+#, sh-format
+msgid "Glisser/Déposer iso/img"
+msgstr "Pilih .iso atau .img:"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub2 .../grub.cfg"
+msgstr "Sunting Grub2 .../grub.cfg"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de grub4dos .../menu.lst"
+msgstr "Sunting grub4dos .../menu.lst"
+
+#, sh-format
+msgid "Choix image de boot Grub2"
+msgstr "Pilih gambar Grub2"
+
+#, sh-format
+msgid "hexa|Titre"
+msgstr "hex|Judul"
+
+#, sh-format
+msgid "Couleur texte"
+msgstr "Warna teks"
+
+#, sh-format
+msgid "Couleur fond"
+msgstr "Warna teks background"
+
+#, sh-format
+msgid "Couleur texte sélectionné"
+msgstr "Warna teks terpilih"
+
+#, sh-format
+msgid "Couleur fond sélectionné"
+msgstr "Warna background teks terpilih"
+
+#, sh-format
+msgid "Erreur: impossible de détecter Type:PNG dans votre sélection."
+msgstr "Error: Tidak bisa mendeteksi Type:PNG."
+
+#, sh-format
+msgid "Erreur: impossible de convertir en 640x480."
+msgstr "Error: Tidak bisa mengkonversi ke 640x480."
+
+#, sh-format
+msgid "Erreur: MultiSystem est déjà installé."
+msgstr "Error: MultiSystem sudah terinstall"
+
+#, sh-format
+msgid "Erreur: MultiSystem doit être installé depuis le dossier: /tmp/multisystem/multisystem."
+msgstr "Error: MultiSystem sudah terinstall dari: /tmp/multisystem/multisystem."
+
+#, sh-format
+msgid "Erreur: Installation doit être lancé en sudo user."
+msgstr "Error: Instalasi harus dengan sudo."
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Buat peluncur di Menu:/Applications/Accessories/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem LiveUSB"
+msgstr "Set peluncur MultiSystem di\\nMenu: /Applications/Accessories/MultiSystem LiveUSB"
+
+#, sh-format
+msgid "Dorénavant pour lancer le script veuillez utiliser\\nle Menu: /Applications/Accessoires/MultiSystem."
+msgstr "Mulai dari sekarang, untuk menjalankan skrip, gunakan\\nMenu: /Applications/Accessories/MultiSystem."
+
+#, sh-format
+msgid "Qemu nécéssite les droits d\\047administrateur"
+msgstr "Qemu memerlukan hak adminsitratif"
+
+#, sh-format
+msgid "Démarrer Qemu CLE_USB:"
+msgstr "Jalankan Qemu CLE_USB:"
+
+#, sh-format
+msgid "installation de qemu"
+msgstr "Install qemu"
+
+#, sh-format
+msgid "Compile et met en place kqemu (acceleration)"
+msgstr "Kompil dan setup kqemu (akselerasi)"
+
+#, sh-format
+msgid "Espace ram disponible: "
+msgstr "RAM tersedia: "
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:$RAM_LIBRE souhaité:256 Mio"
+msgstr "Error: RAM tersedia tidak cukup:$RAM_LIBRE dibutuhkan:256 MiB"
+
+#, sh-format
+msgid "Démarrer qemu pour vérification de boot"
+msgstr "Luncurkan Qemu untuk berifikasi boot"
+
+#, sh-format
+msgid "Erreur: Désinstaller n\\047est disponible que si MultiSystem est installé."
+msgstr "Error: Uninstall tersedia apabila MultiSystem sudah terinstall."
+
+#, sh-format
+msgid "Erreur: Désinstaller doit être lancé en sudo user."
+msgstr "Erreur: Uninstall harus dengan sudo.."
+
+#, sh-format
+msgid "Choisir l\\047option désirée dans la liste ci-dessous"
+msgstr "Harap pilih opsi dari list berikut"
+
+#, sh-format
+msgid "Fonction à exécuter"
+msgstr "Fungsi untuk dieksekusi"
+
+#, sh-format
+msgid "Confirmez, Supprimer MultiSystem"
+msgstr "Konfirmasi, Uninstall MultiSystem"
+
+#, sh-format
+msgid "Ou Retour accueil"
+msgstr "Atau kembali ke awal"
+
+#, sh-format
+msgid "Désinstallation de MultiSystem éffectuée."
+msgstr "MultiSystem uninstall berhasil."
+
+#, sh-format
+msgid "Erreur: Mise à jour n\\047est disponible que si MultiSystem est installé."
+msgstr "Error: Pembaruan tersedia apabila MultiSystem sudah terinstall."
+
+#, sh-format
+msgid "Erreur: Mise à jour doit être lancé en sudo user."
+msgstr "Error: Pembaruan harus dengan sudo."
+
+#, sh-format
+msgid "Ne pas mettre à jour le script"
+msgstr "Jangan perbarui skrip"
+
+#, sh-format
+msgid "Mettre à jour le script"
+msgstr "Perbarui skrip"
+
+#, sh-format
+msgid "Erreur: impossible de télécharger le fichier version-multisystem.txt"
+msgstr "Error: Tidak bisa mengunduh version-multisystem.txt"
+
+#, sh-format
+msgid "Chercher mise à jour"
+msgstr "Cari pembaruan"
+
+#, sh-format
+msgid "Pas de mise à jour disponible,\\nVous utilisez bien la dernière version du script."
+msgstr "Tidak ada pembaruan."
+
+#, sh-format
+msgid "Erreur:impossible de détecter la version de MultiSystem."
+msgstr "Error:Tidak bisa mendeteksi versi MultiSystem."
+
+#, sh-format
+msgid "Supprimer Plop de Grub/Grub2"
+msgstr "Hapus PLoP dari Grub/Grub2"
+
+#, sh-format
+msgid "Ajouter Plop à Grub/Grub2"
+msgstr "Tambah PLoP dari Grub/Grub2"
+
+#, sh-format
+msgid "Cette interface vous permet d\\047ajouter\\nou de supprimer Plop bootloader\\nde votre gestionnaire de démarrage\\nsi vous utilisez grub ou grub2.\\n\\nPermet de démarrer votre MultiSystem LiveUSB facilement."
+msgstr "Interface ini memungkinkan penambahan     natau menghapus bootloader plop     ndari manajer boot     njika Anda menggunakan grub atau grub2    . n    nMari kita mulai LiveUSB MultiSystem Anda dengan mudah .."
+
+#, sh-format
+msgid "Démarrer votre MultiSystem LiveUSB depuis un Macintel,\\nJe ne dispose pas de Macintel pour tester cete solution,\\net à ce jour pas de retour utilisateur.\\nPostez un retour SVP, si cela marche pour vous...\\nhttp://refit.sourceforge.net/#news"
+msgstr "Boot MultiSystem LiveUSB dari Intel Mac,\\nSolusi ini belum dites,\\ndan belum ada umpan balik.\\nHarap post umpan balik, entah itu berkerja atau tidak...\\nhttp://refit.sourceforge.net/#news"
+
+#, sh-format
+msgid "Télécharger rEFIt"
+msgstr "Unduh rEFIt"
+
+#, sh-format
+msgid "Ajouter au gestionnaire de boot de Windows Vista\\nun menu pour démarrer votre LiveUSB.\\n\\nA faire apres un boot sur vista\\nTéléchargez EasyBCD\\nbrancher votre clé usb\\nlancez EasyBCD\\ncliquez sur le bouton \"Add/Remove Entries\"\\nsélectionnez l\\047onglet linux\\nréglez comme suit:\\nType: grub\\nName: LiveUSB\\nDrive: (sélectionnez la partition 0 de votre clé usb)\\nne cochez pas! \"GRUB isn\\047t installed to the boot sector\"\\ncliquez sur le bouton: \"+ Add Entry\"\\ncliquez sur le bouton: \"Save\"\\nc\\047est fini! .\\nCapture d\\047écran:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nAu prochain démarrage selectionnez LiveUSB,\\nil vous dit de brancher le volume,\\ncliquez sur enter.\\n\\nAutre méthode,\\nAjouter plop bootloader au gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Tambah ke Windows Vista boot manager\\nentri menu untuk memulai LiveUSB.\\n\\nSetelah Vista boot\\nUnduh EasyBCD\\nPasang USB\\njalankan EasyBCD\\nklik di \"Add/Remove Entries\"\\npilih tabulasi Linux\\nset options as:\\nType: GRUB\\nName: LiveUSB\\nDrive: (select partition 0 of your USB key)\\njangan centang! \"GRUB isn\\047t installed to the boot sector\"\\nklik di: \"+ Add Entry\"\\nklik di: \"Save\"\\nAnda berhasil!! .\\nScreenshot:\\nhttp://neosmart.net/gallery/v/neosmart/EasyBCD/1_70/Add-Remove+Entries+-+Linux.png.html\\nBoot selanjutnya, pilih LiveUSB,\\nanda akan diminta untuk memasukan volume,\\nklik enter.\\n\\nMetode lain,\\nTambah plop bootloader ke Windows Vista boot manager\\nsee: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Télécharger EasyBCD"
+msgstr "Unduh EasyBCD"
+
+#, sh-format
+msgid "Ajouter plop bootloader\\nau gestionnaire de démarrage de windows vista\\nvoir méthode: http://www.plop.at/en/bootmanager.html#runwin"
+msgstr "Tambah plop bootloader\\nke Windows Vista boot manager\\nlihat: http://www.plop.at/en/bootmanager.html#runwin"
+
+#, sh-format
+msgid "Ajouter plop Bootloader à Windows XP"
+msgstr "Tambah plop Bootloader ke Windows XP"
+
+#, sh-format
+msgid "Patience modification du ramdisk en cours..."
+msgstr "Modifikasi ramdisk dalam proses, harap tunggu..."
+
+#, sh-format
+msgid "Veuillez graver image du cd\\nChemin: $HOME/cd-boot-liveusb.iso\\n(clic droit, graver sur le disque...)"
+msgstr "Harap bakar CD image\\nTempat: $HOME/cd-boot-liveusb.iso\\n(klik kanan, bakar sebuah cd...)"
+
+#, sh-format
+msgid "(clic droit, graver sur le disque...)"
+msgstr "(klik kanan, bakar sebuah cd...)"
+
+#, sh-format
+msgid "Erreur:"
+msgstr "Error"
+
+#, sh-format
+msgid "Veuillez saisir votre mot de passe d\\047administrateur"
+msgstr "Password admin diperlukan"
+
+#, sh-format
+msgid "Erreurs: fichier de configuration syslinux.cfg non conforme"
+msgstr "Error: syslinux.cfg ftidak valid"
+
+#, sh-format
+msgid "Erreur:pas de mode persistent pour cette distribution"
+msgstr "Erreur:tidak modus tetap untuk ditro ini"
+
+#, sh-format
+msgid "Filtrer"
+msgstr "Penyaring"
+
+#, sh-format
+msgid "Activer persistance overlay"
+msgstr "Aktifkan overlay persistent"
+
+#, sh-format
+msgid "Activer home séparé"
+msgstr "Aktifkan pemisahan home"
+
+#, sh-format
+msgid "Activer encryption des données"
+msgstr "Aktifkan enkripsi data"
+
+#, sh-format
+msgid "Activer persistance home séparé"
+msgstr "Aktifkan pemisahan persistent home"
+
+#, sh-format
+msgid "Erreur: pas suffisament d\\047espace libre:"
+msgstr "Error: ruang bebas tidak cukup:"
+
+#, sh-format
+msgid "Activer encryption des données de home"
+msgstr "Aktifkan enkripsi data Home"
+
+#, sh-format
+msgid "Internationalisation"
+msgstr "Internasionalisasi"
+
+#, sh-format
+msgid "Changer de language"
+msgstr "Ubah bahasa"
+
+#, sh-format
+msgid "Traduire un fichier .po"
+msgstr "menerjemahkan berkas .po"
+
+#, sh-format
+msgid "Patience, opération en cours..."
+msgstr "Operasi dalam proses ..."
+
+#, sh-format
+msgid "Tester dans VirtualBox"
+msgstr "Tes di VirtualBox"
+
+#, sh-format
+msgid "Démarrage"
+msgstr "Boot"
+
+#, sh-format
+msgid "Erreur: pas assez de ram libre disponible:"
+msgstr "Error: RAM tidak cukup:"
+
+#, sh-format
+msgid "Appuyez sur enter pour continuer"
+msgstr "Tekan Enter untuk melanjutkan"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez installer\\nla version non libre de virtualBox"
+msgstr "PERHATIAN!\\nAnda akan menginstall\\nversi non-free dari VirtualBox"
+
+#, sh-format
+msgid "Installer"
+msgstr "Install"
+
+#, sh-format
+msgid "Veuillez remonter la clé usb manuellement"
+msgstr "Harap muat ulang USB anda"
+
+#, sh-format
+msgid "Tester un LiveCD dans VirtualBox"
+msgstr "Coba LiveCD di VirtualBox"
+
+#, sh-format
+msgid "Tester"
+msgstr "Tes"
+
+#, sh-format
+msgid "Ajouter un liveCD"
+msgstr "Tambah LiveCD"
+
+#, sh-format
+msgid "Ouvrir VirtualBox"
+msgstr "Buka VirtualBox"
+
+#, sh-format
+msgid "VBox"
+msgstr "VBox"
+
+#, sh-format
+msgid "Vérifier les mise à jour à chaque lancement"
+msgstr "Cek pembaruan saat mulai"
+
+#, sh-format
+msgid "Éditer le fichier de configuration de syslinux .../syslinux.cfg"
+msgstr "Sunting syslinux .../syslinux.cfg"
+
+#, sh-format
+msgid "Couleur fond écran"
+msgstr "Warna Background"
+
+#, sh-format
+msgid "Couleurs cadre"
+msgstr "Warna Foreground"
+
+#, sh-format
+msgid "Créer"
+msgstr "Buat"
+
+#, sh-format
+msgid "Tester votre liveUSB dans Qemu"
+msgstr "Tes LiveUSB anda di QEMU"
+
+#, sh-format
+msgid "Tester votre liveUSB dans VirtualBox"
+msgstr "Tes LiveUSB anda di VirtualBox"
+
+#, sh-format
+msgid "ATTENTION!\\nVous allez formater\\nle volume amovible:"
+msgstr "PERHATIAN!\\nAnda akan memformat\\nVolume:"
+
+#, sh-format
+msgid "\\nTout son contenu\\nsera définitivement éffacé."
+msgstr "\\nSeluruh konten\\nakan terhapus."
+
+#, sh-format
+msgid "Formater votre clé USB"
+msgstr "Format USB"
+
+#, sh-format
+msgid "Spalsh defaut"
+msgstr "Splash default"
+
+#, sh-format
+msgid "Renversement vertical"
+msgstr "Putar vertikal"
+
+#, sh-format
+msgid "Effacer splash"
+msgstr "Hapus splash"
+
+#, sh-format
+msgid "Renversement horizontal"
+msgstr "Putar Horizontal"
+
+#, sh-format
+msgid "Valeur par defaut"
+msgstr "Default"
+
+#, sh-format
+msgid "Erreur: Veuillez utiliser le gestionnaire de paquets."
+msgstr "Error: Harap gunakan manajemen paket"
+
+#, sh-format
+msgid "Créer un Lanceur dans le Menu:/Applications/Accessoires/MultiSystem"
+msgstr "Buat peluncur di Menu:/Applications/Accessories/MultiSystem"
+
+#, sh-format
+msgid "Mise en place d\\047un lanceur MultiSystem dans\\nle Menu: /Applications/Accessoires/MultiSystem"
+msgstr "Set sebuah peluncur MultiSystem di\\nMenu: /Applications/Accessories/MultiSystem"
+
+#, sh-format
+msgid "Attention vous allez supprimer:"
+msgstr "Anda menghapus:"
+
+#, sh-format
+msgid "Prévenir avant de supprimer"
+msgstr "Tanya sebelum menghapus OS."
+
+#, sh-format
+msgid "Supprimer un système d'exploitation"
+msgstr "Hapus OS"
+
+#, sh-format
+msgid "Erreur vboxusers"
+msgstr "Error vboxusers"
+
+#, sh-format
+msgid "Erreur disk"
+msgstr "Error disk"
+
+#, sh-format
+msgid "Erreur /proc/bus/usb"
+msgstr "Error /proc/bus/usb"
+
+#, sh-format
+msgid "Erreur depôt"
+msgstr "Error handing"
+
+#, sh-format
+msgid "Erreur virtualbox-ose"
+msgstr "Error virtualbox-ose"
+
+#, sh-format
+msgid "Mettre à jour Grub2"
+msgstr "Perbarui Grub2"
+
+#, sh-format
+msgid "Créer CD pour lancer USB"
+msgstr "Buat CD untuk memuat USB"
+
+#, sh-format
+msgid "Une mise à jour de multisystem est disponible"
+msgstr "Sebuah permbaruan tersedia untuk MultiSystem"
+
+#, sh-format
+msgid "Installer VirtualBox"
+msgstr "Install VirtualBox"
+
+#, sh-format
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "Tekan sembarang untuk melanjutkan ..."
+
+#, sh-format
+msgid "Pas de sélection"
+msgstr "Tidak ada pilihan"
+
+#, sh-format
+msgid "Redimensionner"
+msgstr "Ubah ukuran"
+
+#, sh-format
+msgid "Effacer contenu"
+msgstr "Hapus konten"
+
+#, sh-format
+msgid "Attention!"
+msgstr "Peringatan!"
+
+#, sh-format
+msgid "vous allez supprimer le contenu de:"
+msgstr "Anda akan menghapus konten dari:"
+
+#, sh-format
+msgid "Erreur: impossible de monter le volume:"
+msgstr "Error: Tidak bisa memuat volume:"
+
+#, sh-format
+msgid "Redimensionner persistent"
+msgstr "Ubah ukuran persistent"
+
+#, sh-format
+msgid "Déboguer"
+msgstr "Debug"
+
+#, sh-format
+msgid "Patience test en cours..."
+msgstr "Menunggu tes saat ini..."
+
+#, sh-format
+msgid "Erreur: pas suffisament de place libre pour effectuer ce test,"
+msgstr "Error: ruang bebas tidak cukup untuk melakukan tes,"
+
+#, sh-format
+msgid "Attente, appuyez sur enter pour continuer."
+msgstr "Menunggu, tekan Enter"
+
+#, sh-format
+msgid "fdisk -l"
+msgstr "fdisk -l"
+
+#, sh-format
+msgid "parted print"
+msgstr "parted print"
+
+#, sh-format
+msgid "Afficher mbr"
+msgstr "Tampilkan mbr"
+
+#, sh-format
+msgid "udevadm info"
+msgstr "udevadm info"
+
+#, sh-format
+msgid "Version Grub2"
+msgstr "Versi Grub2"
+
+#, sh-format
+msgid "Réparer fat32"
+msgstr "Perbaiki fat32"
+
+#, sh-format
+msgid "Benchmark écriture"
+msgstr "Tulis benchmark"
+
+#, sh-format
+msgid "Benchmark lecture"
+msgstr "Baca benchmark"
+
+#, sh-format
+msgid "Problème de droits sur le fichier,"
+msgstr "Perijinan dari berkas kurang dari 600"
+
+#, sh-format
+msgid "Erreur: Impossible de détecter le depôt liveusb.info"
+msgstr "Error: Tidak bisa mendeteksi handing liveusb.info"
+
+#, sh-format
+msgid "Erreur: pas en root!"
+msgstr "Error: bukan root!"
+
+#, sh-format
+msgid "Erreur: impossible de supprimer:"
+msgstr "Error: Tidak bisa menghapus:"
+
+#, sh-format
+msgid "Erreur: la commande blkid ne fonctionne pas correctement, veuillez relancer votre session."
+msgstr "Error: Perintah blkid tidak berkerja dengan normal, harap ulangi sesi anda."
+
+#, sh-format
+msgid "Erreur: MultiSystem n'accepte pas les espaces dans les label de disques."
+msgstr "Error: MultiSystem tidak menerima ruang di label rekaman."
+
+#, sh-format
+msgid "Ajouter"
+msgstr "Tambah"
+
+#, sh-format
+msgid "Thème Rouge"
+msgstr "Tema merah"
+
+#, sh-format
+msgid "Thème Vert"
+msgstr "Tema hijau"
+
+#, sh-format
+msgid "Thème Bleu"
+msgstr "Tema biru"
+
+#, sh-format
+msgid "  Thème actuel:"
+msgstr " Tema saat ini:"
+
+#, sh-format
+msgid "Erreur: pas de sélection."
+msgstr "Error: tidak ada pilihan."
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier autorun.inf à été modifié, Virus?"
+msgstr "PERINGATAN!\\nautorun.inf telah dimodifikasi, Virus?"
+
+#, sh-format
+msgid "ATTENTION!\\nle fichier multisystem.bat à été modifié, Virus?"
+msgstr "PERINGATAN!\\nmultisystem.bat telah dimodifikasi, Virus?"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers dans votre clé usb"
+msgstr "Tampilkan atau sembunyikan berkas dan folder"
+
+#, sh-format
+msgid "Afficher tous"
+msgstr "Tampilkan semua"
+
+#, sh-format
+msgid "Masquer tous"
+msgstr "Sembunyikan semua"
+
+#, sh-format
+msgid "Contenu de votre clé USB"
+msgstr "konten dari USB flash drive anda:"
+
+#, sh-format
+msgid "Afficher/Masquer des fichiers/dossiers\\nFonctionne uniquement avec Nautilus."
+msgstr "Tampilkan atau Sembunyikan berkasn dan folder\\nHanya di Nautilus."
+
+#, sh-format
+msgid "Installer partie non libre"
+msgstr "menginstall bagian non-free"
+
+#, sh-format
+msgid "Non-Libre"
+msgstr "Non-Free"
+
+#, sh-format
+msgid "Partie Non Libre de MultiSystem"
+msgstr "Bagian MultiSystem Non-Free"
+
+#, sh-format
+msgid "PLoP Boot Manager est un freeware."
+msgstr "PLoP Boot Manager adalah freeware."
+
+#, sh-format
+msgid "Télécharger PLoP Boot Manager"
+msgstr "Unduh PLoP Boot Manager"
+
+#, sh-format
+msgid "Utilisé pour les iso BartPE"
+msgstr "Digunakan untuk BartPE iso"
+
+#, sh-format
+msgid "Télécharger Microsoft Windows Server 2003 SP1"
+msgstr "Unduh Microsoft Windows Server 2003 SP1"
+
+#, sh-format
+msgid "Veuillez installer \\\"PLoP Boot Manager\\\"\\naprès avoir accepté sa licence,\\nPloP est un freeware non libre.\\n\\nInstallation accessible via le menu: Non-libre ==> Installer partie non libre ==> Télécharger PloP Boot Manager"
+msgstr "Harap install \\\"PLOP Boot Manager\\\"\\nsetelah menerima lisensi,\\nPlop adalah perangkat lunak yang tidak bebas.\\n\\nFAsilitas dapat diakses via menu: Non-free ==> Install bagian non-free ==> Unduh Plop Boot Manager"
+
+#, sh-format
+msgid "Erreur: Veuillez installer PloP"
+msgstr "Error: Harap install PloP"
+
+#, sh-format
+msgid "Erreur: veuillez installer les fichiers nécessaire, menu Non-Libre"
+msgstr "Error: Harap install berkas yang diperlukan, menu Non-free"
+
+#, sh-format
+msgid "Utilisé pour démarrer les iso de Windows XP"
+msgstr "Digunakan untuk memuat iso dari Windows XP"
+
+#, sh-format
+msgid "Télécharger firadisk.ima"
+msgstr "Unduh firadisk.ima"
+
+#, sh-format
+msgid "\\<b>\\<big>Veuillez sélectionner le volume USB\\nà utiliser dans la liste ci-dessous.\\n\\<span color='red'>ATTENTION!,\\nGrub2 sera installé dans son mbr.\\</span>\\</big>\\</b>"
+msgstr "\\<b>\\<big>Harap pilih USB volume\\nuntuk menggunakan list ebrikut.\\n\\<span color='red'>PERINGATAN:\\nGrub2 akan diinstall di MBR!\\</span>\\</big>\\</b>"
+
+#, sh-format
+msgid "Cette partie du script est réservé à Ubuntu karmic et lucid"
+msgstr "Bagian skrip ini untuk Ubuntu karmic dan lucid"
+
+#, sh-format
+msgid "Attention! vous allez installer Burg,\\nce logiciel est experimental"
+msgstr "Peringatan! anda akan menginstall Burg,\\nSoftware ini masih percobaan"
+
+#, sh-format
+msgid "Mettre à jour Burg"
+msgstr "Perbarui Burg"
+
+#, sh-format
+msgid "Burg"
+msgstr "Burg"
+
+#, sh-format
+msgid "Thèmes personnels"
+msgstr "Tema personal"
+
+#, sh-format
+msgid "Installer/Mettre Burg à jour (patience)"
+msgstr "Install/Perbarui Burg"
+
+#, sh-format
+msgid "Thème par defaut:"
+msgstr "Tema default:"
+
+#, sh-format
+msgid "Choix du thème à utiliser par defaut"
+msgstr "Memilih tema default untuk digunakan"
+
+#, sh-format
+msgid "Copie en cours..."
+msgstr "Penyalinan dalam proses ..."
+
+#, sh-format
+msgid "Icones personnelles"
+msgstr "Ikon Personal"
+
+#, sh-format
+msgid "Erreur de téléchargement"
+msgstr "Unduhan Error"
+
+#, sh-format
+msgid "Erreur:Un fichier portant le même nom est déjà présent."
+msgstr "Error: Berkas dengan nama yang sama sudah ada."
+
+#, sh-format
+msgid "votre clé USB ne possédait pas de label/étiquette, multisystem viens de corriger cela,\\nveuillez débrancher/rebrancher votre clé USB pour valider ce changement."
+msgstr "USB anda tidak memiliki label, MultiSystem sudah memperbaikinya,\\nPasang kembali USB anda untuk memastikan."
+
+#, sh-format
+msgid "Débranchez/rebranchez votre clé USB car le point de montage ne correspond pas au label!"
+msgstr "Lepaskan / pasang lagi drive USB sebagai mount point yang tidak sama dengan label!"
+
+#, sh-format
+msgid "Faire une donation"
+msgstr "Donasi"
+
+#, sh-format
+msgid "Ne pas faire de donation"
+msgstr "Tidak donasi"
+
+#, sh-format
+msgid "A ce jour MultiSystem est gratuit\\nmais son développement n\\047est pas sans frais!\\nSi vous l\\047utilisez régulièrement\\net que vous souhaitez qu\\047il continue à évoluer,\\nmerci de faire un geste de soutien via paypal.\\n\\npar avance MERCI!\\nFrançois Fabre @frafa"
+msgstr "MultiSystem adalah Freeware\\ntapi pengembangannya tidak gratis!\\nJika anda sering menggunakannya\\ndan ingin memajukan pengembangan,\\nharap donasi via PayPal. \\n\\nTERIMA KASIH!!\\nFrançois Fabre @ frafa"
+
+#, sh-format
+msgid "Double clic pour modifier les noms dans le menu du bootloader."
+msgstr "Double-click entri untuk mengubah nama yang ditampilkan dalam menu bootloader."
+
+#, sh-format
+msgid "Sauvegarde/Restauration"
+msgstr "Backup/Restore"
+
+#, sh-format
+msgid "Sauvegarder"
+msgstr "Backup"
+
+#, sh-format
+msgid "Restaurer"
+msgstr "Restore"
+
+#, sh-format
+msgid "de"
+msgstr "dari"
+
+#, sh-format
+msgid "ATTENTION!\\nla restauration effacera définitivement\\ntout le contenu de:"
+msgstr "Peringatan!\\nrestore secara pemanen akan menghapus\\nseluruh konten:"
+
+#, sh-format
+msgid "Clé USB:"
+msgstr "USB:"
+
+#, sh-format
+msgid "UUID clé USB:"
+msgstr "UUID USB:"
+
+#, sh-format
+msgid "Taille de la clé USB"
+msgstr "Ukuran USB"
+
+#, sh-format
+msgid "Fermer cette fenêtre"
+msgstr "Tutup jendela"
+
+#, sh-format
+msgid "Erreur:Veuillez démarrer multisystem"
+msgstr "Error: Harap mulai MultiSysttem"
+
+#, sh-format
+msgid "Erreur: fichier de sauvegarde déjà présent."
+msgstr "Error: berks backup sudah ada."
+
+#, sh-format
+msgid "Sauvegarde effectuée dans le fichier:"
+msgstr "Backup dibuat di berkas:"
+
+#, sh-format
+msgid "Sélection du fichier de restauration."
+msgstr "Memilih berkas restore."
+
+#, sh-format
+msgid "Erreur: détection impossible du fichier de sauvegarde"
+msgstr "Error: Tidak bisa mencari berkas backup"
+
+#, sh-format
+msgid "Erreur: clé USB trop petite"
+msgstr "Error: Ukuran USB terlalu kecil"
+
+#, sh-format
+msgid "Restauration effectuée,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Restorasi selesai,\\nharap cabut dan pasang kembali USB anda\\nsebelum menjalankan MultiSystem."
+
+#, sh-format
+msgid "Formatage effectué,\\nveuillez débrancher/rebrancher votre clé USB\\navant de relancer multisystem."
+msgstr "Format alat selesai,\\nharap cabut dan pasang kembali USB anda\\nsebelum menjalankan MultiSystem."
+
+#, sh-format
+msgid "Erreur: un logiciel bloque l'utilisation des disques, veuillez le fermer."
+msgstr "Error: Software memblok fungsi perekaman, harap ditutup."
+
+#, sh-format
+msgid "À propos de MultiSystem"
+msgstr "Tentang MultiSystem"
+
+#, sh-format
+msgid "À propos"
+msgstr "Tentang"
+
+#, sh-format
+msgid "Traducteur"
+msgstr "Penerjemah"
+
+#, sh-format
+msgid "MultiSystem recherche des traducteurs,\\nSi vous souhaitez participer,\\nMerci de nous contacter.\\nContact:"
+msgstr "MultiSystem sedang mencari penerjemah!\\nJika anda ingin membantu,\\nhubungi kami.\\nKontak: "
+
+#, sh-format
+msgid "Mise à jour partielle"
+msgstr "Pembaruan parsial"
+
+#, sh-format
+msgid "Ajouter une option de démarrage (cmdline)"
+msgstr "Tambah opsi boot (cmdline)"
+
+#, sh-format
+msgid "Activer les icones dans les menus de gnome ?"
+msgstr "Aktifkan ikon di gnome menus ?"
+
+#, sh-format
+msgid "Device|Marque|Modèle|Taille|Occupé|Libre|bus|driver|mountpoint"
+msgstr "Alat|Merk|Model|UKuran|Terpakai|Bebas|Bus|Driver|Mountpoint"
+
+#, sh-format
+msgid "Erreur: cette iso à servi à démarrer votre PC, il est impossible de la supprimer."
+msgstr "Error: Iso ini digunakan untuk boot PC anda, tidak bisa dihapus."
+
+#, sh-format
+msgid "Position actuelle:"
+msgstr "Posisi Sekarang:"
+
+#, sh-format
+msgid "Utilisez ce bouton si le Glisser/Déposer ne fonctionne pas."
+msgstr "Gunakan tombol ini apabila Drag and Drop tidak berfungsi."
+
+#, sh-format
+msgid "Décochez pour déplacer rapidement les menus, ne pas mettre à jour les bootloader, ATTENTION! cochez lors du dernier déplacement pour mettre à jour les bootloader."
+msgstr "Hapus tanda centang untuk memindahkan item menu dengan cepat. PERHATIAN: Ini tidak memperbarui bootloader! Periksa opsi ini sebelum memperbarui bootloader."
+
+#, sh-format
+msgid "Titre"
+msgstr "Judul"
+
+#, sh-format
+msgid "Veuillez confirmer installation de Grub2 dans le volume:"
+msgstr "Harap konfirmasi instalasi grub2 di volume:"
+
+#, sh-format
+msgid "Erreur: Veuillez supprimer le caractère espace dans le chemin."
+msgstr "Error: Hapus karakter spasi di Tempat."
+
+#, sh-format
+msgid "Retour Accueil"
+msgstr "Kembali"
