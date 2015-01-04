@@ -581,7 +581,7 @@ msgstr "Test"
 
 #, sh-format
 msgid "Ajouter un liveCD"
-msgstr "Vroeg LiveCD toePa"
+msgstr "Voeg LiveCD toe"
 
 #, sh-format
 msgid "Ouvrir VirtualBox"
